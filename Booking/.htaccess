@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /Brareye/Booking/
+
+RewriteRule ^6$ 6.php [L]

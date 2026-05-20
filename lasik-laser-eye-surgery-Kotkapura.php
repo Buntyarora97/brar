@@ -1,0 +1,1536 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laser Eye Surgery in Kotkapura | Safe LASIK Treatment</title>
+    <meta name="description" content="Looking for LASIK eye surgery in Kotkapura? Get advanced laser vision correction to remove glasses safely with expert eye specialists and quick recovery.">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary: #1dd2c3;
+            --secondary: #f17732;
+            --dark: #1a1a1a;
+            --light: #f8f9fa;
+            --white: #ffffff;
+            --gray: #6c757d;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--dark);
+            background-color: var(--light);
+        }
+
+        /* Hero Section */
+        .hero-section {
+            background: linear-gradient(135deg, var(--primary) 0%, #15a396 100%);
+            color: var(--white);
+            padding: 80px 20px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero-section::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="50" cy="50" r="40" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="2"/></svg>') repeat;
+            background-size: 100px;
+            opacity: 0.3;
+        }
+
+        .hero-content {
+            position: relative;
+            z-index: 1;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .hero-content h1 {
+            font-size: 2.8rem;
+            margin-bottom: 20px;
+            font-weight: 700;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .hero-content p {
+            font-size: 1.2rem;
+            margin-bottom: 30px;
+            opacity: 0.95;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background-color: var(--secondary);
+            color: var(--white);
+            padding: 15px 40px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1.1rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(241, 119, 50, 0.4);
+        }
+
+        .cta-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(241, 119, 50, 0.6);
+            background-color: #e56a2a;
+        }
+
+        /* Container */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Section Styles */
+        .section {
+            padding: 60px 0;
+        }
+
+        .section-title {
+            color: var(--primary);
+            font-size: 2.2rem;
+            margin-bottom: 30px;
+            text-align: center;
+            position: relative;
+            padding-bottom: 15px;
+        }
+
+        .section-title::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80px;
+            height: 4px;
+            background-color: var(--secondary);
+            border-radius: 2px;
+        }
+
+        /* Introduction Section */
+        .intro-section {
+            background-color: var(--white);
+        }
+
+        .intro-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 50px;
+            align-items: center;
+            margin-top: 40px;
+        }
+
+        .intro-text {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: #444;
+        }
+
+        .intro-text p {
+            margin-bottom: 20px;
+        }
+
+        .intro-image {
+            position: relative;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        }
+
+        .intro-image img {
+            width: 100%;
+            height: auto;
+            display: block;
+            transition: transform 0.3s ease;
+        }
+
+        .intro-image:hover img {
+            transform: scale(1.05);
+        }
+
+        .image-badge {
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+            background-color: var(--secondary);
+            color: var(--white);
+            padding: 10px 20px;
+            border-radius: 30px;
+            font-weight: 600;
+            font-size: 0.9rem;
+        }
+
+        /* What is LASIK Section */
+        .what-is-lasik {
+            background-color: var(--light);
+        }
+
+        .content-box {
+            background-color: var(--white);
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+            margin-top: 30px;
+            border-left: 5px solid var(--primary);
+        }
+
+        .content-box h3 {
+            color: var(--primary);
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+        }
+
+        .conditions-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .condition-card {
+            background: linear-gradient(135deg, var(--primary) 0%, #17b8a8 100%);
+            color: var(--white);
+            padding: 30px;
+            border-radius: 15px;
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+
+        .condition-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .condition-card h4 {
+            font-size: 1.3rem;
+            margin-bottom: 10px;
+        }
+
+        /* Vision Problems Section */
+        .vision-problems {
+            background-color: var(--white);
+        }
+
+        .problems-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .problem-card {
+            background-color: var(--light);
+            padding: 35px;
+            border-radius: 20px;
+            border-top: 4px solid var(--secondary);
+            transition: all 0.3s ease;
+        }
+
+        .problem-card:hover {
+            box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+            transform: translateY(-5px);
+        }
+
+        .problem-card h3 {
+            color: var(--secondary);
+            font-size: 1.4rem;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .icon {
+            width: 40px;
+            height: 40px;
+            background-color: var(--secondary);
+            color: var(--white);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+        }
+
+        /* Benefits Section */
+        .benefits-section {
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+        }
+
+        .benefits-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .benefit-item {
+            display: flex;
+            gap: 20px;
+            background-color: var(--white);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+            transition: all 0.3s ease;
+        }
+
+        .benefit-item:hover {
+            box-shadow: 0 10px 30px rgba(29, 210, 195, 0.15);
+            border-left: 4px solid var(--primary);
+        }
+
+        .benefit-icon {
+            min-width: 60px;
+            height: 60px;
+            background-color: var(--primary);
+            color: var(--white);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+
+        .benefit-content h3 {
+            color: var(--dark);
+            margin-bottom: 10px;
+            font-size: 1.3rem;
+        }
+
+        .activities-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .activity-tag {
+            background-color: var(--secondary);
+            color: var(--white);
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+        }
+
+        /* Eligibility Section */
+        .eligibility-section {
+            background-color: var(--white);
+        }
+
+        .eligibility-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 50px;
+            margin-top: 40px;
+        }
+
+        .criteria-list {
+            list-style: none;
+        }
+
+        .criteria-list li {
+            padding: 15px 0;
+            border-bottom: 1px solid #eee;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            font-size: 1.1rem;
+        }
+
+        .criteria-list li::before {
+            content: '✓';
+            width: 30px;
+            height: 30px;
+            background-color: var(--primary);
+            color: var(--white);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+
+        .eligibility-image {
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        }
+
+        .eligibility-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .note-box {
+            background-color: rgba(29, 210, 195, 0.1);
+            border-left: 4px solid var(--primary);
+            padding: 20px;
+            margin-top: 30px;
+            border-radius: 0 10px 10px 0;
+        }
+
+        .note-box p {
+            color: #444;
+            font-style: italic;
+        }
+
+        /* Procedure Section */
+        .procedure-section {
+            background-color: var(--light);
+        }
+
+        .steps-container {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 20px;
+            margin-top: 40px;
+        }
+
+        .step-card {
+            background-color: var(--white);
+            padding: 30px 20px;
+            border-radius: 15px;
+            text-align: center;
+            position: relative;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+            transition: all 0.3s ease;
+        }
+
+        .step-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 30px rgba(241, 119, 50, 0.2);
+        }
+
+        .step-number {
+            width: 50px;
+            height: 50px;
+            background-color: var(--secondary);
+            color: var(--white);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin: 0 auto 20px;
+        }
+
+        .step-card h3 {
+            color: var(--secondary);
+            font-size: 1.1rem;
+            margin-bottom: 10px;
+        }
+
+        .step-card p {
+            font-size: 0.95rem;
+            color: var(--gray);
+            line-height: 1.6;
+        }
+
+        /* Recovery Section */
+        .recovery-section {
+            background-color: var(--white);
+        }
+
+        .recovery-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 50px;
+            margin-top: 40px;
+            align-items: center;
+        }
+
+        .symptoms-box {
+            background-color: rgba(241, 119, 50, 0.1);
+            padding: 30px;
+            border-radius: 15px;
+            border-left: 4px solid var(--secondary);
+        }
+
+        .symptoms-box h3 {
+            color: var(--secondary);
+            margin-bottom: 20px;
+        }
+
+        .symptoms-list {
+            list-style: none;
+        }
+
+        .symptoms-list li {
+            padding: 10px 0;
+            padding-left: 30px;
+            position: relative;
+        }
+
+        .symptoms-list li::before {
+            content: '•';
+            color: var(--secondary);
+            font-size: 2rem;
+            position: absolute;
+            left: 0;
+            top: -5px;
+        }
+
+        .precautions-box {
+            background-color: rgba(29, 210, 195, 0.1);
+            padding: 30px;
+            border-radius: 15px;
+            border-left: 4px solid var(--primary);
+        }
+
+        .precautions-box h3 {
+            color: var(--primary);
+            margin-bottom: 20px;
+        }
+
+        .precautions-list {
+            list-style: none;
+        }
+
+        .precautions-list li {
+            padding: 12px 0;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .precautions-list li::before {
+            content: '✓';
+            color: var(--primary);
+            font-weight: bold;
+        }
+
+        .recovery-image {
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        }
+
+        .recovery-image img {
+            width: 100%;
+            height: auto;
+        }
+
+        /* Cost Section */
+        .cost-section {
+            background: linear-gradient(135deg, var(--primary) 0%, #15a396 100%);
+            color: var(--white);
+            text-align: center;
+        }
+
+        .cost-section .section-title {
+            color: var(--white);
+        }
+
+        .cost-section .section-title::after {
+            background-color: var(--white);
+        }
+
+        .cost-range {
+            font-size: 3rem;
+            font-weight: 700;
+            margin: 30px 0;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .cost-factors {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            margin-top: 40px;
+        }
+
+        .factor-card {
+            background-color: rgba(255,255,255,0.2);
+            padding: 25px;
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
+        }
+
+        .factor-card h4 {
+            font-size: 1.1rem;
+            margin-bottom: 10px;
+        }
+
+        /* Types Section */
+        .types-section {
+            background-color: var(--light);
+        }
+
+        .types-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .type-card {
+            background-color: var(--white);
+            padding: 35px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+            border-top: 4px solid var(--primary);
+            transition: all 0.3s ease;
+        }
+
+        .type-card:nth-child(even) {
+            border-top-color: var(--secondary);
+        }
+
+        .type-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.12);
+        }
+
+        .type-card h3 {
+            color: var(--primary);
+            font-size: 1.4rem;
+            margin-bottom: 15px;
+        }
+
+        .type-card:nth-child(even) h3 {
+            color: var(--secondary);
+        }
+
+        /* Why Choose Section */
+        .why-choose {
+            background-color: var(--white);
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .feature-item {
+            text-align: center;
+            padding: 40px 30px;
+            background-color: var(--light);
+            border-radius: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .feature-item:hover {
+            background-color: var(--primary);
+            color: var(--white);
+            transform: translateY(-10px);
+        }
+
+        .feature-icon {
+            width: 80px;
+            height: 80px;
+            background-color: var(--primary);
+            color: var(--white);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            margin: 0 auto 20px;
+            transition: all 0.3s ease;
+        }
+
+        .feature-item:hover .feature-icon {
+            background-color: var(--white);
+            color: var(--primary);
+        }
+
+        .feature-item h3 {
+            font-size: 1.3rem;
+            margin-bottom: 15px;
+        }
+
+        /* CTA Section */
+        .cta-section {
+            background: linear-gradient(135deg, var(--secondary) 0%, #d65f20 100%);
+            color: var(--white);
+            text-align: center;
+            padding: 80px 20px;
+        }
+
+        .cta-section h2 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+
+        .cta-section p {
+            font-size: 1.2rem;
+            margin-bottom: 30px;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .cta-button-white {
+            display: inline-block;
+            background-color: var(--white);
+            color: var(--secondary);
+            padding: 18px 50px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1.2rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        .cta-button-white:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+        }
+
+        /* FAQ Section */
+        .faq-section {
+            background-color: var(--light);
+        }
+
+        .faq-container {
+            max-width: 800px;
+            margin: 40px auto 0;
+        }
+
+        .faq-item {
+            background-color: var(--white);
+            margin-bottom: 20px;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+        }
+
+        .faq-question {
+            padding: 25px 30px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-weight: 600;
+            font-size: 1.1rem;
+            color: var(--dark);
+            transition: all 0.3s ease;
+        }
+
+        .faq-question:hover {
+            color: var(--primary);
+        }
+
+        .faq-question::after {
+            content: '+';
+            font-size: 1.5rem;
+            color: var(--secondary);
+            transition: transform 0.3s ease;
+        }
+
+        .faq-item.active .faq-question::after {
+            transform: rotate(45deg);
+        }
+
+        .faq-answer {
+            padding: 0 30px;
+            max-height: 0;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            color: var(--gray);
+        }
+
+        .faq-item.active .faq-answer {
+            padding: 0 30px 25px;
+            max-height: 200px;
+        }
+
+        /* Contact Section */
+        .contact-section {
+            background-color: var(--white);
+            text-align: center;
+        }
+
+        .contact-info {
+            display: flex;
+            justify-content: center;
+            gap: 50px;
+            margin-top: 40px;
+            flex-wrap: wrap;
+        }
+
+        .contact-item {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            font-size: 1.2rem;
+        }
+
+        .contact-icon {
+            width: 50px;
+            height: 50px;
+            background-color: var(--primary);
+            color: var(--white);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.3rem;
+        }
+
+        .contact-item a {
+            color: var(--dark);
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.3s ease;
+        }
+
+        .contact-item a:hover {
+            color: var(--primary);
+        }
+
+        /* Responsive Design */
+        @media (max-width: 968px) {
+            .intro-content,
+            .eligibility-content,
+            .recovery-content {
+                grid-template-columns: 1fr;
+            }
+
+            .conditions-grid,
+            .problems-grid,
+            .cost-factors,
+            .features-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .steps-container {
+                grid-template-columns: repeat(3, 1fr);
+            }
+
+            .types-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .benefits-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .hero-content h1 {
+                font-size: 2rem;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .conditions-grid,
+            .problems-grid,
+            .cost-factors,
+            .features-grid,
+            .steps-container {
+                grid-template-columns: 1fr;
+            }
+
+            .hero-content h1 {
+                font-size: 1.8rem;
+            }
+
+            .section-title {
+                font-size: 1.8rem;
+            }
+
+            .cost-range {
+                font-size: 2rem;
+            }
+        }
+
+        /* Smooth Scroll */
+        html {
+            scroll-behavior: smooth;
+        }
+
+        /* Animation Classes */
+        .fade-in {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.6s ease;
+        }
+
+        .fade-in.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body>
+
+    <!-- PHP Header Include -->
+    <?php 
+    $currentPage = 'contact';
+    include 'includes/header.php'; 
+    ?>
+
+    <!-- Hero Section -->
+    <section class="hero-section">
+        <div class="hero-content">
+            <h1>LASIK Laser Eye Surgery in Kotkapura</h1>
+            <p>Advanced vision correction technology to help you see clearly without glasses. Safe, quick, and performed by expert eye specialists.</p>
+            <a href="#contact" class="cta-button">Book Consultation</a>
+        </div>
+    </section>
+
+    <!-- Introduction Section -->
+    <section class="section intro-section">
+        <div class="container">
+            <h2 class="section-title">Clear Vision Without Glasses</h2>
+            <div class="intro-content">
+                <div class="intro-text">
+                    <p>Clear vision plays an important role in daily life, whether you are reading, driving, or working on digital screens. Many people in Kotkapura struggle with blurry vision and rely on glasses or contact lenses for years. LASIK laser eye surgery in Kotkapura offers a safe and advanced solution to correct vision and reduce dependence on spectacles.</p>
+                    
+                    <p>LASIK is one of the most popular vision correction procedures performed worldwide. Using modern laser technology, eye specialists reshape the cornea to improve vision accuracy.</p>
+                    
+                    <p>Patients who undergo LASIK surgery in Kotkapura often experience clear vision within a short time after the procedure. The surgery is quick, minimally invasive, and allows patients to return to their daily activities within a few days.</p>
+                    
+                    <p>If you want freedom from glasses and contact lenses, LASIK surgery can be an effective option for achieving long-term vision correction.</p>
+                </div>
+                <div class="intro-image">
+                    <img src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=800&h=600&fit=crop" alt="LASIK Eye Surgery Procedure">
+                    <div class="image-badge">15 Min Procedure</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- What is LASIK Section -->
+    <section class="section what-is-lasik">
+        <div class="container">
+            <h2 class="section-title">What is LASIK Laser Eye Surgery?</h2>
+            <div class="content-box">
+                <h3>Understanding the Procedure</h3>
+                <p style="margin-bottom: 20px; color: #444; line-height: 1.8;">LASIK stands for <strong>Laser-Assisted In Situ Keratomileusis</strong>, a modern laser-based surgical procedure used to correct refractive vision problems.</p>
+                
+                <p style="margin-bottom: 20px; color: #444; line-height: 1.8;">The surgery works by reshaping the cornea so that light entering the eye focuses correctly on the retina. This helps improve vision and reduce dependence on glasses or contact lenses.</p>
+                
+                <p style="color: #444; line-height: 1.8;">The entire procedure usually takes <strong>10 to 15 minutes</strong>, and most patients experience noticeable vision improvement within <strong>24 hours</strong> after surgery. Modern laser technologies make LASIK one of the most accurate and safest vision correction procedures available today.</p>
+            </div>
+
+            <div class="conditions-grid">
+                <div class="condition-card">
+                    <h4>Myopia</h4>
+                    <p>Near-sightedness</p>
+                </div>
+                <div class="condition-card">
+                    <h4>Hyperopia</h4>
+                    <p>Far-sightedness</p>
+                </div>
+                <div class="condition-card">
+                    <h4>Astigmatism</h4>
+                    <p>Irregular cornea shape</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Vision Problems Section -->
+    <section class="section vision-problems">
+        <div class="container">
+            <h2 class="section-title">Common Vision Problems Treated With LASIK</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 20px;">Many people in Kotkapura suffer from refractive errors that affect daily life. LASIK surgery helps correct these problems effectively.</p>
+            
+            <div class="problems-grid">
+                <div class="problem-card">
+                    <h3><span class="icon">1</span> Myopia (Near-Sightedness)</h3>
+                    <p>Myopia makes distant objects appear blurry while nearby objects remain clear. It occurs when the cornea is too curved or the eyeball is longer than normal.</p>
+                    <p style="margin-top: 15px; color: var(--primary); font-weight: 600;">LASIK reshapes the cornea so light focuses correctly on the retina, improving distance vision.</p>
+                </div>
+
+                <div class="problem-card">
+                    <h3><span class="icon">2</span> Hyperopia (Far-Sightedness)</h3>
+                    <p>People with hyperopia can see distant objects clearly but struggle with nearby tasks such as reading.</p>
+                    <p style="margin-top: 15px; color: var(--primary); font-weight: 600;">LASIK surgery corrects the cornea's shape to allow better focusing for close objects.</p>
+                </div>
+
+                <div class="problem-card">
+                    <h3><span class="icon">3</span> Astigmatism</h3>
+                    <p>Astigmatism occurs when the cornea has an irregular shape, causing blurred or distorted vision at all distances.</p>
+                    <p style="margin-top: 15px; color: var(--primary); font-weight: 600;">LASIK smooths the cornea to improve visual clarity and focus.</p>
+                </div>
+            </div>
+
+            <p style="text-align: center; margin-top: 40px; color: #444; font-size: 1.1rem;">Patients experiencing these problems can benefit greatly from <strong>laser eye surgery in Kotkapura</strong> after a detailed eye examination.</p>
+        </div>
+    </section>
+
+    <!-- Benefits Section -->
+    <section class="section benefits-section">
+        <div class="container">
+            <h2 class="section-title">Benefits of LASIK Eye Surgery</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 20px;">LASIK surgery has become extremely popular because of its numerous benefits.</p>
+
+            <div class="benefits-grid">
+                <div class="benefit-item">
+                    <div class="benefit-icon">01</div>
+                    <div class="benefit-content">
+                        <h3>Freedom From Glasses</h3>
+                        <p>One of the biggest advantages of LASIK surgery is the ability to reduce or eliminate dependence on glasses or contact lenses. Many patients achieve 20/20 vision or better after the procedure.</p>
+                    </div>
+                </div>
+
+                <div class="benefit-item">
+                    <div class="benefit-icon">02</div>
+                    <div class="benefit-content">
+                        <h3>Quick and Painless Procedure</h3>
+                        <p>The surgery is very quick and usually takes less than 15 minutes for both eyes. Local anesthetic eye drops are used to ensure the procedure remains comfortable.</p>
+                    </div>
+                </div>
+
+                <div class="benefit-item">
+                    <div class="benefit-icon">03</div>
+                    <div class="benefit-content">
+                        <h3>Fast Recovery</h3>
+                        <p>Most patients notice improved vision within 24 hours and can resume daily activities within 1–2 days.</p>
+                    </div>
+                </div>
+
+                <div class="benefit-item">
+                    <div class="benefit-icon">04</div>
+                    <div class="benefit-content">
+                        <h3>Long-Term Results</h3>
+                        <p>LASIK offers long-lasting vision correction, allowing patients to enjoy clear vision for many years.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="content-box" style="margin-top: 40px;">
+                <h3>Improved Quality of Life</h3>
+                <p style="margin-bottom: 15px;">Patients often report improved confidence and convenience, especially for activities such as:</p>
+                <div class="activities-list">
+                    <span class="activity-tag">Driving</span>
+                    <span class="activity-tag">Sports</span>
+                    <span class="activity-tag">Reading</span>
+                    <span class="activity-tag">Traveling</span>
+                </div>
+                <p style="margin-top: 20px; color: #666;">LASIK surgery is highly effective for correcting refractive errors and helping people achieve clear vision without glasses.</p>
+            </div>
+
+            <div class="note-box">
+                <p><strong>Note:</strong> However, vision problems caused by aging may require different treatments. Patients with age-related vision problems may also benefit from advanced cataract surgery treatments available at our eye hospital. Our experienced eye specialists evaluate each patient carefully to recommend the most suitable treatment.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Eligibility Section -->
+    <section class="section eligibility-section">
+        <div class="container">
+            <h2 class="section-title">Who is Eligible for LASIK Surgery?</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 20px;">Not everyone is suitable for LASIK surgery. A detailed eye examination is necessary to determine eligibility.</p>
+
+            <div class="eligibility-content">
+                <div>
+                    <h3 style="color: var(--primary); margin-bottom: 20px; font-size: 1.5rem;">Ideal Candidate Criteria</h3>
+                    <p style="margin-bottom: 20px; color: #444;">Generally, ideal candidates for LASIK laser eye surgery in Kotkapura meet the following criteria:</p>
+                    
+                    <ul class="criteria-list">
+                        <li>Age above 18 years</li>
+                        <li>Stable eye power for at least one year</li>
+                        <li>Healthy cornea</li>
+                        <li>No severe eye diseases</li>
+                        <li>Not pregnant or breastfeeding</li>
+                    </ul>
+
+                    <p style="margin-top: 30px; color: #444;">Eye specialists perform several diagnostic tests before recommending LASIK treatment. These tests evaluate:</p>
+                    <ul class="criteria-list" style="margin-top: 15px;">
+                        <li>Corneal thickness</li>
+                        <li>Eye power</li>
+                        <li>Corneal curvature</li>
+                        <li>Overall eye health</li>
+                    </ul>
+
+                    <p style="margin-top: 20px; color: #666; font-style: italic;">If LASIK is not suitable, doctors may suggest alternative procedures such as SMILE eye surgery or PRK vision correction.</p>
+                </div>
+
+                <div class="eligibility-image">
+                    <img src="https://images.unsplash.com/photo-1551076805-e1869033e561?w=800&h=600&fit=crop" alt="Eye Examination for LASIK">
+                </div>
+            </div>
+
+            <div class="note-box">
+                <p>Ideal candidates for LASIK surgery usually have stable eye power and healthy corneas. However, a detailed eye examination is always required before the procedure. If you are unsure about your eye health, it is recommended to schedule a comprehensive eye checkup in Kotkapura before considering LASIK surgery. During this examination, the doctor evaluates corneal thickness, eye power, and overall eye health to determine whether LASIK surgery is suitable.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Procedure Section -->
+    <section class="section procedure-section">
+        <div class="container">
+            <h2 class="section-title">LASIK Surgery Procedure – Step by Step</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 20px;">Understanding the LASIK procedure helps patients feel more confident about the treatment.</p>
+
+            <div class="steps-container">
+                <div class="step-card">
+                    <div class="step-number">1</div>
+                    <h3>Pre-LASIK Evaluation</h3>
+                    <p>Detailed eye examination to measure corneal thickness, eye power, corneal mapping, pupil size, and tear film quality.</p>
+                </div>
+
+                <div class="step-card">
+                    <div class="step-number">2</div>
+                    <h3>Eye Preparation</h3>
+                    <p>Numbing eye drops are used to ensure comfort. Patients remain awake but feel no pain.</p>
+                </div>
+
+                <div class="step-card">
+                    <div class="step-number">3</div>
+                    <h3>Corneal Flap Creation</h3>
+                    <p>A thin flap is created on the cornea surface using advanced laser technology.</p>
+                </div>
+
+                <div class="step-card">
+                    <div class="step-number">4</div>
+                    <h3>Laser Vision Correction</h3>
+                    <p>Excimer laser reshapes the cornea according to the patient's eye power in just a few seconds.</p>
+                </div>
+
+                <div class="step-card">
+                    <div class="step-number">5</div>
+                    <h3>Flap Repositioning</h3>
+                    <p>The flap is placed back and heals naturally without stitches.</p>
+                </div>
+            </div>
+
+            <p style="text-align: center; margin-top: 40px; color: #444; font-size: 1.1rem;">The entire LASIK procedure is <strong>quick, precise, and highly effective</strong>.</p>
+        </div>
+    </section>
+
+    <!-- Recovery Section -->
+    <section class="section recovery-section">
+        <div class="container">
+            <h2 class="section-title">Recovery After LASIK Surgery</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 20px;">Recovery from LASIK surgery is generally smooth and fast.</p>
+
+            <div class="recovery-content">
+                <div>
+                    <div class="symptoms-box">
+                        <h3>Temporary Symptoms</h3>
+                        <p style="margin-bottom: 15px;">Patients may experience temporary symptoms such as:</p>
+                        <ul class="symptoms-list">
+                            <li>Mild irritation</li>
+                            <li>Watery eyes</li>
+                            <li>Sensitivity to light</li>
+                            <li>Slight blurred vision</li>
+                        </ul>
+                        <p style="margin-top: 15px; color: #666;">These symptoms usually improve within 24 to 48 hours.</p>
+                    </div>
+
+                    <div class="precautions-box" style="margin-top: 30px;">
+                        <h3>Recommended Precautions</h3>
+                        <ul class="precautions-list">
+                            <li>Avoid rubbing your eyes</li>
+                            <li>Use prescribed eye drops regularly</li>
+                            <li>Avoid swimming for a few weeks</li>
+                            <li>Wear protective glasses if advised</li>
+                            <li>Attend follow-up checkups</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="recovery-image">
+                    <img src="https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=800&h=600&fit=crop" alt="LASIK Recovery">
+                    <div style="background-color: var(--primary); color: white; padding: 20px; text-align: center;">
+                        <h3 style="margin-bottom: 10px;">Quick Recovery</h3>
+                        <p>Most patients return to work within 1–2 days after LASIK surgery.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Cost Section -->
+    <section class="section cost-section">
+        <div class="container">
+            <h2 class="section-title">LASIK Surgery Cost in Kotkapura</h2>
+            <p style="margin-bottom: 30px;">The cost of LASIK surgery in Kotkapura may vary depending on several factors.</p>
+
+            <div class="cost-range">₹25,000 - ₹80,000</div>
+            <p style="font-size: 1.2rem; margin-bottom: 40px;">for both eyes</p>
+
+            <div class="cost-factors">
+                <div class="factor-card">
+                    <h4>Technology Used</h4>
+                    <p>Advanced laser systems</p>
+                </div>
+                <div class="factor-card">
+                    <h4>Surgeon's Experience</h4>
+                    <p>Expert specialists</p>
+                </div>
+                <div class="factor-card">
+                    <h4>Hospital Facilities</h4>
+                    <p>Modern equipment</p>
+                </div>
+                <div class="factor-card">
+                    <h4>Type of LASIK</h4>
+                    <p>Traditional/Femto/Contoura</p>
+                </div>
+            </div>
+
+            <p style="margin-top: 40px; font-size: 1.1rem;">Advanced procedures such as Femto LASIK or Contoura Vision may cost slightly higher due to improved accuracy and technology.</p>
+            <p style="margin-top: 15px; font-size: 1.1rem;">Consulting an experienced eye specialist is the best way to understand the exact cost and suitable treatment options.</p>
+        </div>
+    </section>
+
+    <!-- Types Section -->
+    <section class="section types-section">
+        <div class="container">
+            <h2 class="section-title">Types of LASIK Surgery Available</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 20px;">Modern eye hospitals offer different types of LASIK procedures.</p>
+
+            <div class="types-grid">
+                <div class="type-card">
+                    <h3>Traditional LASIK</h3>
+                    <p>This is the most commonly performed LASIK procedure used to correct refractive errors. It uses a microkeratome blade to create the corneal flap.</p>
+                </div>
+
+                <div class="type-card">
+                    <h3>Femto LASIK</h3>
+                    <p>Femto LASIK uses a femtosecond laser to create the corneal flap instead of a blade. It improves safety and precision significantly.</p>
+                </div>
+
+                <div class="type-card">
+                    <h3>Contoura Vision LASIK</h3>
+                    <p>Contoura Vision is one of the most advanced LASIK technologies that provides highly personalized vision correction. It maps the cornea in great detail, helping achieve better visual clarity.</p>
+                </div>
+
+                <div class="type-card">
+                    <h3>SMILE Eye Surgery</h3>
+                    <p>SMILE is another advanced laser vision correction technique that involves a smaller incision and faster healing. It is flapless and minimally invasive.</p>
+                </div>
+            </div>
+
+            <p style="text-align: center; margin-top: 40px; color: #444; font-size: 1.1rem;">Doctors recommend the most suitable procedure based on the patient's eye condition.</p>
+        </div>
+    </section>
+
+    <!-- Why Choose Section -->
+    <section class="section why-choose">
+        <div class="container">
+            <h2 class="section-title">Why Choose a Trusted Eye Hospital for LASIK in Kotkapura?</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 20px;">Choosing the right hospital is essential for achieving safe and effective results.</p>
+
+            <div class="features-grid">
+                <div class="feature-item">
+                    <div class="feature-icon">👨‍⚕️</div>
+                    <h3>Experienced Eye Surgeons</h3>
+                    <p>Highly qualified specialists with years of experience in vision correction procedures.</p>
+                </div>
+
+                <div class="feature-item">
+                    <div class="feature-icon">🔬</div>
+                    <h3>Advanced Laser Technology</h3>
+                    <p>State-of-the-art equipment for precise and safe surgical procedures.</p>
+                </div>
+
+                <div class="feature-item">
+                    <div class="feature-icon">🔍</div>
+                    <h3>Modern Diagnostic Equipment</h3>
+                    <p>Comprehensive testing facilities for accurate pre-operative evaluation.</p>
+                </div>
+
+                <div class="feature-item">
+                    <div class="feature-icon">📋</div>
+                    <h3>Personalized Treatment Plans</h3>
+                    <p>Customized approach based on individual eye conditions and requirements.</p>
+                </div>
+
+                <div class="feature-item">
+                    <div class="feature-icon">🛡️</div>
+                    <h3>High Safety Standards</h3>
+                    <p>Strict protocols and sterile environment ensuring patient safety.</p>
+                </div>
+
+                <div class="feature-item">
+                    <div class="feature-icon">⭐</div>
+                    <h3>Strong Reputation</h3>
+                    <p>Trusted by thousands of patients for laser eye surgery and vision correction.</p>
+                </div>
+            </div>
+
+            <p style="text-align: center; margin-top: 40px; color: #444; font-size: 1.1rem;">Patients should always choose a hospital with a strong reputation in laser eye surgery and vision correction treatments.</p>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section" id="contact">
+        <div class="container">
+            <h2>Book Your LASIK Consultation in Kotkapura</h2>
+            <p>If you want to enjoy clear vision without glasses or contact lenses, LASIK laser eye surgery in Kotkapura could be the ideal solution.</p>
+            <p>Consult an experienced eye specialist today to determine whether LASIK is suitable for your eyes. With advanced technology and expert care, LASIK can help you achieve clear, comfortable, and long-lasting vision.</p>
+            <a href="tel:+917218272182" class="cta-button-white">Call Now: +91 72182-72182</a>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="section faq-section">
+        <div class="container">
+            <h2 class="section-title">Frequently Asked Questions</h2>
+
+            <div class="faq-container">
+                <div class="faq-item">
+                    <div class="faq-question">Is LASIK surgery safe?</div>
+                    <div class="faq-answer">
+                        <p>Yes, LASIK is considered one of the safest and most successful vision correction procedures when performed by experienced eye surgeons. Millions of procedures have been performed worldwide with excellent safety records.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">How long does LASIK surgery take?</div>
+                    <div class="faq-answer">
+                        <p>The entire procedure usually takes 10–15 minutes for both eyes. The actual laser treatment time is typically less than a minute per eye.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">Is LASIK surgery painful?</div>
+                    <div class="faq-answer">
+                        <p>No. Numbing eye drops are used during the procedure, so patients do not feel pain. You may feel slight pressure during the creation of the corneal flap, but it is not painful.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">How soon can I see clearly after LASIK?</div>
+                    <div class="faq-answer">
+                        <p>Most patients notice improved vision within 24 hours after surgery. Vision continues to stabilize and improve over the following days and weeks.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">Can LASIK permanently remove glasses?</div>
+                    <div class="faq-answer">
+                        <p>In many cases, LASIK significantly reduces or completely eliminates the need for glasses. Most patients achieve 20/20 vision or better and can perform daily activities without corrective eyewear.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="section contact-section">
+        <div class="container">
+            <h2 class="section-title">Contact Us</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 30px;">Ready to transform your vision? Get in touch with us today.</p>
+
+            <div class="contact-info">
+                <div class="contact-item">
+                    <div class="contact-icon">📞</div>
+                    <a href="tel:+917218272182">+91 72182-72182</a>
+                </div>
+                <div class="contact-item">
+                    <div class="contact-icon">🌐</div>
+                    <a href="https://www.brareyehospital.com" target="_blank">www.brareyehospital.com</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalBusiness",
+      "name": "Brar Eye Hospital",
+      "url": "https://www.brareyehospital.com",
+      "logo": "https://www.brareyehospital.com/logo.png",
+      "image": "https://www.brareyehospital.com/hospital.jpg",
+      "description": "Brar Eye Hospital provides advanced eye care treatments including LASIK, SMILE Pro surgery, cataract surgery and complete ophthalmology services in Bathinda and KotKapura.",
+      "telephone": "+91 7218272182",
+      "email": "brareyehospitals@gmail.com",
+      "priceRange": "$$",
+      
+      "sameAs": [
+        "https://www.facebook.com/",
+        "https://www.instagram.com/"
+      ],
+
+      "address": [
+        {
+          "@type": "PostalAddress",
+          "streetAddress": "Near Rose Garden Chowk, GT Road",
+          "addressLocality": "Bathinda",
+          "addressRegion": "Punjab",
+          "postalCode": "151001",
+          "addressCountry": "IN"
+        },
+        {
+          "@type": "PostalAddress",
+          "streetAddress": "Faridkot Rd",
+          "addressLocality": "KotKapura",
+          "addressRegion": "Punjab",
+          "postalCode": "151204",
+          "addressCountry": "IN"
+        }
+      ],
+
+      "geo": [
+        {
+          "@type": "GeoCoordinates",
+          "latitude": "30.2110",
+          "longitude": "74.9455"
+        },
+        {
+          "@type": "GeoCoordinates",
+          "latitude": "30.5810",
+          "longitude": "74.8190"
+        }
+      ],
+
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Bathinda"
+        },
+        {
+          "@type": "City",
+          "name": "KotKapura"
+        },
+        {
+          "@type": "State",
+          "name": "Punjab"
+        },
+        {
+          "@type": "Country",
+          "name": "India"
+        }
+      ]
+    }
+    </script>
+
+    <!-- FAQ Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is LASIK surgery safe?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, LASIK is considered one of the safest and most successful vision correction procedures when performed by experienced eye surgeons."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does LASIK surgery take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The entire procedure usually takes 10–15 minutes for both eyes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LASIK surgery painful?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Numbing eye drops are used during the procedure, so patients do not feel pain."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How soon can I see clearly after LASIK?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most patients notice improved vision within 24 hours after surgery."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can LASIK permanently remove glasses?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In many cases, LASIK significantly reduces or completely eliminates the need for glasses."
+          }
+        }
+      ]
+    }
+    </script>
+
+    <!-- PHP Footer Include -->
+    <?php include 'includes/footer.php'; ?>
+
+    <script>
+        // FAQ Accordion
+        document.querySelectorAll('.faq-question').forEach(question => {
+            question.addEventListener('click', () => {
+                const item = question.parentElement;
+                const isActive = item.classList.contains('active');
+                
+                // Close all items
+                document.querySelectorAll('.faq-item').forEach(faq => {
+                    faq.classList.remove('active');
+                });
+                
+                // Open clicked item if it wasn't active
+                if (!isActive) {
+                    item.classList.add('active');
+                }
+            });
+        });
+
+        // Smooth scroll for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Fade in animation on scroll
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.section').forEach(section => {
+            section.classList.add('fade-in');
+            observer.observe(section);
+        });
+    </script>
+</body>
+</html>

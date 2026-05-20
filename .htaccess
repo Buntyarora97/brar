@@ -1,0 +1,29 @@
+# Enable Rewrite Engine
+RewriteEngine On
+
+# Force HTTPS + WWW
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} !^www\.brareyehospital\.com$ [NC]
+RewriteRule ^(.*)$ https://www.brareyehospital.com/$1 [L,R=301]
+
+# Block Spam / Hacked URLs
+RewriteRule ^can-vessel-z7 - [F]
+RewriteRule ^choisissez-pratiquer - [F]
+RewriteRule ^zhHant - [F]
+RewriteRule ^product/edit - [F]
+RewriteRule ^safe_search - [F]
+RewriteRule ^cgi-bin - [F]
+RewriteRule ^typeorm- - [F]
+RewriteRule ^pcmypage - [F]
+RewriteRule ^.*\.shtml$ - [F]
+
+# Disable Directory Browsing
+Options -Indexes
+
+# Default index
+DirectoryIndex index.php index.html
+
+# Core PHP Routing (IMPORTANT - Keep at Bottom)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [L]

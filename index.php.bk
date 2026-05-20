@@ -1,0 +1,1605 @@
+<?php
+// index.php
+
+$pageTitle = "Best Eye Hospital in Bathinda | Eye Care Multispeciality with SmilePro";
+$pageDescription = "Brar Eye Hospital is the leading Eye Superspeciality Hospital in Bathinda offering advanced eye surgeries including SMILE Pro, LASIK, and Cataract.";
+$pageKeywords = "Eye Hospital Bathinda, SmilePro LASIK, Cataract Surgery Bathinda , Eye surgeon in Bathinda, SMILE Pro machine, eye checkup Bathinda ";
+
+include('header.php');
+?>
+
+
+<!-- banner-section with video background -->
+<section class="banner-section p_relative">
+  <!-- Background Video -->
+  <style>
+  .bg-video {
+    position: fixed;  /* ya absolute depending on your layout */
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    z-index: -1;
+  }
+
+  /* Mobile devices */
+  @media (max-width: 767px) {
+    .bg-video {
+      height: auto;
+      min-height: 100vh;
+      width: 100vw;
+      object-fit: cover;
+    }
+  }
+
+  /* Tablet devices */
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .bg-video {
+      height: 100vh;
+      width: 100vw;
+      object-fit: cover;
+    }
+  }
+</style>
+
+<video autoplay muted loop playsinline class="bg-video">
+  <source src="assets/images/background/23.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+  <!-- Overlay (optional for dark effect) -->
+  <div class="video-overlay"></div>
+
+  <!-- Carousel Content -->
+  <div class="banner-carousel owl-theme owl-carousel owl-dots-none">
+    <!-- Slide 1 -->
+    <div class="slide-item p_relative">
+      <div class="auto-container">
+        <div class="banner-content p_relative d_block">
+          <div class="content-box p_relative d_block z_5">
+          <h1 style="color: #fff;"> Brar Eye Hospital – Eye Superspeciality in Punjab</h1>
+          <h2 style="color: #fff;" class="p_relative d_block fs_70 lh_80 fw_bold">
+           Brar Eye Hospital for Every Generation
+          </h2>
+          <p style="color: #fff;" class="p_relative d_block fs_18">
+            At Brar Eye Hospital, we offer cutting-edge eye treatments
+            with compassion, precision, and a patient-first approach in Bathinda and KotKapura.
+          </p>
+            <div class="btn-box">
+              <a href="contact-brar-eye-hospital-bathinda.php" class="theme-btn btn-one">Contact Now</a>
+            </div>
+            <ul class="icon-list clearfix">
+              <li><i class="icon-8"></i></li>
+              <li><i class="icon-9"></i></li>
+              <li><i class="icon-10"></i></li>
+              <li><i class="icon-11"></i></li>
+            </ul>
+          </div>
+          <div class="image-box">
+            <figure class="image">
+              <img src="assets/images/banner/banner2st.png" alt="Brareye Hospital Eye Care">
+            </figure>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 2 -->
+    <div class="slide-item p_relative">
+      <div class="auto-container">
+        <div class="banner-content p_relative d_block">
+          <div class="content-box p_relative d_block z_5">
+          <h3 style="color: #fff;">State-of-the-Art Facilities</h3>
+<h2 style="color: #fff;" class="p_relative d_block fs_70 lh_80 fw_bold">
+  Modern Eye Surgeries & Laser Treatments
+</h2>
+<p style="color: #fff;" class="p_relative d_block fs_18">
+  From cataract surgery to LASIK, Brar Eye Hospital combines
+  technology with expertise to restore your vision safely and effectively.
+</p>
+
+            <div class="btn-box">
+              <a href="contact-brar-eye-hospital-bathinda.php" class="theme-btn btn-one">Book an Appointment</a>
+            </div>
+            <ul class="icon-list clearfix">
+              <li><i class="icon-8"></i></li>
+              <li><i class="icon-9"></i></li>
+              <li><i class="icon-10"></i></li>
+              <li><i class="icon-11"></i></li>
+            </ul>
+          </div>
+          <div class="image-box style-two">
+            <figure class="image" style=" margin-bottom: -86px;">
+            <img src="assets/images/banner/22.png" alt="Eye Surgery at Brareye Hospital">
+
+            </figure>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 3 -->
+    <div class="slide-item p_relative">
+      <div class="auto-container">
+        <div class="banner-content p_relative d_block">
+          <div class="content-box p_relative d_block z_5">
+          <h3 style="color: #fff;">Serving North India, based in Punjab</h3>
+<h2 style="color: #fff;" class="p_relative d_block fs_70 lh_80 fw_bold">
+  Your Vision, Our Mission
+</h2>
+<p style="color: #fff;" class="p_relative d_block fs_18">
+  We are committed to delivering excellence in eye care with
+  skilled doctors, advanced tools, and a caring environment across both our locations.
+</p>
+
+            <div class="btn-box">
+              <a href="contact-brar-eye-hospital-bathinda.php" class="theme-btn btn-one">Visit Us Today</a>
+            </div>
+            <ul class="icon-list clearfix">
+              <li><i class="icon-8"></i></li>
+              <li><i class="icon-9"></i></li>
+              <li><i class="icon-10"></i></li>
+              <li><i class="icon-11"></i></li>
+            </ul>
+          </div>
+          <div class="image-box style-three">
+          <figure class="image" style=" margin-bottom: -166px;">
+  <img src="assets/images/banner/banner3.png" alt="Brareye Hospital Kot Kapura">
+</figure>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CSS -->
+
+
+<!-- banner-section end -->
+
+<style>
+@media (max-width: 768px) {
+  .banner-section {
+    min-height: 100vh;
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .banner-content {
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .banner-content .content-box,
+  .banner-content .image-box {
+    width: 100%;
+    flex: 1 1 100%;
+  }
+
+  .banner-content .image-box img {
+    max-width: 90%;
+    height: auto;
+    margin: 20px auto 0;
+  }
+
+  .fs_70 {
+    font-size: 28px !important;
+  }
+
+  .lh_80 {
+    line-height: 38px !important;
+  }
+
+  .fs_18 {
+    font-size: 16px !important;
+  }
+
+  .theme-btn.btn-one {
+    padding: 10px 22px;
+    font-size: 14px;
+  }
+
+  .icon-list {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+  }
+
+  .video-overlay {
+    background: rgba(0, 0, 0, 0.6); /* darken more for mobile text readability */
+  }
+}
+
+.google-map-section {
+  position: relative;
+  padding: 50px 0;
+}
+
+.google-map-section .map-inner iframe {
+  width: 100%;
+  max-width: 100%;
+  height: 500px;
+  border: none;
+  display: block;
+}
+
+/* Responsive layout for content */
+@media (max-width: 768px) {
+  .google-map-section {
+    padding: 30px 15px;
+  }
+
+  .google-map-section .content-inner {
+    padding-top: 30px;
+  }
+
+  .google-map-section .content-box {
+    text-align: center;
+  }
+
+  .google-map-section .title h3,
+  .google-map-section .contact-info h3 {
+    font-size: 22px;
+  }
+
+  .google-map-section .schedule-list li,
+  .google-map-section .info-list li {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  .google-map-section .info-list li a {
+    display: inline-block;
+    word-break: break-word;
+  }
+}
+
+
+
+
+  .row.clearfix {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0px;
+  }
+
+  .feature-block {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 100%;
+  }
+
+  .feature-block-one {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-width: 300px;
+    width: 100%;
+  }
+
+  .feature-block-one .inner-box {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 20px;
+    height: 100%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease;
+  }
+
+  .feature-block-one .inner-box:hover {
+    transform: translateY(-5px);
+  }
+
+  .feature-block-one h3 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+  }
+
+  .feature-block-one p {
+    margin-top: auto;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  /* Banner section */
+  .banner-section {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .bg-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+    z-index: 0;
+  }
+
+  .video-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+  }
+
+  .banner-carousel,
+  .banner-content,
+  .slide-item {
+    position: relative;
+    z-index: 2;
+  }
+
+  /* Responsive styles */
+  @media (max-width: 768px) {
+    .feature-block {
+      flex-direction: column;
+    }
+
+    .feature-block-one {
+      width: 100%;
+    }
+
+    .feature-block-one h3 {
+      font-size: 1.3rem;
+    }
+
+    .feature-block-one p {
+      font-size: 0.95rem;
+    }
+
+    .feature-block-one .inner-box {
+      padding: 15px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .feature-block-one h3 {
+      font-size: 1.1rem;
+    }
+
+    .feature-block-one p {
+      font-size: 0.9rem;
+    }
+
+    .feature-block-one .inner-box {
+      padding: 12px;
+    }
+  }
+</style>
+
+
+<!-- feature-section -->
+<section class="feature-section p_relative">
+    <div class="auto-container">
+        <div class="inner-container p_relative d_block">
+            <div class="shape-layer" style="background-image: url(assets/images/shape/shape-17.png);"></div>
+            <div class="title-box p_relative d_block centred">
+                <h2>Why Choose Brar Eye Hospital</h2>
+                <p>Trusted leaders in advanced and compassionate eye care for over two decades.</p>
+            </div>
+            <div class="row clearfix">
+                <div class="col-lg-3 col-md-6 col-sm-12 feature-block">
+                    <div class="feature-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
+                        <div class="inner-box p_relative d_block">
+                            <div class="icon-box p_relative d_block"><i class="icon-12"></i></div>
+                            <h3><a>Advanced LASIK & SMILE Pro</a></h3>
+                          <p>Our Advanced LASIK and SMILE Pro procedures use the latest bladeless and flapless technology to correct vision with unmatched precision, minimal discomfort, and quick recovery time.</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 feature-block">
+                    <div class="feature-block-one wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
+                        <div class="inner-box p_relative d_block">
+                            <div class="icon-box p_relative d_block"><i class="icon-13"></i></div>
+                            <h3><a>Pediatric Eye Care</a></h3>
+                       <p>We provide specialized eye care for children, including treatment for squint, lazy eye (amblyopia), and other pediatric conditions, ensuring healthy vision from an early age.</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 feature-block">
+                    <div class="feature-block-one wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
+                        <div class="inner-box p_relative d_block">
+                            <div class="icon-box p_relative d_block"><i class="icon-14"></i></div>
+                            <h3><a>Retina & Glaucoma Services</a></h3>
+                          <p>We offer expert diagnosis and treatment for retinal diseases and glaucoma using advanced imaging and laser technologies to preserve vision and prevent long-term damage.</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 feature-block">
+                    <div class="feature-block-one wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
+                        <div class="inner-box p_relative d_block">
+                            <div class="icon-box p_relative d_block"><i class="icon-15"></i></div>
+                            <h3><a>Emergency & Trauma Care</a></h3>
+                          <p>We provide 24/7 emergency and trauma care for all types of eye injuries, ensuring prompt treatment and expert attention to protect your vision in critical situations.</p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section><br><br>
+
+    <!-- Full-Width Image Banner -->
+<div class="emi-image-banner">
+  <img src="emi-banner.jpg" alt="EMI Banner" />
+</div>
+
+<style>
+.emi-image-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+</style>
+
+        <!-- contact-style-two -->
+    <section class="contact-style-two p_relative">
+        <div class="pattern-layer">
+            <div class="pattern-1" style="background-image: url(assets/images/shape/shape-55.png);"></div>
+            <div class="pattern-2" style="background-image: url(assets/images/shape/shape-56.png);"></div>
+        </div>
+        <div class="auto-container">
+            <div class="row clearfix">
+                <div class="col-lg-8 col-md-12 col-sm-12 big-column offset-lg-2">
+                    <div class="form-inner">
+                        <h2>Book an Appointment</h2>
+                        
+                        <?php if(isset($_GET['success']) && $_GET['success'] == '1'): ?>
+                        <div class="alert alert-success" style="background-color: #dff0d8; color: #3c763d; padding: 15px; margin-bottom: 20px; border: 1px solid #d6e9c6; border-radius: 4px;">
+                            Your message has been sent successfully. We will contact you shortly.
+                        </div>
+                        <?php endif; ?>
+                        
+                        <?php if(isset($_GET['error']) && $_GET['error'] == '1'): ?>
+                        <div class="alert alert-danger" style="background-color: #f2dede; color: #a94442; padding: 15px; margin-bottom: 20px; border: 1px solid #ebccd1; border-radius: 4px;">
+                            There was an error sending your message. Please try again later.
+                        </div>
+                        <?php endif; ?>
+                        
+                        <form method="post" action="final-contact-form-solution.php" id="contact-form"> 
+                            <div class="row clearfix">
+                                <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                    <input type="text" name="username" placeholder="Your Name" required>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                    <input type="email" name="email" placeholder="Your Email" required>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                    <input type="text" name="phone" placeholder="Phone" required>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                    <input type="text" name="subject" placeholder="Subject" required>
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group">
+                                    <textarea name="message" placeholder="Message" required></textarea>
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group message-btn mr-0 centred">
+                                    <button class="theme-btn btn-one" type="submit" name="submit-form">Submit Now</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- contact-style-two end -->
+    <!-- contact-style-two end -->
+<!-- booking-form-section end -->
+
+
+
+
+<!-- about-section -->
+<section class="about-section">
+    <div class="auto-container">
+        <div class="row clearfix">
+            <!-- Image Section -->
+            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                <div class="image_block_one">
+                    <div class="image-box mr_30 pr_130 pb_100">
+                        <div class="shape" style="background-image: url(assets/images/shape/shape-1.png);"></div>
+                        <figure class="image"><img src="assets/images/resource/12.png" alt="Eye surgeon in Bathinda"></figure>
+                        <div class="text p_absolute r_0 b_0">
+                            <h2>25+</h2>
+                            <h4>Years of Excellence in Eye Care</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Content Section -->
+            <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                <div class="content_block_one">
+                    <div class="content-box ml_30">
+                        <div class="sec-title left p_relative d_block mb_25">
+                            <span class="sub-title">About Us</span>
+                            <h2>Trusted Eye Care Destination in Punjab</h2>
+                        </div>
+                        <div class="text p_relative d_block">
+                            <p>BRAR EYE HOSPITAL is a leading super-specialty eye care center committed to delivering
+                                advanced ophthalmic care using the latest technologies and a patient-first approach.
+                                From <a href="cataract-surgery-bathinda.php" style="color: #03c0b4;">Cataract Surgery</a>
+ to LASIK and <a href="retina-uvea-treatment-bathinda.php" style="color: #03c0b4;">retina treatments</a>, our expert team ensures world-class care
+                                for every patient.</p>
+                        </div>
+                        <div class="inner-box">
+                            <div class="row clearfix">
+                                <!-- Mission -->
+                                <div class="col-lg-6 col-md-6 col-sm-12 single-column">
+                                    <div class="single-item">
+                                        <h3>Our Mission</h3>
+                                        <ul class="list-style-one clearfix">
+                                            <li>To provide quality eye care at affordable cost</li>
+                                            <li>To lead in ophthalmic innovation & excellence</li>
+                                            <li>To offer personalized & ethical medical services</li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <!-- Vision -->
+                                <div class="col-lg-6 col-md-6 col-sm-12 single-column">
+                                    <div class="single-item">
+                                        <h3>Our Vision</h3>
+                                        <ul class="list-style-one clearfix">
+                                            <li>To eliminate avoidable blindness</li>
+                                            <li>To be the most trusted eye hospital in India</li>
+                                            <li>To continuously upgrade with global standards</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> <!-- inner-box -->
+                    </div> <!-- content-box -->
+                </div> <!-- content_block_one -->
+            </div>
+        </div>
+    </div>
+</section>
+<!-- about-section end -->
+<style>
+  .tab-btns {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .tab-btn {
+    background: #f1f1f1;
+    border-radius: 20px;
+    padding: 20px;
+    width: 180px;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  }
+
+  .tab-btn .icon-box {
+    margin-bottom: 10px;
+  }
+
+  .tab-btn .icon-box img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .tab-btn h4 {
+    margin: 0;
+    font-size: 18px;
+    color: #000;
+  }
+
+  .tab-btn:hover,
+  .tab-btn.active-btn {
+    background-color: #00c4cc;
+    color: #fff;
+  }
+
+  .tab-btn.active-btn h4 {
+    color: #fff;
+  }
+
+  .tab-btn.active-btn .icon-box img {
+    filter: brightness(0) invert(1);
+  }
+
+  .service-btn {
+    display: inline-block;
+    padding: 12px 30px;
+    background-color: #00c4cc;
+    color: #fff;
+    border-radius: 30px;
+    font-weight: 600;
+    margin-top: 20px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+
+  .service-btn:hover {
+    background-color: #009ba1;
+    color: #fff;
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0, 196, 204, 0.3);
+  }
+
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .tab-btn {
+      width: 150px;
+      padding: 16px;
+    }
+
+    .tab-btn h4 {
+      font-size: 16px;
+    }
+
+    .tab-btn .icon-box img {
+      width: 35px;
+      height: 35px;
+    }
+
+    .service-btn {
+      padding: 10px 24px;
+      font-size: 15px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .tab-btn {
+      width: 100%;
+      max-width: 300px;
+    }
+
+    .tab-btn h4 {
+      font-size: 15px;
+    }
+
+    .tab-btn .icon-box img {
+      width: 30px;
+      height: 30px;
+    }
+
+    .service-btn {
+      width: 100%;
+      text-align: center;
+      padding: 10px;
+      font-size: 14px;
+    }
+  }
+</style>
+
+
+<!-- service-section -->
+<section class="service-section p_relative bg-color-1">
+    <div class="pattern-layer">
+        <div class="pattern-1" style="background-image: url(assets/images/shape/shape-4.png);"></div>
+        <div class="pattern-2" style="background-image: url(assets/images/shape/shape-5.png);"></div>
+    </div>
+    <div class="auto-container">
+        <div class="sec-title centred mb_50">
+            <span class="sub-title">Our Services</span>
+            <h2>A Global Leader in Treatment <br />of Eye Diseases</h2>
+        </div>
+        <div class="tabs-box">
+            <div class="tab-btn-box p_relative d_block mb_70 centred">
+                <ul class="tab-btns tab-buttons clearfix">
+                    <li class="tab-btn active-btn" data-tab="#tab-1">
+                        <div class="icon-box"><i class="fas fa-eye"></i></div>
+                        <h4>Cataract Surgery</h4>
+                    </li>
+                    <li class="tab-btn" data-tab="#tab-2">
+                        <div class="icon-box"><i class="fas fa-eye-slash"></i></div>
+                        <h4>Refractive Surgery</h4>
+                    </li>
+                    <li class="tab-btn" data-tab="#tab-3">
+                        <div class="icon-box"><i class="fas fa-low-vision"></i></div>
+                        <h4>Retina & Uvea</h4>
+                    </li>
+                    <li class="tab-btn" data-tab="#tab-4">
+                        <div class="icon-box"><i class="fas fa-eye-dropper"></i></div>
+                        <h4>Glaucoma</h4>
+                    </li>
+                    <li class="tab-btn" data-tab="#tab-5">
+                        <div class="icon-box"><i class="fas fa-eye"></i></div>
+                        <h4>Cornea & Eye Bank</h4>
+                    </li>
+                    <li class="tab-btn" data-tab="#tab-6">
+                        <div class="icon-box"><i class="fas fa-child"></i></div>
+                        <h4>Child Eyecare & Squint</h4>
+                    </li>
+                    <li class="tab-btn" data-tab="#tab-7">
+                        <div class="icon-box"><i class="fas fa-user-md"></i></div>
+                        <h4>Oculoplasty</h4>
+                    </li>
+                    <li class="tab-btn" data-tab="#tab-8">
+                        <div class="icon-box"><i class="fas fa-brain"></i></div>
+                        <h4>Neuro-Ophthalmology</h4>
+                    </li>
+                </ul>
+            </div>
+            <div class="tabs-content">
+                <!-- Cataract -->
+                <div class="tab active-tab" id="tab-1">
+                    <div class="inner-box">
+                        <div class="row clearfix">
+                            <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                                <div class="content_block_two">
+                                    <div class="content-box">
+                                        <div class="text">
+                                            <h3>Cataract Treatment</h3>
+                                            <p>At Brar Eye Hospital, we specialize in advanced <a href="cataract-surgery-bathinda.php" style="color: #03c0b4;">Cataract Surgery</a> techniques including phacoemulsification and micro-incision cataract surgery. Our experienced surgeons use premium intraocular lenses to restore clear vision.</p>
+                                            <p>We offer customized solutions for cataract patients, including toric lenses for astigmatism correction and multifocal lenses for presbyopia.</p>
+                                        </div>
+                                        <ul class="list-style-one clearfix">
+                                            <li>Phacoemulsification (No-Stitch Surgery)</li>
+                                            <li>Premium Intraocular Lenses</li>
+                                            <li>Laser-Assisted Cataract Surgery</li>
+                                            <li>Pediatric Cataract Management</li>
+                                        </ul>
+                                        <a href="cataract-surgery-bathinda.php" class="service-btn">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                                <div class="image_block_two">
+                                    <div class="image-box p_relative d_block">
+                                        <figure class="image p_relative d_block"><img src="assets/images/service/contaract surgery.avif" alt="Cataract Treatment"></figure>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Refractive Surgery -->
+                <div class="tab" id="tab-2">
+                    <div class="inner-box">
+                        <div class="row clearfix">
+                            <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                                <div class="content_block_two">
+                                    <div class="content-box">
+                                        <div class="text">
+                                            <h3>Refractive Surgery</h3>
+                                            <p>BRAR EYE HOSPITAL offers state-of-the-art refractive surgery options including <a href="laser-vision-correction-bathinda.php" style="color: #03c0b4;">SMILE Pro LASIK</a>, PRK, SMILE, and ICL to correct myopia, hyperopia, and astigmatism. Our customized approach ensures optimal visual outcomes.</p>
+                                            <p>We use advanced wavefront-guided technology to provide personalized vision correction with enhanced safety and precision.</p>
+                                        </div>
+                                        <ul class="list-style-one clearfix">
+                                            <li>Bladeless <a href="laser-vision-correction-bathinda.php" style="color: #03c0b4;">LASIK</a> (Femto-LASIK)</li>
+                                            <li>SMILE (Minimally Invasive Procedure)</li>
+                                            <li>PRK (Surface Ablation)</li>
+                                            <li>ICL (Implantable Collamer Lens)</li>
+                                        </ul>
+                                        <a href="eye-surgery-vision-correction-bathinda.php" class="service-btn">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                                <div class="image_block_two">
+                                    <div class="image-box p_relative d_block">
+                                        <figure class="image p_relative d_block"><img src="assets/images/service/Refrective surgery.avif" alt="Refractive Surgery"></figure>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Retina & UVEA -->
+                <div class="tab" id="tab-3">
+                    <div class="inner-box">
+                        <div class="row clearfix">
+                            <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                                <div class="content_block_two">
+                                    <div class="content-box">
+                                        <div class="text">
+                                            <h3>Retina & Uvea Services</h3>
+                                            <p>Our <a href="retina-uvea-treatment-bathinda.php" style="color: #03c0b4;">Retina</a> specialists at BRAR EYE HOSPITAL provide comprehensive care for retinal diseases including diabetic retinopathy, macular degeneration, retinal detachments, and uveitis.</p>
+                                            <p>We offer advanced diagnostic imaging and treatments including intravitreal injections, retinal laser procedures, and vitreoretinal surgery.</p>
+                                        </div>
+                                        <ul class="list-style-one clearfix">
+                                            <li>Diabetic Retinopathy Management</li>
+                                            <li>Age-Related Macular Degeneration</li>
+                                            <li>Retinal Detachment Surgery</li>
+                                            <li>Uveitis & Ocular Inflammation</li>
+                                        </ul>
+                                        <a href="retina-uvea-treatment-bathinda.php" class="service-btn">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                                <div class="image_block_two">
+                                    <div class="image-box p_relative d_block">
+                                        <figure class="image p_relative d_block"><img src="assets/images/service/Retina-Update.png" alt="Retina Services"></figure>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Glaucoma -->
+                <div class="tab" id="tab-4">
+                    <div class="inner-box">
+                        <div class="row clearfix">
+                            <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                                <div class="content_block_two">
+                                    <div class="content-box">
+                                        <div class="text">
+                                            <h3>Glaucoma Care</h3>
+                                            <p>Brar Eye Hospital's <a href="glaucoma-treatment-bathinda.php" style="color: #03c0b4;">Glaucoma</a> specialists provide comprehensive diagnosis and management of all types of glaucoma using the latest diagnostic technologies and treatment modalities.</p>
+                                            <p>We offer medical, laser, and surgical treatments tailored to each patient's needs, including minimally invasive glaucoma surgeries (MIGS).</p>
+                                        </div>
+                                        <ul class="list-style-one clearfix">
+                                            <li>Complete Glaucoma Evaluation</li>
+                                            <li>Selective Laser Trabeculoplasty (SLT)</li>
+                                            <li>Trabeculectomy & Tube Shunts</li>
+                                            <li>Minimally Invasive Glaucoma Surgery</li>
+                                        </ul>
+                                        <a href="glaucoma-treatment-bathinda.php" class="service-btn">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                                <div class="image_block_two">
+                                    <div class="image-box p_relative d_block">
+                                        <figure class="image p_relative d_block"><img src="assets/images/service/glaucoma.avif" alt="Glaucoma Care"></figure>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Cornea & Eye Bank -->
+                <div class="tab" id="tab-5">
+                    <div class="inner-box">
+                        <div class="row clearfix">
+                            <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                                <div class="content_block_two">
+                                    <div class="content-box">
+                                        <div class="text">
+                                            <h3>Cornea & Eye Bank</h3>
+                                            <p>Brar Eye Hospital's cornea specialists provide advanced treatment for corneal diseases, infections, and dystrophies. We perform corneal transplants (PKP, DSAEK, DMEK) and maintain an eye bank for corneal transplantation.</p>
+                                            <p>Our services include management of keratoconus with collagen cross-linking and specialty contact lenses.</p>
+                                        </div>
+                                        <ul class="list-style-one clearfix">
+                                            <li>Corneal Transplantation</li>
+                                            <li>Collagen Cross-Linking for Keratoconus</li>
+                                            <li>Ocular Surface Reconstruction</li>
+                                            <li>Eye Banking Services</li>
+                                        </ul>
+                                        <a href="cornea-treatment-eye-bank-bathinda.php
+    " class="service-btn">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                                <div class="image_block_two">
+                                    <div class="image-box p_relative d_block">
+                                        <figure class="image p_relative d_block"><img src="assets/images/service/Cornea-Update.png" alt="Cornea Services"></figure>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Child Eyecare & Squint -->
+                <div class="tab" id="tab-6">
+                    <div class="inner-box">
+                        <div class="row clearfix">
+                            <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                                <div class="content_block_two">
+                                    <div class="content-box">
+                                        <div class="text">
+    <h3>Child Eye Care & Squint Treatment</h3>
+    <p>At Brar Eye Hospital, we offer expert pediatric eye care for conditions like squint (strabismus), lazy eye (amblyopia), and other childhood vision disorders.</p>
+    <p>Our compassionate team ensures accurate vision screening, comfortable glasses fitting, and advanced surgical correction in a child-friendly, stress-free environment.</p>
+</div>
+
+                                        <ul class="list-style-one clearfix">
+                                            <li>Squint (Strabismus) Surgery</li>
+                                            <li>Amblyopia (Lazy Eye) Therapy</li>
+                                            <li>Congenital Cataract Management</li>
+                                            <li>Pediatric Glaucoma Care</li>
+                                        </ul>
+                                        <a href="child-eye-care-squint-treatment-bathinda.php" class="service-btn">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                                <div class="image_block_two">
+                                    <div class="image-box p_relative d_block">
+                                        <figure class="image p_relative d_block"><img src="assets/images/service/child eyecare.avif" alt="SMILE Pro LASIK"></figure>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Oculoplasty -->
+                <div class="tab" id="tab-7">
+                    <div class="inner-box">
+                        <div class="row clearfix">
+                            <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                                <div class="content_block_two">
+                                    <div class="content-box">
+                                        <div class="text">
+                                            <h3>Oculoplasty Services</h3>
+                                            <p>Our oculoplasty specialists at Brar Eye Hospital provide surgical and non-surgical treatments for eyelid, orbit, and lacrimal system disorders.</p>
+                                            <p>Services include cosmetic eyelid surgery, ptosis correction, orbital fracture repair, and treatment of thyroid eye disease.</p>
+                                        </div>
+                                        <ul class="list-style-one clearfix">
+                                            <li>Blepharoplasty (Eyelid Surgery)</li>
+                                            <li>Ptosis (Droopy Eyelid) Correction</li>
+                                            <li>Orbital Tumor Management</li>
+                                            <li>Tear Drainage System Surgery</li>
+                                        </ul>
+                                        <a href="oculoplastic-surgery-bathinda.php" class="service-btn">Read More</a></div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                                <div class="image_block_two">
+                                    <div class="image-box p_relative d_block">
+                                        <figure class="image p_relative d_block"><img src="assets/images/service/oculoplasty.avif" alt="Oculoplasty"></figure>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Neuro-Ophthalmology -->
+                <div class="tab" id="tab-8">
+                    <div class="inner-box">
+                        <div class="row clearfix">
+                            <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                                <div class="content_block_two">
+                                    <div class="content-box">
+                                        <div class="text">
+                                            <h3>Neuro-Ophthalmology</h3>
+                                            <p>Brar Eye Hospital's neuro-ophthalmology service specializes in visual problems related to the nervous system, including optic nerve disorders, visual field defects, and abnormal eye movements.</p>
+                                            <p>We provide comprehensive evaluation and management of conditions like optic neuritis, ischemic optic neuropathy, and cranial nerve palsies.</p>
+                                        </div>
+                                        <ul class="list-style-one clearfix">
+                                            <li>Optic Nerve Disorder Management</li>
+                                            <li>Visual Field Testing & Interpretation</li>
+                                            <li>Double Vision Evaluation</li>
+                                            <li>Pupillary Abnormalities</li>
+                                        </ul>
+                                        <a href="best-optic-nerve-doctor-bathinda.php" class="service-btn">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                                <div class="image_block_two">
+                                    <div class="image-box p_relative d_block">
+                                        <figure class="image p_relative d_block"><img src="assets/images/service/neuro-ophthalmology.avif" alt="Neuro-Ophthalmology"></figure>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- service-section end -->
+
+<!-- funfact-section -->
+<section class="funfact-section p_relative bg-color-2">
+    <div class="auto-container">
+        <div class="inner-container">
+
+            <div class="counter-block-one wow slideInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                <div class="inner-box t_center">
+                    <!-- <div class="icon-box p_relative d_block fs_60 mb_10"><i class="icon-25"></i></div> -->
+                   <div class="count-outer count-box">
+    <span class="count-text" data-speed="1500" data-stop="1">1</span>st
+</div>
+
+                    <p>NABH accredited <br> Hospital  in north India</p>
+                </div>
+            </div>
+             <div class="counter-block-one wow slideInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                <div class="inner-box t_center">
+                    <!-- <div class="icon-box p_relative d_block fs_60 mb_10"><i class="icon-25"></i></div> -->
+                    <div class="count-outer count-box">
+                      <div class="count-outer count-box">
+    <span class="count-text" data-speed="1500" data-stop="1">1</span>st
+</div>
+
+                    </div>
+                    <p>Hospital to have <br>SMILE Pro in <br>north India(Malwa Region)
+</p>
+                </div>
+            </div>
+
+            <div class="counter-block-one wow slideInUp animated" data-wow-delay="200ms" data-wow-duration="1500ms">
+                <div class="inner-box t_center">
+                    <!-- <div class="icon-box p_relative d_block fs_60 mb_10"><i class="icon-26"></i></div> -->
+                    <div class="count-outer count-box">
+                        <span class="count-text" data-speed="1500" data-stop="2">2,</span>L+
+                    </div>
+                    <p>Surgeries done </p>
+                </div>
+            </div>
+
+            <div class="counter-block-one wow slideInUp animated" data-wow-delay="400ms" data-wow-duration="1500ms">
+                <div class="inner-box t_center">
+                    <!-- <div class="icon-box p_relative d_block fs_60 mb_10"><i class="icon-27"></i></div> -->
+                    <div class="count-outer count-box">
+                     <span class="count-text" data-speed="1500" data-stop="2">2</span>M+
+
+                    </div>
+                    <p>Patient served in last 27 years </p>
+                </div>
+            </div>
+
+            <div class="counter-block-one wow slideInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                <div class="inner-box t_center">
+                    <!-- <div class="icon-box p_relative d_block fs_60 mb_10"><i class="icon-28"></i></div> -->
+                    <div class="count-outer count-box">
+                        <span class="count-text" data-speed="1500" data-stop="25">25,</span>K+
+                    </div>
+                    <p>Refractive procedures done </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- funfact-section end -->
+
+<!-- funfact-section end -->
+
+
+<!-- chooseus-section -->
+<section class="chooseus-section p_relative">
+    <div class="bg-layer" style="background-image: url(assets/images/background/main.jpg); width: 100%;
+    height:100%;
+    "></div>
+
+    <div class="auto-container">
+        <div class="row clearfix">
+            <div class="col-lg-6 col-md-12 col-sm-12 offset-lg-6 content-column">
+                <div class="content_block_three">
+                    <div class="content-box ml_30">
+                        <div class="sec-title left mb_25">
+                            <span class="sub-title">Why Choose Us</span>
+                            <h2>Trusted Eye Care Since 1998</h2>
+                        </div>
+                        <div class="text">
+                            <p>Brar Eye Hospital is a super-specialty eye hospital in Punjab, known for its commitment to advanced vision care, cutting-edge technology, and highly experienced eye specialists. We ensure compassionate care and outstanding outcomes.</p>
+                        </div>
+                        <div class="inner-box">
+                            <div class="row clearfix">
+                                <div class="col-lg-6 col-md-6 col-sm-12 single-column">
+                                    <div class="single-item p_relative d_block">
+                                        <h4>Experienced Eye Specialists</h4>
+                                        <p>Our doctors are leaders in their fields, offering expert care in <a href="cataract-surgery-bathinda.php" style="color: #03c0b4;">Cataract Surgery</a>
+, <a href="retina-uvea-treatment-bathinda.php" style="color: #03c0b4;">Retina</a>
+, <a href="glaucoma-treatment-bathinda.php" style="color: #03c0b4;">Glaucoma</a>, <a href="laser-vision-correction-bathinda.php" style="color: #03c0b4;">Smile-Pro</a>, and more.</p>
+                                    </div>
+                                </div><div class="col-lg-6 col-md-6 col-sm-12 single-column">
+                                    <div class="single-item p_relative d_block">
+                                        <h4>Advanced Technology</h4>
+                                        <p>We use the latest diagnostic and surgical equipment to provide accurate and safe treatments.</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-12 single-column">
+                                    <div class="single-item p_relative d_block">
+                                        <h4>High Surgery Success Rate</h4>
+                                        <p>Over 2.5 lakh surgeries performed with excellent patient outcomes and satisfaction.</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-12 single-column">
+                                    <div class="single-item p_relative d_block">
+                                        <h4>NABH Accredited Facility</h4>
+                                        <p>We are proud to be the first NABH accredited eye hospital in North India, ensuring high standards of quality and safety.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="text mt_20">
+                            <p>With branches in Kotkapura and Bathinda, we are dedicated to bringing world-class eye care to Punjab and neighboring regions.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- chooseus-section end -->
+
+
+<!-- testimonial-section -->    
+<section class="testimonial-section p_relative centred">
+    <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-6.png);"></div>
+    <div class="auto-container">
+        <div class="sec-title mb_60">
+            <span class="sub-title">Testimonials</span>
+            <h2>What Our Patients Say <br />About Brar Eye Hospital</h2>
+        </div>
+        <div class="two-item-carousel owl-carousel owl-theme owl-nav-none dots-style-one">
+            <div class="testimonial-block-one">
+                <div class="inner-box p_relative d_block">
+                    <div class="icon-box"><i class="icon-29"></i></div>
+                    <p>I had LASIK surgery at Brar Eye Hospital, and the results were outstanding. The doctors were very professional, and the process was painless. Highly recommended!</p>
+                    <h4>Simran Kaur</h4>
+                    <span class="designation">Software Engineer, Bathinda</span>
+                </div>
+            </div>
+            <div class="testimonial-block-one">
+                <div class="inner-box p_relative d_block">
+                    <div class="icon-box"><i class="icon-29"></i></div>
+                    <p>Brar Eye Hospital saved my father’s vision. The <a href="cataract-surgery-bathinda.php" style="color: #03c0b4;">Cataract Surgery</a> surgery was handled with great care, and recovery was quick. Thank you for the excellent service!</p>
+                    <h4>Rohit Sharma</h4>
+                    <span class="designation">Teacher, Kotkapura</span>
+                </div>
+            </div>
+            <div class="testimonial-block-one">
+                <div class="inner-box p_relative d_block">
+                    <div class="icon-box"><i class="icon-29"></i></div>
+                    <p>They have the most advanced machines and expert eye specialists. I visited for retina treatment and was extremely satisfied with the care I received.</p>
+                    <h4>Manpreet Singh</h4>
+                    <span class="designation">Photographer, Muktsar</span>
+                </div>
+            </div>
+            <div class="testimonial-block-one">
+                <div class="inner-box p_relative d_block">
+                    <div class="icon-box"><i class="icon-29"></i></div>
+                    <p>I was struggling with blurred vision and consulted many doctors, but Brar Eye Hospital finally diagnosed and treated my problem accurately. I’m very grateful.</p>
+                    <h4>Pooja Verma</h4>
+                    <span class="designation">Nurse, Faridkot</span>
+                </div>
+            </div>
+            <div class="testimonial-block-one">
+                <div class="inner-box p_relative d_block">
+                    <div class="icon-box"><i class="icon-29"></i></div>
+                    <p>Professional staff, clean hospital environment, and expert consultation — Brar Eye Hospital is the best eye care center in Punjab without a doubt!</p>
+                    <h4>Deepak Joshi</h4>
+                    <span class="designation">Business Owner, Mansa</span>
+                </div>
+            </div>
+            <div class="testimonial-block-one">
+                <div class="inner-box p_relative d_block">
+                    <div class="icon-box"><i class="icon-29"></i></div>
+                    <p>My mother underwent glaucoma surgery here. The doctors explained everything clearly and provided top-notch post-surgery support. Thank you!</p>
+                    <h4>Neha Bansal</h4>
+                    <span class="designation">Accountant, Barnala</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- testimonial-section end -->
+
+
+<!-- contact-section -->
+<section class="contact-section p_relative">
+    <div class="bg-layer"></div>
+    <div class="pattern-layer">
+        <div class="pattern-1" style="background-image: url(assets/images/shape/shape-7.png);"></div>
+        <div class="pattern-2" style="background-image: url(assets/images/shape/shape-8.png);"></div>
+    </div>
+    <div class="auto-container">
+        <div class="sec-title centred light mb_45">
+            <span class="sub-title">Emergency Help</span>
+            <h2>Need an Eye Specialist for Check-up?<br />Call Brar Eye Hospital Now!</h2>
+        </div>
+        <div class="support-box p_relative centred">
+            <div class="icon-box"><img src="assets/images/icons/icon-2.png" alt="Phone Icon"></div>
+            <h3>Call: <a href="tel:+917218272182">+91 7218272182 </a></h3>
+        </div>
+        <div class="row clearfix">
+            <div class="col-lg-4 col-md-12 col-sm-12 form-column">
+                <div class="form-inner">
+                    <h3>Book Your Appointment <span>at Brar Eye Hospital</span></h3>
+                    <form action="contact-brar-eye-hospital-bathinda.php" method="post" class="default-form">
+                        <div class="form-group">
+                            <input type="text" name="name" placeholder="Your Name" required="">
+                        </div>
+                        <div class="form-group">
+                            <input type="email" name="email" placeholder="Email" required="">
+                        </div>
+                        <div class="form-group">
+                            <div class="icon"><i class="far fa-angle-down"></i></div>
+                            <input type="text" name="date" placeholder="Preferred Appointment Date" id="datepicker">
+                        </div>
+                        <div class="form-group message-btn">
+                            <button type="submit" class="theme-btn btn-two">Book Appointment</button>
+                        </div>
+                    </form>
+                </div>
+            </div>  
+            <div class="col-lg-8 col-md-12 col-sm-12 video-column">
+  <div class="video-inner" style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 20px; overflow: hidden; background-color: #000;">
+    <video controls autoplay muted loop playsinline 
+           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border: none;">
+      <source src="assets/images/background/BRAR EYE VIDEO.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
+</div>
+
+        </div>
+    </div>
+</section>
+
+<!-- contact-section end -->
+
+
+<!-- team-section -->
+<section class="team-section p_relative">
+    <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-9.png);"></div>
+    <div class="auto-container">
+        <div class="sec-title p_relative left mb_50">
+            <span class="sub-title">Ophthalmologist</span>
+            <h2>The Most Qualified Skillful & <br />Professional staff</h2>
+            <a href="our-eye-specialists-bathinda.php" class="theme-btn btn-two">View All Team</a>
+        </div>
+        <div class="row clearfix">
+            <div class="col-lg-4 col-md-6 col-sm-12 team-block">
+                <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
+                    data-wow-duration="1500ms">
+                    <div class="inner-box p_relative d_block pr_55">
+                        <figure class="image-box p_relative d_block"><img src="assets/images/team/123.jpg" alt=" SMILE Pro machine">
+                        </figure>
+                        <div class="lower-content p_absolute r_0 b_45 b_shadow_6 z_1 tran_5">
+                            <h3 class="d_block lh_30 mb_3 tran_5">Dr. P.S. Brar</h3>
+                            <span class="designation p_relative d_block fs_16 lh_20 font_family_poppins tran_5">Medical Director & Chief Eye Surgeon</span>
+                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br><br>
+            <div class="col-lg-4 col-md-6 col-sm-12 team-block">
+                <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="300ms"
+                    data-wow-duration="1500ms">
+                    <div class="inner-box p_relative d_block pr_55">
+                        <figure class="image-box p_relative d_block"><img src="assets/images/team/1234.jpg" alt=" eye checkup Kotkapura">
+                        </figure>
+                        <div class="lower-content p_absolute r_0 b_45 b_shadow_6 z_1 tran_5">
+                            <h3 class="d_block lh_30 mb_3 tran_5">Dr. M.S. Brar</h3>
+                            <span class="designation p_relative d_block fs_16 lh_20 font_family_poppins tran_5">Cataract & Paediatric Surgeon</span>
+                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br><br>
+            <div class="col-lg-4 col-md-6 col-sm-12 team-block">
+                <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="600ms"
+                    data-wow-duration="1500ms">
+                    <div class="inner-box p_relative d_block pr_55">
+                        <figure class="image-box p_relative d_block"><img src="assets/images/team/12345.jpg" alt="Eye surgeon in Bathinda">
+                        </figure>
+                        <div class="lower-content p_absolute r_0 b_45 b_shadow_6 z_1 tran_5">
+                            <h3 class="d_block lh_30 mb_3 tran_5">Dr. Sunny Goyal</h3>
+                            <span class="designation p_relative d_block fs_16 lh_20 font_family_poppins tran_5">Cataract & Glaucoma Surgeon</span>
+                         
+                        </div>
+                    </div>
+                </div>
+            </div>
+ <br><br>
+              <div class="col-lg-4 col-md-6 col-sm-12 team-block">
+                <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="600ms"
+                    data-wow-duration="1500ms">
+                    <div class="inner-box p_relative d_block pr_55">
+                        <figure class="image-box p_relative d_block"><img src="assets/images/team/team-51.jpg" alt=" eye checkup Kotkapura">
+                        </figure>
+                        <div class="lower-content p_absolute r_0 b_45 b_shadow_6 z_1 tran_5">
+                            <h3 class="d_block lh_30 mb_3 tran_5">Dr. Aazambir Singh Brar</h3>
+                            <span class="designation p_relative d_block fs_16 lh_20 font_family_poppins tran_5">Cataract, Refractive & Vitreo-Retina Surgeon</span>
+                         
+                        </div>
+                    </div>
+                </div>
+              </div>
+<br><br>
+              <div class="col-lg-4 col-md-6 col-sm-12 team-block">
+                <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="600ms"
+                    data-wow-duration="1500ms">
+                    <div class="inner-box p_relative d_block pr_55">
+                        <figure class="image-box p_relative d_block"><img src="assets/images/team/52.jpg" alt=" SMILE Pro machine">
+                        </figure>
+                        <div class="lower-content p_absolute r_0 b_45 b_shadow_6 z_1 tran_5">
+                            <h3 class="d_block lh_30 mb_3 tran_5">Dr. Jatinder Kumar Gupta</h3>
+                            <span class="designation p_relative d_block fs_16 lh_20 font_family_poppins tran_5">Senior Consultant Ophthalmologist</span>
+                         
+                        </div>
+                    </div>
+                </div>
+              </div>
+            <br><br>
+<div class="col-lg-4 col-md-6 col-sm-12 team-block">
+                <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="600ms"
+                    data-wow-duration="1500ms">
+                    <div class="inner-box p_relative d_block pr_55">
+                        <figure class="image-box p_relative d_block"><img src="assets/images/team/53.jpg" alt=" SMILE Pro machine,">
+                        </figure>
+                        <div class="lower-content p_absolute r_0 b_45 b_shadow_6 z_1 tran_5">
+                            <h3 class="d_block lh_30 mb_3 tran_5">Dr. B. Ravinder Naik</h3>
+                            <span class="designation p_relative d_block fs_16 lh_20 font_family_poppins tran_5">
+Cataract, Strabismus & Pediatric Ophthalmology Consultant</span>
+                         
+                        </div>
+                    </div>
+                </div>
+              </div>
+<br><br>
+
+<div class="col-lg-4 col-md-6 col-sm-12 team-block">
+                <div class="team-block-one wow fadeInUp animated animated" data-wow-delay="600ms"
+                    data-wow-duration="1500ms">
+                    <div class="inner-box p_relative d_block pr_55">
+                        <figure class="image-box p_relative d_block"><img src="assets/images/team/55.jpg" alt="SMILE Pro machine">
+                        </figure>
+                        <div class="lower-content p_absolute r_0 b_45 b_shadow_6 z_1 tran_5">
+                            <h3>
+                                    Dr. Anand Singh Brar </h3>
+                            <span class="designation p_relative d_block fs_16 lh_20 font_family_poppins tran_5">Vitreo-Retina Consultant       </span>
+                         
+                        </div>
+                    </div>
+                </div>
+              </div>
+
+        </div>
+    </div>
+</section>
+<!-- team-section end -->
+
+
+<!-- cta-section -->
+<section class="cta-section p_relative bg-color-1">
+    <div class="pattern-layer">
+        <div class="pattern-1" style="background-image: url(assets/images/shape/shape-10.png);"></div>
+        <div class="pattern-2" style="background-image: url(assets/images/shape/shape-11.png);"></div>
+    </div>
+    <div class="auto-container">
+        <div class="row clearfix">
+            <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+            <div class="image-box mr_25 mt_60">
+                    <div class="shape" style="background-image: url(assets/images/shape/shape-31.png);"></div>
+                    <figure class="image p_relative z_1"><imgsrc="assets/images/resource/car-1.png" alt="Eye surgeon in Bathinda"></figure>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                <div class="content-box ml_35">
+                    <div class="sec-title left mb_25">
+                        <span class="sub-title">Emergency Care</span>
+                        <h2>Need Immediate Medical Assistance? <br />Call Brar Eye Hospital for Emergency Services!</h2>
+                    </div>
+                    <div class="text">
+                        <p>At Brar Eye Hospital, we provide round-the-clock emergency services with a team of expert doctors ready to assist you at any time. Whether it's a medical emergency or an urgent need for specialized care, our hospital is equipped with the latest technology and experienced professionals to ensure your health and safety.</p>
+                    </div>
+                    <div class="support-box">
+                        <div class="icon-box"><i class="icon-32"></i></div>
+                        <h4>For Emergency</h4>
+                        <h3><a href="tel:7218272182">7218272182</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- cta-section end -->
+
+
+<!-- project-section -->
+<section class="project-section p_relative">
+    <div class="outer-container">
+        <div class="project-carousel owl-carousel owl-theme owl-dots-none owl-nav-none">
+            <div class="project-block-one">
+                <div class="inner-box">
+                    <figure class="image-box"><img src="assets/images/project/f1.jpg" alt="Eye surgeon in Bathinda"></figure>
+                    <div class="view-btn"><a href="assets/images/project/1.jpg" class="lightbox-image"
+                            data-fancybox="gallery"><i class="icon-33"></i></a></div>
+                    <div class="text">
+                        <h3><a href="index.php"></a></h3>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+            <div class="project-block-one">
+                <div class="inner-box">
+                    <figure class="image-box"><img src="assets/images/project/f2.jpg" alt="eye checkup Kotkapura"></figure>
+                    <div class="view-btn"><a href="assets/images/project/2.jpg" class="lightbox-image"
+                            data-fancybox="gallery"><i class="icon-33"></i></a></div>
+                    <div class="text">
+                        <h3><a href="index.php"></a></h3>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+            <div class="project-block-one">
+                <div class="inner-box">
+                    <figure class="image-box"><img src="assets/images/project/f3.jpg" alt="eye checkup Kotkapura"></figure>
+                    <div class="view-btn"><a href="assets/images/project/3.jpg" class="lightbox-image"
+                            data-fancybox="gallery"><i class="icon-33"></i></a></div>
+                    <div class="text">
+                        <h3><a href="index.php"></a></h3>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+            <div class="project-block-one">
+                <div class="inner-box">
+                    <figure class="image-box"><img src="assets/images/project/f4.jpg" alt="eye checkup Kotkapura"></figure>
+                    <div class="view-btn"><a href="assets/images/project/4.jpg" class="lightbox-image"
+                            data-fancybox="gallery"><i class="icon-33"></i></a></div>
+                    <div class="text">
+                        <h3><a href="index.php"></a></h3>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- project-section end -->
+
+<!-- news-section -->
+<!-- <section class="news-section p_relative">
+    <div class="auto-container">
+        <div class="sec-title centred mb_50">
+            <span class="sub-title">Articles</span>
+            <h2>Resources to Keep You Informed <br />with Our Blog</h2>
+        </div>
+        <div class="row clearfix">
+
+        Glaucoma Article -->
+            <!-- <div class="col-lg-4 col-md-6 col-sm-12 news-block">
+                <div class="news-block-one wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                    <div class="inner-box">
+                        <figure class="image-box">
+                            <img src="assets/images/news/glaucoma.jpg" alt="">
+                            <a href="glaucoma-treatment-bathinda.php"><i class="fas fa-link"></i></a>
+                        </figure>
+                        <div class="lower-content">
+                            <div class="inner">
+                                <div class="category"><a href="blog-details.php">Glaucoma</a></div>
+                                <h3><a href="glaucoma-treatment-bathinda.php">How do Inherited Retinal Diseases Happen?</a></h3>
+                                <ul class="post-info clearfix">
+                                    <li><i class="icon-34"></i>25 ਮਈ, 2025</li>
+                                    <li><i class="icon-35"></i><a href="glaucoma-treatment-bathinda.php">Dr. Kumar</a></li>
+                                    <li>ਤਾਜ਼ਾ ਸਮੀਖਿਆ: 25 ਮਈ, 2025</li>
+                                </ul>
+                                <p>Comprehensive diagnostics (HVFA, RNFL) and advanced surgical options like MIGS & TRAB to preserve your vision from the silent thief of sight.</p>
+                                <div class="link"><a href="glaucoma-treatment-bathinda.php">Read more</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>  -->
+
+            <!-- Cataract Article -->
+            <!-- <div class="col-lg-4 col-md-6 col-sm-12 news-block">
+                <div class="news-block-one wow fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms">
+                    <div class="inner-box">
+                        <figure class="image-box">
+                            <img src="assets/images/news/cataract.jpg" alt="">
+                            <a href="cataract-surgery-bathinda.php"><i class="fas fa-link"></i></a>
+                        </figure>
+                        <div class="lower-content">
+                            <div class="inner">
+                                <div class="category"><a href="cataract-surgery-bathinda.php">Cataract-Before</a></div>
+                                <h3><a href="blog-details.php">Prepare to Speak with Your Eye Specialist.</a></h3>
+                                <ul class="post-info clearfix">
+                                    <li><i class="icon-34"></i>09 Oct, 2023</li>
+                                    <li><i class="icon-35"></i><a href="cataract-surgery-bathinda.php">Dr. Meena Sharma</a></li>
+                                    <li>ਤਾਜ਼ਾ ਸਮੀਖਿਆ: 25 ਮਈ, 2025</li>
+                                </ul>
+                                <p>Specialized care for amblyopia, squint, pediatric cataracts & glaucoma in a kid-friendly setting designed for young patients.</p>
+                                <div class="link"><a href="cataract-surgery-bathinda.php">Read more</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+
+            <!-- Oculoplastic Article -->
+            <!-- <div class="col-lg-4 col-md-6 col-sm-12 news-block">
+                <div class="news-block-one wow fadeInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                    <div class="inner-box">
+                        <figure class="image-box">
+                            <img src="assets/images/news/Oculoplastic Surgery.jpg" alt="">
+                            <a href="Oculoplastics.php"><i class="fas fa-link"></i></a>
+                        </figure>
+                        <div class="lower-content">
+                            <div class="inner">
+                                <div class="category"><a href="Oculoplastics.php">Oculoplastic</a></div>
+                                <h3><a href="blog-details.php">Some Eye Problems are Minor and don't...</a></h3>
+                                <ul class="post-info clearfix">
+                                    <li><i class="icon-34"></i>08 Oct, 2024</li>
+                                    <li><i class="icon-35"></i><a href="Oculoplastics.php">Dr. Amanpreet Kaur</a></li>
+                                    <li>ਤਾਜ਼ਾ ਸਮੀਖਿਆ: 25 ਮਈ, 2025</li>
+                                </ul>
+                                <p>Oculoplastic surgery is a specialized field of ophthalmology focused on the structures around the eye including eyelids, tear ducts, and facial areas.</p>
+                                <div class="link"><a href="Oculoplastics.php">Read more</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section> -->
+<!-- news-section end -->
+
+
+<!-- google-map-section -->
+<section class="google-map-section p_relative">
+    <div class="map-inner p_relative d_block">
+        <!-- Embed Google Maps using iframe -->
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3447.238928659031!2d74.93471457655697!3d30.23026230974101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391732eec4237631%3A0xa4771d2f5dd99402!2sBrar%20Eye%20Hospital!5e0!3m2!1sen!2sin!4v1747139055406!5m2!1sen!2sin" width="1700" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div class="content-inner">
+        <div class="auto-container">
+            <div class="content-box p_relative d_block">
+                <div class="title p_relative d_block">
+                    <h3>Working Hours</h3>
+                </div>
+                <div class="schedule-box p_relative d_block">
+                    <ul class="schedule-list clearfix">
+                        <li>Mon: 8:00AM - 5:00PM</li>
+                          <li>Tue: 8:00AM - 5:00PM</li>
+                            <li>Wed: 8:00AM - 5:00PM</li>
+                        <li>Thu: 8:00AM - 5:00PM</li>
+                        <li>Fri: 8:00AM - 5:00PM</li>
+                        <li>Sat: 8:00AM - 5:00PM</li>
+                    </ul>
+                </div>
+                <div class="contact-info p_relative d_block">
+                    <h3>Contact Info</h3>
+                    <ul class="info-list clearfix">
+                        <li><i class="fas fa-envelope"></i>Email: <a href="mailto:bathinda@eyecenter.com">brareyehospitals@gmail.com</a></li>
+                        <li><i class="icon-3"></i>Call: <a href="tel:+91642221150">7218272182</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- google-map-section end -->
+<?php include 'footer.php'; ?>

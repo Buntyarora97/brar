@@ -1,0 +1,5 @@
+# Allow resume downloads only through application script
+<FilesMatch "\.(pdf|doc|docx)$">
+    Order Deny,Allow
+    Deny from all
+</FilesMatch>
