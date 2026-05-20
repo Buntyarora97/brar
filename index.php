@@ -9,485 +9,370 @@ include('server.php');
 include('header.php');
 ?>
 
-<!-- banner-section with video background -->
-<section class="banner-section p_relative">
-  <!-- Background Video -->
-  <style>
-  .bg-video {
-    position: fixed;  /* ya absolute depending on your layout */
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    object-fit: cover;
-    z-index: -1;
-  }
-
-  /* Mobile devices */
-  @media (max-width: 767px) {
-    .bg-video {
-      height: auto;
-      min-height: 100vh;
-      width: 100vw;
-      object-fit: cover;
-    }
-  }
-
-  /* Tablet devices */
-  @media (min-width: 768px) and (max-width: 1024px) {
-    .bg-video {
-      height: 100vh;
-      width: 100vw;
-      object-fit: cover;
-    }
-  }
+<!-- ===== LUXURY HERO SECTION ===== -->
+<style>
+.lux-hero {
+  position: relative;
+  min-height: 100vh;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.lux-hero__video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+.lux-hero__overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(105deg, rgba(0,8,22,0.83) 0%, rgba(0,20,40,0.70) 55%, rgba(0,10,30,0.52) 100%);
+  z-index: 1;
+}
+.lux-hero__container {
+  position: relative;
+  z-index: 2;
+  max-width: 1340px;
+  margin: 0 auto;
+  padding: 110px 36px 80px;
+  display: flex;
+  align-items: center;
+  gap: 60px;
+  width: 100%;
+  box-sizing: border-box;
+}
+/* LEFT */
+.lux-hero__left { flex: 0 0 52%; max-width: 52%; }
+.lux-hero__badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(29,210,195,0.13);
+  border: 1px solid rgba(29,210,195,0.45);
+  border-radius: 50px;
+  padding: 6px 18px;
+  margin-bottom: 22px;
+}
+.lux-hero__badge span {
+  font-size: 12px;
+  font-weight: 700;
+  color: #1dd2c3;
+  letter-spacing: 0.8px;
+  font-family: 'Inter', sans-serif;
+  text-transform: uppercase;
+}
+.lux-hero__badge-dot {
+  width: 8px; height: 8px;
+  background: #1dd2c3;
+  border-radius: 50%;
+  animation: luxPulse 2s infinite;
+}
+@keyframes luxPulse {
+  0%,100% { opacity:1; transform:scale(1); }
+  50% { opacity:0.35; transform:scale(1.5); }
+}
+.lux-hero__tag {
+  display: block;
+  font-size: 13px;
+  font-weight: 600;
+  color: #f17732;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+  font-family: 'Inter', sans-serif;
+}
+.lux-hero__h1 {
+  font-size: clamp(36px, 4.2vw, 62px);
+  font-weight: 800;
+  line-height: 1.1;
+  color: #fff;
+  margin: 0 0 12px;
+  font-family: 'Inter', sans-serif;
+  letter-spacing: -1.5px;
+}
+.lux-hero__h1 em { font-style:normal; color:#1dd2c3; }
+.lux-hero__subh {
+  font-size: clamp(15px, 1.8vw, 20px);
+  font-weight: 600;
+  color: rgba(255,255,255,0.80);
+  margin-bottom: 18px;
+  font-family: 'Jost', sans-serif;
+}
+.lux-hero__desc {
+  font-size: 16px;
+  color: rgba(255,255,255,0.68);
+  line-height: 1.8;
+  margin-bottom: 34px;
+  max-width: 480px;
+  font-family: 'Jost', sans-serif;
+}
+.lux-hero__btns {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-bottom: 44px;
+}
+.lux-btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  background: #f17732;
+  color: #fff !important;
+  padding: 15px 32px;
+  border-radius: 50px;
+  font-size: 15px;
+  font-weight: 700;
+  text-decoration: none !important;
+  font-family: 'Inter', sans-serif;
+  transition: all 0.3s;
+  box-shadow: 0 8px 30px rgba(241,119,50,0.38);
+  letter-spacing: 0.3px;
+}
+.lux-btn-primary:hover {
+  background: #d4601e;
+  transform: translateY(-2px);
+  box-shadow: 0 14px 40px rgba(241,119,50,0.5);
+}
+.lux-btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  background: transparent;
+  color: #fff !important;
+  padding: 14px 28px;
+  border-radius: 50px;
+  border: 2px solid rgba(255,255,255,0.40);
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none !important;
+  font-family: 'Inter', sans-serif;
+  transition: all 0.3s;
+}
+.lux-btn-secondary:hover {
+  background: rgba(255,255,255,0.10);
+  border-color: rgba(255,255,255,0.75);
+  transform: translateY(-2px);
+}
+.lux-hero__stats {
+  display: flex;
+  flex-wrap: wrap;
+  border-top: 1px solid rgba(255,255,255,0.12);
+  padding-top: 26px;
+  gap: 0;
+}
+.lux-stat {
+  flex: 1;
+  min-width: 100px;
+  padding-right: 20px;
+  margin-right: 20px;
+  border-right: 1px solid rgba(255,255,255,0.10);
+}
+.lux-stat:last-child { border-right:none; margin-right:0; padding-right:0; }
+.lux-stat__num {
+  display: block;
+  font-size: 26px;
+  font-weight: 800;
+  color: #f17732;
+  line-height: 1;
+  margin-bottom: 5px;
+  font-family: 'Inter', sans-serif;
+}
+.lux-stat__label {
+  font-size: 12px;
+  color: rgba(255,255,255,0.55);
+  font-family: 'Jost', sans-serif;
+  line-height: 1.4;
+}
+/* RIGHT */
+.lux-hero__right {
+  flex: 0 0 44%;
+  max-width: 44%;
+  position: relative;
+  padding-bottom: 30px;
+}
+.lux-hero__img-frame {
+  position: relative;
+  border-radius: 28px;
+  padding: 3px;
+  background: linear-gradient(135deg, rgba(29,210,195,0.7), rgba(241,119,50,0.5));
+}
+.lux-hero__img-inner {
+  background: rgba(0,0,0,0.25);
+  border-radius: 26px;
+  overflow: hidden;
+}
+.lux-img-carousel .slide-img {
+  width: 100%;
+  height: auto;
+  max-height: 560px;
+  object-fit: contain;
+  display: block;
+  padding: 10px 10px 0;
+  filter: drop-shadow(0 16px 48px rgba(0,0,0,0.45));
+}
+.lux-img-carousel .owl-dots { margin-top: 14px !important; }
+.lux-img-carousel .owl-dot span {
+  background: rgba(255,255,255,0.28) !important;
+  width: 8px !important; height: 8px !important;
+  transition: all 0.3s;
+}
+.lux-img-carousel .owl-dot.active span {
+  background: #1dd2c3 !important;
+  width: 26px !important;
+  border-radius: 4px !important;
+}
+.lux-hero__trust {
+  position: absolute;
+  bottom: 0;
+  left: 20px;
+  background: rgba(255,255,255,0.96);
+  border-radius: 16px;
+  padding: 11px 18px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.22);
+}
+.lux-hero__trust img { height: 42px; width: auto; }
+.lux-hero__trust-txt {
+  font-size: 12px;
+  font-weight: 700;
+  color: #1a2a3a;
+  font-family: 'Inter', sans-serif;
+  line-height: 1.4;
+}
+.lux-hero__trust-txt span {
+  display: block;
+  color: #f17732;
+  font-size: 11px;
+  font-weight: 500;
+}
+/* RESPONSIVE */
+@media (max-width: 991px) {
+  .lux-hero__container { flex-direction: column; padding: 120px 20px 70px; gap: 44px; }
+  .lux-hero__left, .lux-hero__right { flex: 0 0 100%; max-width: 100%; }
+  .lux-hero__right { max-width: 460px; margin: 0 auto; }
+  .lux-hero__desc { max-width: 100%; }
+}
+@media (max-width: 576px) {
+  .lux-hero__h1 { font-size: 34px; letter-spacing: -0.5px; }
+  .lux-stat { flex: 0 0 45%; border-right: none; margin-right: 0; margin-bottom: 12px; }
+  .lux-hero__btns { flex-direction: column; }
+  .lux-btn-primary, .lux-btn-secondary { justify-content: center; }
+}
 </style>
 
-<video autoplay muted loop playsinline class="bg-video">
-  <source src="assets/images/background/23.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<section class="lux-hero" aria-label="Brar Eye Hospital Hero">
+  <video autoplay muted loop playsinline class="lux-hero__video" poster="assets/images/background/cover-pic-1.webp">
+    <source src="assets/images/background/23.mp4" type="video/mp4">
+  </video>
+  <div class="lux-hero__overlay"></div>
 
+  <div class="lux-hero__container">
 
-  <!-- Overlay (optional for dark effect) -->
-  <div class="video-overlay"></div>
+    <!-- LEFT: TEXT CONTENT -->
+    <div class="lux-hero__left">
 
-  <!-- Carousel Content -->
-  <div class="banner-carousel owl-theme owl-carousel owl-dots-none">
-    <!-- Slide 1 -->
-    <div class="slide-item p_relative">
-      <div class="auto-container">
-        <div class="banner-content p_relative d_block">
-          <div class="content-box p_relative d_block z_5">
-          <h1 style="color: #fff;"> Brar Eye Hospital – Eye Superspeciality in Punjab</h1>
-          <h2 style="color: #fff;" class="p_relative d_block fs_70 lh_80 fw_bold">
-           Brar Eye Hospital for Every Generation
-          </h2>
-          <p style="color: #fff;" class="p_relative d_block fs_18">
-            At Brar Eye Hospital,<br> we offer cutting-edge eye treatments
-            <br> with compassion, precision, and <br> a patient-first approach in Bathinda and KotKapura.
-          </p>
-            <!--<div class="btn-box">-->
-            <!--  <a href="contact-brar-eye-hospital-bathinda.php" class="theme-btn btn-one">Contact Now</a>-->
-            <!--</div>-->
-            <ul class="icon-list clearfix">
-              <li><i class="icon-8"></i></li>
-              <li><i class="icon-9"></i></li>
-              <li><i class="icon-10"></i></li>
-              <li><i class="icon-11"></i></li>
-            </ul>
+      <div class="lux-hero__badge">
+        <div class="lux-hero__badge-dot"></div>
+        <span>NABH Accredited &nbsp;&bull;&nbsp; Est. 2003</span>
+      </div>
+
+      <span class="lux-hero__tag">Punjab's Premier Eye Care</span>
+
+      <h1 class="lux-hero__h1">See Life <em>Clearly</em>,<br>With Expert Care</h1>
+
+      <p class="lux-hero__subh">Brar Eye Hospital &mdash; Superspeciality Eye Centre, Bathinda</p>
+
+      <p class="lux-hero__desc">
+        21+ years of trusted eye care across Bathinda &amp; Kotkapura. Advanced SMILE Pro, LASIK, Cataract, Retina &amp; Glaucoma treatments — delivered with compassion, precision, and a patient-first approach.
+      </p>
+
+      <div class="lux-hero__btns">
+        <a href="contact-brar-eye-hospital-bathinda.php" class="lux-btn-primary">
+          <i class="fa fa-calendar-check"></i> Book Appointment
+        </a>
+        <a href="eye-care-services-bathinda.php" class="lux-btn-secondary">
+          <i class="fa fa-arrow-right"></i> Explore Services
+        </a>
+      </div>
+
+      <div class="lux-hero__stats">
+        <div class="lux-stat">
+          <span class="lux-stat__num">21+</span>
+          <span class="lux-stat__label">Years of<br>Excellence</span>
+        </div>
+        <div class="lux-stat">
+          <span class="lux-stat__num">10K+</span>
+          <span class="lux-stat__label">Successful<br>Surgeries</span>
+        </div>
+        <div class="lux-stat">
+          <span class="lux-stat__num">2</span>
+          <span class="lux-stat__label">Locations<br>Punjab</span>
+        </div>
+        <div class="lux-stat">
+          <span class="lux-stat__num">NABH</span>
+          <span class="lux-stat__label">Nationally<br>Accredited</span>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- RIGHT: IMAGE CAROUSEL -->
+    <div class="lux-hero__right">
+      <div class="lux-hero__img-frame">
+        <div class="lux-hero__img-inner">
+          <div class="lux-img-carousel owl-carousel owl-theme">
+            <div class="item">
+              <img class="slide-img" src="assets/images/banner/a1].webp" alt="Advanced Eye Treatment at Brar Eye Hospital Bathinda" loading="eager">
+            </div>
+            <div class="item">
+              <img class="slide-img" src="assets/images/banner/1b.webp" alt="SMILE Pro LASIK Eye Surgery Brar Hospital Bathinda" loading="lazy">
+            </div>
+            <div class="item">
+              <img class="slide-img" src="assets/images/banner/B.webp" alt="Cataract Surgery Expert Brar Eye Hospital" loading="lazy">
+            </div>
+            <div class="item">
+              <img class="slide-img" src="assets/images/banner/C.webp" alt="Brar Eye Hospital Kotkapura Branch" loading="lazy">
+            </div>
+            <div class="item">
+              <img class="slide-img" src="assets/images/banner/new-.webp" alt="Brar Eye Hospital Modern Facilities" loading="lazy">
+            </div>
           </div>
-          <div class="image-box">
-            <figure class="image">
-              <img src="assets/images/banner/a1].webp" alt="Brareye Hospital Eye Care">
-            </figure>
-          </div>
+        </div>
+      </div>
+
+      <div class="lux-hero__trust">
+        <img src="assets/images/nabh-logo.webp" alt="NABH Accredited Eye Hospital Punjab">
+        <div class="lux-hero__trust-txt">
+          NABH Accredited
+          <span>Quality &amp; Safety Certified</span>
         </div>
       </div>
     </div>
 
-    <!-- Slide 2 -->
-    <div class="slide-item p_relative">
-      <div class="auto-container">
-        <div class="banner-content p_relative d_block">
-          <div class="content-box p_relative d_block z_5">
-          <h3 style="color: #fff;">State-of-the-Art Facilities</h3>
-<h2 style="color: #fff;" class="p_relative d_block fs_70 lh_80 fw_bold">
-  Modern Eye Surgeries & Laser Treatments
-</h2>
-<p style="color: #fff;" class="p_relative d_block fs_18">
-  From cataract surgery to LASIK, Brar Eye Hospital combines
-  technology with expertise to restore <br>your vision safely and effectively.
-</p>
-
-            <!--<div class="btn-box">-->
-            <!--  <a href="contact-brar-eye-hospital-bathinda.php" class="theme-btn btn-one">Book an Appointment</a>-->
-            <!--</div>-->
-            <ul class="icon-list clearfix">
-              <li><i class="icon-8"></i></li>
-              <li><i class="icon-9"></i></li>
-              <li><i class="icon-10"></i></li>
-              <li><i class="icon-11"></i></li>
-            </ul>
-          </div>
-          <div class="image-box style-two" style="margin-left:100px; bottom:-100px;'>
-            <figure class="image" >
-            <img src="assets/images/banner/1b.webp" alt="Eye Surgery at Brareye Hospital">
-
-            </figure>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Slide 3 -->
-    <div class="slide-item p_relative">
-      <div class="auto-container">
-        <div class="banner-content p_relative d_block">
-          <div class="content-box p_relative d_block z_5">
-          <h3 style="color: #fff;">Serving North India, based in Punjab</h3>
-<h2 style="color: #fff;" class="p_relative d_block fs_70 lh_80 fw_bold">
-  Your Vision, Our Mission
-</h2>
-<p style="color: #fff;" class="p_relative d_block fs_18">
-  We are committed to delivering excellence in eye care with
-  skilled doctors, advanced tools, <br>and a caring environment across both our locations.
-</p>
-
-            <!--<div class="btn-box">-->
-            <!--  <a href="contact-brar-eye-hospital-bathinda.php" class="theme-btn btn-one">Visit Us Today</a>-->
-            <!--</div>-->
-            <ul class="icon-list clearfix">
-              <li><i class="icon-8"></i></li>
-              <li><i class="icon-9"></i></li>
-              <li><i class="icon-10"></i></li>
-              <li><i class="icon-11"></i></li>
-            </ul>
-          </div>
-          <div class="image-box style-three">
-          <figure class="image" style=" margin-bottom: -166px;">
-  <img loading="lazy" src="assets/images/banner/C.webp" alt="Brareye Hospital Kot Kapura">
-</figure>
-
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
 </section>
 
-<!-- CSS -->
-
-
-<!-- banner-section end -->
-
-<style>
-@media (max-width: 768px) {
-  .banner-section {
-    min-height: 100vh;
-    padding-top: 80px;
-    padding-bottom: 80px;
-  }
-
-  .banner-content {
-    flex-direction: column;
-    text-align: center;
-    padding: 20px;
-  }
-
-  .banner-content .content-box,
-  .banner-content .image-box {
-    width: 100%;
-    flex: 1 1 100%;
-  }
-
-  .banner-content .image-box img {
-    max-width: 90%;
-    height: auto;
-    margin: 20px auto 0;
-  }
-
-  .fs_70 {
-    font-size: 28px !important;
-  }
-
-  .lh_80 {
-    line-height: 38px !important;
-  }
-
-  .fs_18 {
-    font-size: 16px !important;
-  }
-
-  .theme-btn.btn-one {
-    padding: 10px 22px;
-    font-size: 14px;
-  }
-
-  .icon-list {
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 10px;
-    margin-top: 20px;
-  }
-
-  .video-overlay {
-    background: rgba(0, 0, 0, 0.6); /* darken more for mobile text readability */
-  }
-}
-
-.google-map-section {
-  position: relative;
-  padding: 50px 0;
-}
-
-.google-map-section .map-inner iframe {
-  width: 100%;
-  max-width: 100%;
-  height: 500px;
-  border: none;
-  display: block;
-}
-
-/* Responsive layout for content */
-@media (max-width: 768px) {
-  .google-map-section {
-    padding: 30px 15px;
-  }
-
-  .google-map-section .content-inner {
-    padding-top: 30px;
-  }
-
-  .google-map-section .content-box {
-    text-align: center;
-  }
-
-  .google-map-section .title h3,
-  .google-map-section .contact-info h3 {
-    font-size: 22px;
-  }
-
-  .google-map-section .schedule-list li,
-  .google-map-section .info-list li {
-    font-size: 16px;
-    line-height: 1.6;
-  }
-
-  .google-map-section .info-list li a {
-    display: inline-block;
-    word-break: break-word;
-  }
-}
-
-
-
-
-  .row.clearfix {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0px;
-  }
-
-  .feature-block {
-    display: flex;
-    flex: 1;
-    flex-wrap: wrap;
-    gap: 20px;
-    width: 100%;
-  }
-
-  .feature-block-one {
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-    min-width: 300px;
-    width: 100%;
-  }
-
-  .feature-block-one .inner-box {
-    flex-grow: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    background: #f9f9f9;
-    padding: 20px;
-    border-radius: 20px;
-    height: 100%;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
-    transition: transform 0.3s ease;
-  }
-
-  .feature-block-one .inner-box:hover {
-    transform: translateY(-5px);
-  }
-
-  .feature-block-one h3 {
-    margin-top: 15px;
-    margin-bottom: 10px;
-    font-size: 1.5rem;
-  }
-
-  .feature-block-one p {
-    margin-top: auto;
-    font-size: 1rem;
-    line-height: 1.6;
-  }
-
-  /* Banner section */
-  .banner-section {
-    position: relative;
-    overflow: hidden;
-  }
-
-  .bg-video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    min-width: 100%;
-    min-height: 100%;
-    object-fit: cover;
-    z-index: 0;
-  }
-
-  .video-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background: rgba(0, 0, 0, 0.5);
-    z-index: 1;
-  }
-
-  .banner-carousel,
-  .banner-content,
-  .slide-item {
-    position: relative;
-    z-index: 2;
-  }
-
-  /* Responsive styles */
-  @media (max-width: 768px) {
-    .feature-block {
-      flex-direction: column;
+<script>
+(function(){
+  function initLuxCarousel() {
+    if (typeof jQuery === 'undefined' || typeof jQuery.fn.owlCarousel === 'undefined') {
+      setTimeout(initLuxCarousel, 120); return;
     }
-
-    .feature-block-one {
-      width: 100%;
-    }
-
-    .feature-block-one h3 {
-      font-size: 1.3rem;
-    }
-
-    .feature-block-one p {
-      font-size: 0.95rem;
-    }
-
-    .feature-block-one .inner-box {
-      padding: 15px;
-    }
+    jQuery('.lux-img-carousel').owlCarousel({
+      items: 1, loop: true, autoplay: true,
+      autoplayTimeout: 3800, autoplayHoverPause: true,
+      animateOut: 'fadeOut', animateIn: 'fadeIn',
+      dots: true, nav: false, smartSpeed: 900
+    });
   }
-
-  @media (max-width: 480px) {
-    .feature-block-one h3 {
-      font-size: 1.1rem;
-    }
-
-    .feature-block-one p {
-      font-size: 0.9rem;
-    }
-
-    .feature-block-one .inner-box {
-      padding: 12px;
-    }
-  }
-</style>
-
-
-<!-- <section class="feature-section p_relative"> -->
-<!--    <div class="auto-container">-->
-<!--        <div class="inner-container p_relative d_block">-->
-<!--            <div class="shape-layer" style="background-image: url(assets/images/shape/shape-17.webp);"></div>-->
-<!--            <div class="title-box p_relative d_block centred">-->
-<!--                <h2>Why Choose Brar Eye Hospital</h2>-->
-<!--                <p>Trusted leaders in advanced and compassionate eye care for over two decades.</p>-->
-<!--            </div>-->
-<!--            <div class="row clearfix"> -->
-
-<!-- Cataract Surgery -->
-<!--                <div class="col-lg-3 col-md-6 col-sm-12 feature-block">-->
-<!--                    <div class="feature-block-one wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">-->
-<!--                        <div class="inner-box p_relative d_block">-->
-<!--                            <div class="icon-box p_relative d_block"><svg width="48" height="48" fill="none" viewBox="0 0 48 48">-->
-<!--  <ellipse cx="24" cy="24" rx="16" ry="10" stroke="#0099A8" stroke-width="2"/>-->
-<!--  <circle cx="24" cy="24" r="5" stroke="#0099A8" stroke-width="2"/>-->
-<!--  <path d="M32 35L40 43" stroke="#0099A8" stroke-width="2" stroke-linecap="round"/>-->
-<!--  <rect x="38" y="37" width="6" height="3" rx="1.5" transform="rotate(45 38 37)" fill="#0099A8"/>-->
-<!--</svg></div>-->
-<!--                            <h3>Cataract Surgery</h3>-->
-<!--                            <p>We specialize in advanced <strong>phacoemulsification</strong> and premium <strong>intraocular lens implantation</strong>, ensuring clear, safe, and quick vision recovery after <strong>cataract removal</strong>.</p>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-
-<!-- LASIK & SMILE Pro -->
-<!--                <div class="col-lg-3 col-md-6 col-sm-12 feature-block">-->
-<!--                    <div class="feature-block-one wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">-->
-<!--                        <div class="inner-box p_relative d_block">-->
-<!--                            <div class="icon-box p_relative d_block"><svg width="48" height="48" fill="none" viewBox="0 0 48 48">-->
-<!--  <ellipse cx="24" cy="24" rx="16" ry="10" stroke="#E96A00" stroke-width="2"/>-->
-<!--  <circle cx="24" cy="24" r="5" stroke="#E96A00" stroke-width="2"/>-->
-<!--  <line x1="24" y1="24" x2="42" y2="10" stroke="#E96A00" stroke-width="2" stroke-dasharray="3,3"/>-->
-<!--  <circle cx="42" cy="10" r="2" fill="#E96A00"/>-->
-<!--</svg></div>-->
-<!--                            <h3>Advanced LASIK & SMILE Pro</h3>-->
-<!--                            <p>Our <strong>bladeless</strong> and <strong>flapless laser vision correction</strong> ensures precision, comfort, and fast recovery—helping you see clearly without <strong>glasses or contact lenses</strong>.</p>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-
-<!-- Retina & Glaucoma Care -->
-<!--                <div class="col-lg-3 col-md-6 col-sm-12 feature-block">-->
-<!--                    <div class="feature-block-one wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">-->
-<!--                        <div class="inner-box p_relative d_block">-->
-<!--                            <div class="icon-box p_relative d_block"><svg width="48" height="48" fill="none" viewBox="0 0 48 48">-->
-<!--  <ellipse cx="24" cy="24" rx="16" ry="10" stroke="#3168FF" stroke-width="2"/>-->
-<!--  <circle cx="24" cy="24" r="5" stroke="#3168FF" stroke-width="2"/>-->
-<!--  <path d="M24 24 Q28 18, 34 24" stroke="#3168FF" stroke-width="2" fill="none"/>-->
-<!--  <path d="M24 24 Q20 30, 14 24" stroke="#3168FF" stroke-width="2" fill="none"/>-->
-<!--</svg></div>-->
-<!--                            <h3>Retina & Glaucoma Services</h3>-->
-<!--                            <p>Comprehensive <strong>diagnosis and laser-based treatment</strong> for <strong>retinal disorders</strong> and <strong>glaucoma</strong> to prevent vision loss and maintain long-term eye health.</p>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-
-<!-- Pediatric Care -->
-<!--<div class="col-lg-3 col-md-6 col-sm-12 feature-block">-->
-<!--  <div class="feature-block-one wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">-->
-<!--    <div class="inner-box p_relative d_block">-->
-<!--      <div class="icon-box p_relative d_block">-->
-<!-- Child Eye Icon -->
-<!--        <svg width="48" height="48" fill="none" viewBox="0 0 48 48">-->
-<!--          <ellipse cx="24" cy="26" rx="14" ry="8" stroke="#4CAF70" stroke-width="2"/>-->
-<!--          <circle cx="24" cy="27" r="4" stroke="#4CAF70" stroke-width="2"/>-->
-<!--          <circle cx="16" cy="18" r="3.5" stroke="#4CAF70" stroke-width="2"/>-->
-<!--          <circle cx="32" cy="18" r="3.5" stroke="#4CAF70" stroke-width="2"/>-->
-<!--        </svg>-->
-<!--      </div>-->
-<!--      <h3>Pediatric Care</h3>-->
-<!--      <p>From <strong>children's eye issues</strong> like <strong>squint</strong> and <strong>lazy eye (amblyopia)</strong>, our specialists provide gentle, child-focused ophthalmic expertise.</p>-->
-<!--    </div>-->
-<!--  </div>-->
-<!--</div>-->
-<!-- Trauma Care -->
-<!--<div class="col-lg-3 col-md-6 col-sm-12 feature-block">-->
-<!--  <div class="feature-block-one wow fadeInUp" data-wow-delay="700ms" data-wow-duration="1500ms">-->
-<!--    <div class="inner-box p_relative d_block">-->
-<!--      <div class="icon-box p_relative d_block">-->
-<!-- Eye with Shield Icon -->
-<!-- Eye with Emergency Flash -->
-<!--<svg width="48" height="48" fill="none" viewBox="0 0 48 48">-->
-<!--  <ellipse cx="24" cy="27" rx="14" ry="8" stroke="#4CAF70" stroke-width="2"/>-->
-<!--  <circle cx="24" cy="27" r="4" stroke="#4CAF70" stroke-width="2"/>-->
-<!-- Flash/Emergency Bolt -->
-<!--  <polygon points="32,15 30,21 34,21 28,29 30,23 26,23" fill="#FF5252"/>-->
-<!--</svg>-->
-
-<!--      </div>-->
-<!--      <h3>Trauma Care</h3>-->
-<!--      <p>From emergency trauma cases to critical vision preservation, our expert team ensures the highest level of urgent eye care when it matters most.</p>-->
-<!--    </div>-->
-<!--  </div>-->
-<!--</div>-->
-
-
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-</section>
+  document.addEventListener('DOMContentLoaded', initLuxCarousel);
+})();
+</script>
 
 
 
