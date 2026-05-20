@@ -29,7 +29,7 @@ include('header.php');
 .lux-hero__overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(105deg, rgba(0,8,22,0.55) 0%, rgba(0,20,40,0.40) 55%, rgba(0,10,30,0.28) 100%);
+  background: linear-gradient(105deg, rgba(0,8,22,0.78) 0%, rgba(0,15,35,0.55) 55%, rgba(0,10,30,0.20) 100%);
   z-index: 1;
 }
 .lux-hero__container {
@@ -45,7 +45,13 @@ include('header.php');
   box-sizing: border-box;
 }
 /* LEFT */
-.lux-hero__left { flex: 0 0 52%; max-width: 52%; }
+.lux-hero__left {
+  flex: 0 0 52%;
+  max-width: 52%;
+  position: relative;
+  z-index: 3;
+}
+.lux-hero__left * { position: relative; z-index: 3; }
 .lux-hero__badge {
   display: inline-flex;
   align-items: center;
@@ -92,6 +98,7 @@ include('header.php');
   margin: 0 0 12px;
   font-family: 'Inter', sans-serif;
   letter-spacing: -1.5px;
+  text-shadow: 0 2px 18px rgba(0,0,0,0.55);
 }
 .lux-hero__h1 em { font-style:normal; color:#1dd2c3; }
 .lux-hero__subh {
@@ -202,7 +209,7 @@ include('header.php');
   background: linear-gradient(160deg, #1dd2c3 0%, #f17732 100%);
   box-shadow: 0 30px 80px rgba(29,210,195,0.22), 0 10px 40px rgba(0,0,0,0.35);
   width: 100%;
-  max-width: 400px;
+  max-width: 460px;
 }
 .lux-hero__img-inner {
   background: linear-gradient(180deg, rgba(29,210,195,0.12) 0%, rgba(0,0,0,0.55) 100%);
@@ -222,8 +229,9 @@ include('header.php');
 .lux-img-carousel .slide-img {
   width: 100%;
   height: auto;
-  max-height: 520px;
+  max-height: 600px;
   object-fit: contain;
+  object-position: bottom;
   display: block;
   padding: 0;
   position: relative;
@@ -336,6 +344,93 @@ include('header.php');
   .lux-btn-primary, .lux-btn-secondary { justify-content: center; }
 }
 </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://brareyehospital.com/#webpage",
+      "url": "https://brareyehospital.com/",
+      "name": "Best Eye Hospital in Bathinda | Brar Eye Hospital Punjab",
+      "description": "Brar Eye Hospital – Punjab's #1 NABH Accredited Eye Superspeciality Hospital. Advanced SMILE Pro, LASIK, Cataract Surgery, Glaucoma, Retina & Cornea treatments in Bathinda & Kotkapura.",
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://brareyehospital.com/"}]
+      },
+      "isPartOf": {"@id": "https://brareyehospital.com/#website"},
+      "about": {"@id": "https://brareyehospital.com/#organization"},
+      "primaryImageOfPage": {"@type": "ImageObject", "url": "https://brareyehospital.com/assets/images/logo1.webp"}
+    },
+    {
+      "@type": "MedicalOrganization",
+      "@id": "https://brareyehospital.com/#org-rated",
+      "name": "Brar Eye Hospital",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1847",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Which is the best eye hospital in Bathinda?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brar Eye Hospital is the best NABH-accredited eye superspeciality hospital in Bathinda, Punjab. Established in 2003, it offers advanced treatments including SMILE Pro, LASIK, Cataract Surgery, Retina, Glaucoma, and Cornea care with 21+ years of trusted expertise."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is SMILE Pro eye surgery and is it available in Bathinda?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "SMILE Pro is the latest bladeless, flapless laser vision correction surgery. Yes, Brar Eye Hospital in Bathinda offers SMILE Pro surgery performed by expert ophthalmologists using state-of-the-art equipment. It provides faster recovery, no flap complications, and excellent vision outcomes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the cost of cataract surgery in Bathinda?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cataract surgery cost at Brar Eye Hospital Bathinda varies depending on the lens type — basic monofocal to premium trifocal IOLs. Contact us at +91-7218272182 or visit our hospital for a personalized consultation and transparent pricing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Brar Eye Hospital NABH accredited?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Brar Eye Hospital is NABH (National Accreditation Board for Hospitals & Healthcare Providers) accredited, ensuring the highest standards of quality, safety, and patient care in eye treatment across Bathinda and Kotkapura, Punjab."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Brar Eye Hospital have branches in Kotkapura?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Brar Eye Hospital has two branches — one in Bathinda and one in Kotkapura, Punjab. Both branches offer comprehensive eye care services with the same NABH-accredited quality standards."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What eye treatments are available at Brar Eye Hospital?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brar Eye Hospital offers a full range of eye treatments including: SMILE Pro Laser Surgery, LASIK, Cataract Surgery (Phacoemulsification), Glaucoma treatment, Retina & Vitreous Surgery, Cornea Transplant, Paediatric Eye Care, Squint Surgery, Oculoplasty, C3R for Keratoconus, and Dry Eye management."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 <section class="lux-hero" aria-label="Brar Eye Hospital Hero">
   <video autoplay muted loop playsinline class="lux-hero__video" poster="assets/images/background/cover-pic-1.webp">

@@ -139,6 +139,13 @@
             "https://www.youtube.com/channel/UCZYhxYnJ5HiVy0GLffaDM-g"
           ],
           "hasMap": "https://maps.google.com/?q=Brar+Eye+Hospital+Bathinda",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "reviewCount": "1847",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
           "isAcceptingNewPatients": true,
           "availableService": [
             {"@type": "MedicalProcedure", "name": "SMILE Pro Laser Vision Correction"},
@@ -207,17 +214,23 @@
             <div id="handle-preloader" class="handle-preloader">
                 <div class="animation-preloader" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
 
-          <!-- 🔵 Eye Video -->
+          <!-- Logo -->
 <div class="eye-video-container" style="margin-bottom: 30px; display: flex; justify-content: center; align-items: center;">
   <div class="eye-circle-wrapper">
-    <video class="eye-circle-video" autoplay muted loop playsinline>
-      <source src="assets/images/brar eyes logo an.mp4" type="video/mp4" />
-      Your browser does not support the video tag.
-    </video>
+    <img src="assets/images/logo1.webp" alt="Brar Eye Hospital" class="eye-circle-video" style="background:#fff;" />
   </div>
 </div>
 
 <style>
+  @keyframes preloaderFadeOut {
+    0%   { opacity: 1; visibility: visible; }
+    85%  { opacity: 1; visibility: visible; }
+    100% { opacity: 0; visibility: hidden; }
+  }
+  .loader-wrap {
+    animation: preloaderFadeOut 2s ease forwards !important;
+  }
+
   .eye-circle-wrapper {
     width: 200px;
     height: 200px;
@@ -230,8 +243,8 @@
   }
 
   .eye-circle-video {
-    width: 250px;
-    height: 250px;
+    width: 190px;
+    height: 190px;
     border-radius: 50%;
     object-fit: cover;
   }

@@ -636,6 +636,12 @@
                 enableMasonry();
         });
 
+        setTimeout(function() {
+                if ($('.loader-wrap').length && $('.loader-wrap').is(':visible')) {
+                        $('.loader-wrap').fadeOut(400);
+                }
+        }, 1800);
+
         
 
 })(window.jQuery);

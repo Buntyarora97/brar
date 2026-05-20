@@ -75,3 +75,6 @@ LLMs: https://brareyehospital.com/llms.txt
 
 # Sitemap
 Sitemap: https://brareyehospital.com/sitemap.xml
+
+# Host
+Host: https://brareyehospital.com
