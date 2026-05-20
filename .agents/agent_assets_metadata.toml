@@ -1,0 +1,20 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "mTUdhwXzdGYyVB0XG1txv"
+uri = "file://assets/images/banner/hero-doctor.png"
+type = "image"
+title = "Indian eye doctor hero"
+
+[[generated]]
+id = "ghkR6Ft1zZrKn13GtDh8b"
+uri = "file://assets/images/banner/hero-patient1.png"
+type = "image"
+title = "Happy Punjabi patient"
+
+[[generated]]
+id = "MWrkwRFtkIlaCs9GipZrb"
+uri = "file://assets/images/banner/hero-patient2.png"
+type = "image"
+title = "Happy Indian woman patient"

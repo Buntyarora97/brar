@@ -188,32 +188,57 @@ include('header.php');
 }
 /* RIGHT */
 .lux-hero__right {
-  flex: 0 0 44%;
-  max-width: 44%;
+  flex: 0 0 42%;
+  max-width: 42%;
   position: relative;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: center;
 }
 .lux-hero__img-frame {
   position: relative;
-  border-radius: 28px;
-  padding: 3px;
-  background: linear-gradient(135deg, rgba(29,210,195,0.7), rgba(241,119,50,0.5));
+  border-radius: 220px 220px 28px 28px;
+  padding: 4px;
+  background: linear-gradient(160deg, #1dd2c3 0%, #f17732 100%);
+  box-shadow: 0 30px 80px rgba(29,210,195,0.22), 0 10px 40px rgba(0,0,0,0.35);
+  width: 100%;
+  max-width: 400px;
 }
 .lux-hero__img-inner {
-  background: rgba(0,0,0,0.25);
-  border-radius: 26px;
+  background: linear-gradient(180deg, rgba(29,210,195,0.12) 0%, rgba(0,0,0,0.55) 100%);
+  border-radius: 218px 218px 26px 26px;
   overflow: hidden;
+  position: relative;
+}
+.lux-hero__img-inner::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 60%;
+  background: radial-gradient(ellipse at 50% 0%, rgba(29,210,195,0.18) 0%, transparent 70%);
+  z-index: 1;
+  pointer-events: none;
 }
 .lux-img-carousel .slide-img {
   width: 100%;
   height: auto;
-  max-height: 560px;
+  max-height: 520px;
   object-fit: contain;
   display: block;
-  padding: 10px 10px 0;
-  filter: drop-shadow(0 16px 48px rgba(0,0,0,0.45));
+  padding: 0;
+  position: relative;
+  z-index: 2;
+  filter: drop-shadow(0 20px 50px rgba(0,0,0,0.5));
+  transition: transform 0.6s ease;
 }
-.lux-img-carousel .owl-dots { margin-top: 14px !important; }
+.lux-img-carousel .owl-item.active .slide-img {
+  animation: heroImgIn 0.7s ease forwards;
+}
+@keyframes heroImgIn {
+  from { transform: translateY(12px); opacity: 0.6; }
+  to   { transform: translateY(0);    opacity: 1; }
+}
+.lux-img-carousel .owl-dots { margin-top: 10px !important; }
 .lux-img-carousel .owl-dot span {
   background: rgba(255,255,255,0.28) !important;
   width: 8px !important; height: 8px !important;
@@ -223,6 +248,53 @@ include('header.php');
   background: #1dd2c3 !important;
   width: 26px !important;
   border-radius: 4px !important;
+}
+/* floating badge cards */
+.lux-hero__badge-card {
+  position: absolute;
+  background: rgba(255,255,255,0.97);
+  border-radius: 16px;
+  padding: 10px 16px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.18);
+  z-index: 10;
+  backdrop-filter: blur(8px);
+}
+.lux-hero__badge-card--nabh {
+  bottom: 45px;
+  left: -10px;
+}
+.lux-hero__badge-card--patients {
+  top: 30%;
+  right: -20px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  padding: 12px 16px;
+}
+.lux-hero__badge-card img { height: 38px; width: auto; }
+.lux-hero__badge-card-title {
+  font-size: 11px;
+  font-weight: 800;
+  color: #1a2a3a;
+  font-family: 'Inter', sans-serif;
+  line-height: 1.3;
+}
+.lux-hero__badge-card-sub {
+  display: block;
+  color: #f17732;
+  font-size: 10px;
+  font-weight: 500;
+  font-family: 'Jost', sans-serif;
+}
+.lux-hero__badge-card-num {
+  font-size: 22px;
+  font-weight: 800;
+  color: #1dd2c3;
+  font-family: 'Inter', sans-serif;
+  line-height: 1;
 }
 .lux-hero__trust {
   position: absolute;
@@ -327,30 +399,31 @@ include('header.php');
         <div class="lux-hero__img-inner">
           <div class="lux-img-carousel owl-carousel owl-theme">
             <div class="item">
-              <img class="slide-img" src="assets/images/banner/a1].webp" alt="Advanced Eye Treatment at Brar Eye Hospital Bathinda" loading="eager">
+              <img class="slide-img" src="assets/images/banner/hero-doctor.png" alt="Expert Eye Specialist at Brar Eye Hospital Bathinda" loading="eager">
             </div>
             <div class="item">
-              <img class="slide-img" src="assets/images/banner/1b.webp" alt="SMILE Pro LASIK Eye Surgery Brar Hospital Bathinda" loading="lazy">
+              <img class="slide-img" src="assets/images/banner/hero-patient1.png" alt="Happy Patient after Eye Treatment at Brar Eye Hospital" loading="lazy">
             </div>
             <div class="item">
-              <img class="slide-img" src="assets/images/banner/B.webp" alt="Cataract Surgery Expert Brar Eye Hospital" loading="lazy">
-            </div>
-            <div class="item">
-              <img class="slide-img" src="assets/images/banner/C.webp" alt="Brar Eye Hospital Kotkapura Branch" loading="lazy">
-            </div>
-            <div class="item">
-              <img class="slide-img" src="assets/images/banner/new-.webp" alt="Brar Eye Hospital Modern Facilities" loading="lazy">
+              <img class="slide-img" src="assets/images/banner/hero-patient2.png" alt="Satisfied Patient at Brar Eye Hospital Bathinda" loading="lazy">
             </div>
           </div>
         </div>
       </div>
 
-      <div class="lux-hero__trust">
+      <!-- Floating: NABH Badge -->
+      <div class="lux-hero__badge-card lux-hero__badge-card--nabh">
         <img src="assets/images/nabh-logo.webp" alt="NABH Accredited Eye Hospital Punjab">
-        <div class="lux-hero__trust-txt">
-          NABH Accredited
-          <span>Quality &amp; Safety Certified</span>
+        <div>
+          <div class="lux-hero__badge-card-title">NABH Accredited</div>
+          <span class="lux-hero__badge-card-sub">Quality &amp; Safety Certified</span>
         </div>
+      </div>
+
+      <!-- Floating: Happy Patients -->
+      <div class="lux-hero__badge-card lux-hero__badge-card--patients">
+        <div class="lux-hero__badge-card-num">50,000+</div>
+        <div class="lux-hero__badge-card-title">Happy Patients<br>Treated</div>
       </div>
     </div>
 
