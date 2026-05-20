@@ -325,6 +325,191 @@ border:1px solid #eee;
             </div>
         </div>
     </div>
+<!-- Cities We Serve Section -->
+<div style="background:#0a1e2e;padding:48px 0 36px;border-top:1px solid rgba(255,255,255,0.07)">
+  <div class="auto-container">
+    <h3 style="color:#1dd2c3;font-size:1.25rem;margin-bottom:24px;font-weight:700;letter-spacing:.5px;text-align:center">Cities We Serve Across Punjab</h3>
+    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:28px 40px">
+
+      <!-- Existing major cities -->
+      <div>
+        <h4 style="color:#f17732;font-size:.82rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;margin-bottom:10px;border-bottom:1px solid rgba(255,255,255,0.1);padding-bottom:6px">Bathinda</h4>
+        <ul style="list-style:none;padding:0;margin:0">
+          <li><a href="best-eye-hospital-in-bathinda.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Best Eye Hospital</a></li>
+          <li><a href="best-eye-doctor-in-bathinda.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Best Eye Doctor</a></li>
+          <li><a href="cataract-surgery-in-bathinda.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Cataract Surgery</a></li>
+          <li><a href="retina-specialist-in-bathinda.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Retina Specialist</a></li>
+          <li><a href="glaucoma-treatment-in-bathinda.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Glaucoma Treatment</a></li>
+          <li><a href="eye-hospital-gallery-bathinda.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Photo Gallery</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4 style="color:#f17732;font-size:.82rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;margin-bottom:10px;border-bottom:1px solid rgba(255,255,255,0.1);padding-bottom:6px">Kotkapura</h4>
+        <ul style="list-style:none;padding:0;margin:0">
+          <li><a href="best-eye-hospital-in-kotkapura.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Best Eye Hospital</a></li>
+          <li><a href="best-eye-doctor-in-kotkapura.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Best Eye Doctor</a></li>
+          <li><a href="cataract-surgery-in-kotkapura.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Cataract Surgery</a></li>
+          <li><a href="retina-specialist-in-kotkapura.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Retina Specialist</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4 style="color:#f17732;font-size:.82rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;margin-bottom:10px;border-bottom:1px solid rgba(255,255,255,0.1);padding-bottom:6px">Ludhiana</h4>
+        <ul style="list-style:none;padding:0;margin:0">
+          <li><a href="best-eye-hospital-in-ludhiana.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Best Eye Hospital</a></li>
+          <li><a href="best-eye-doctor-in-ludhiana.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Best Eye Doctor</a></li>
+          <li><a href="cataract-surgery-in-ludhiana.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Cataract Surgery</a></li>
+          <li><a href="lasik-surgery-in-ludhiana.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">LASIK Surgery</a></li>
+          <li><a href="glaucoma-treatment-in-ludhiana.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Glaucoma Treatment</a></li>
+          <li><a href="retina-specialist-in-ludhiana.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Retina Specialist</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4 style="color:#f17732;font-size:.82rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;margin-bottom:10px;border-bottom:1px solid rgba(255,255,255,0.1);padding-bottom:6px">Jalandhar</h4>
+        <ul style="list-style:none;padding:0;margin:0">
+          <li><a href="best-eye-hospital-in-jalandhar.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Best Eye Hospital</a></li>
+          <li><a href="best-eye-doctor-in-jalandhar.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Best Eye Doctor</a></li>
+          <li><a href="cataract-surgery-in-jalandhar.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Cataract Surgery</a></li>
+          <li><a href="lasik-surgery-in-jalandhar.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">LASIK Surgery</a></li>
+          <li><a href="glaucoma-treatment-in-jalandhar.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Glaucoma Treatment</a></li>
+          <li><a href="retina-specialist-in-jalandhar.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Retina Specialist</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4 style="color:#f17732;font-size:.82rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;margin-bottom:10px;border-bottom:1px solid rgba(255,255,255,0.1);padding-bottom:6px">Mohali / Chandigarh</h4>
+        <ul style="list-style:none;padding:0;margin:0">
+          <li><a href="best-eye-hospital-in-mohali.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Mohali</a></li>
+          <li><a href="lasik-surgery-in-mohali.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">LASIK Surgery Mohali</a></li>
+          <li><a href="retina-specialist-in-mohali.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Retina Specialist Mohali</a></li>
+          <li><a href="best-eye-hospital-in-chandigarh.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Chandigarh</a></li>
+          <li><a href="lasik-surgery-in-chandigarh.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">LASIK Chandigarh</a></li>
+          <li><a href="retina-specialist-in-chandigarh.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Retina Chandigarh</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4 style="color:#f17732;font-size:.82rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;margin-bottom:10px;border-bottom:1px solid rgba(255,255,255,0.1);padding-bottom:6px">Amritsar</h4>
+        <ul style="list-style:none;padding:0;margin:0">
+          <li><a href="best-eye-hospital-in-amritsar.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Best Eye Hospital</a></li>
+          <li><a href="best-eye-doctor-in-amritsar.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Best Eye Doctor</a></li>
+          <li><a href="cataract-surgery-in-amritsar.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Cataract Surgery</a></li>
+          <li><a href="retina-specialist-in-amritsar.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Retina Specialist</a></li>
+          <li><a href="smile-pro-surgery-in-amritsar.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">SMILE Pro Surgery</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4 style="color:#f17732;font-size:.82rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;margin-bottom:10px;border-bottom:1px solid rgba(255,255,255,0.1);padding-bottom:6px">Patiala</h4>
+        <ul style="list-style:none;padding:0;margin:0">
+          <li><a href="best-eye-hospital-in-patiala.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Best Eye Hospital</a></li>
+          <li><a href="best-eye-doctor-in-patiala.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Best Eye Doctor</a></li>
+          <li><a href="cataract-surgery-in-patiala.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Cataract Surgery</a></li>
+          <li><a href="retina-specialist-in-patiala.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Retina Specialist</a></li>
+          <li><a href="smile-pro-surgery-in-patiala.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">SMILE Pro Surgery</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4 style="color:#f17732;font-size:.82rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;margin-bottom:10px;border-bottom:1px solid rgba(255,255,255,0.1);padding-bottom:6px">Moga &amp; Mansa</h4>
+        <ul style="list-style:none;padding:0;margin:0">
+          <li><a href="best-eye-hospital-in-moga.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Moga</a></li>
+          <li><a href="retina-specialist-in-moga.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Retina Specialist Moga</a></li>
+          <li><a href="smile-pro-surgery-in-moga.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">SMILE Pro Moga</a></li>
+          <li><a href="best-eye-hospital-in-mansa.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Mansa</a></li>
+          <li><a href="retina-specialist-in-mansa.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Retina Specialist Mansa</a></li>
+          <li><a href="smile-pro-surgery-in-mansa.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">SMILE Pro Mansa</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4 style="color:#f17732;font-size:.82rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;margin-bottom:10px;border-bottom:1px solid rgba(255,255,255,0.1);padding-bottom:6px">Sangrur &amp; Barnala</h4>
+        <ul style="list-style:none;padding:0;margin:0">
+          <li><a href="best-eye-hospital-in-sangrur.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Sangrur</a></li>
+          <li><a href="retina-specialist-in-sangrur.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Retina Sangrur</a></li>
+          <li><a href="smile-pro-surgery-in-sangrur.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">SMILE Pro Sangrur</a></li>
+          <li><a href="best-eye-hospital-in-barnala.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Barnala</a></li>
+          <li><a href="smile-pro-surgery-in-barnala.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">SMILE Pro Barnala</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4 style="color:#f17732;font-size:.82rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;margin-bottom:10px;border-bottom:1px solid rgba(255,255,255,0.1);padding-bottom:6px">Ferozepur &amp; Muktsar</h4>
+        <ul style="list-style:none;padding:0;margin:0">
+          <li><a href="best-eye-hospital-in-ferozepur.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Ferozepur</a></li>
+          <li><a href="retina-specialist-in-ferozepur.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Retina Ferozepur</a></li>
+          <li><a href="smile-pro-surgery-in-ferozepur.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">SMILE Pro Ferozepur</a></li>
+          <li><a href="best-eye-hospital-in-muktsar.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Muktsar</a></li>
+          <li><a href="retina-specialist-in-muktsar.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Retina Muktsar</a></li>
+          <li><a href="smile-pro-surgery-in-muktsar.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">SMILE Pro Muktsar</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4 style="color:#f17732;font-size:.82rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;margin-bottom:10px;border-bottom:1px solid rgba(255,255,255,0.1);padding-bottom:6px">Pathankot &amp; Gurdaspur</h4>
+        <ul style="list-style:none;padding:0;margin:0">
+          <li><a href="best-eye-hospital-in-pathankot.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Pathankot</a></li>
+          <li><a href="cataract-surgery-in-pathankot.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Cataract Pathankot</a></li>
+          <li><a href="lasik-surgery-in-pathankot.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">LASIK Pathankot</a></li>
+          <li><a href="best-eye-hospital-in-gurdaspur.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Gurdaspur</a></li>
+          <li><a href="cataract-surgery-in-gurdaspur.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Cataract Gurdaspur</a></li>
+          <li><a href="lasik-surgery-in-gurdaspur.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">LASIK Gurdaspur</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4 style="color:#f17732;font-size:.82rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;margin-bottom:10px;border-bottom:1px solid rgba(255,255,255,0.1);padding-bottom:6px">Hoshiarpur &amp; Kapurthala</h4>
+        <ul style="list-style:none;padding:0;margin:0">
+          <li><a href="best-eye-hospital-in-hoshiarpur.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Hoshiarpur</a></li>
+          <li><a href="cataract-surgery-in-hoshiarpur.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Cataract Hoshiarpur</a></li>
+          <li><a href="lasik-surgery-in-hoshiarpur.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">LASIK Hoshiarpur</a></li>
+          <li><a href="best-eye-hospital-in-kapurthala.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Kapurthala</a></li>
+          <li><a href="cataract-surgery-in-kapurthala.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Cataract Kapurthala</a></li>
+          <li><a href="lasik-surgery-in-kapurthala.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">LASIK Kapurthala</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4 style="color:#f17732;font-size:.82rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;margin-bottom:10px;border-bottom:1px solid rgba(255,255,255,0.1);padding-bottom:6px">Faridkot &amp; Nawanshahr</h4>
+        <ul style="list-style:none;padding:0;margin:0">
+          <li><a href="best-eye-hospital-in-faridkot.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Faridkot</a></li>
+          <li><a href="cataract-surgery-in-faridkot.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Cataract Faridkot</a></li>
+          <li><a href="lasik-surgery-in-faridkot.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">LASIK Faridkot</a></li>
+          <li><a href="best-eye-hospital-in-nawanshahr.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Nawanshahr</a></li>
+          <li><a href="cataract-surgery-in-nawanshahr.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Cataract Nawanshahr</a></li>
+          <li><a href="lasik-surgery-in-nawanshahr.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">LASIK Nawanshahr</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4 style="color:#f17732;font-size:.82rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;margin-bottom:10px;border-bottom:1px solid rgba(255,255,255,0.1);padding-bottom:6px">Abohar, Malout &amp; Fazilka</h4>
+        <ul style="list-style:none;padding:0;margin:0">
+          <li><a href="best-eye-hospital-in-abohar.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Abohar</a></li>
+          <li><a href="smile-pro-surgery-in-abohar.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">SMILE Pro Abohar</a></li>
+          <li><a href="best-eye-hospital-in-malout.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Malout</a></li>
+          <li><a href="best-eye-hospital-in-fazilka.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Fazilka</a></li>
+          <li><a href="best-eye-hospital-in-jalalabad.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Jalalabad</a></li>
+          <li><a href="best-eye-hospital-in-dabwali.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Dabwali</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4 style="color:#f17732;font-size:.82rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;margin-bottom:10px;border-bottom:1px solid rgba(255,255,255,0.1);padding-bottom:6px">Rajasthan &amp; Haryana</h4>
+        <ul style="list-style:none;padding:0;margin:0">
+          <li><a href="best-eye-hospital-in-sirsa.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Sirsa</a></li>
+          <li><a href="best-eye-hospital-in-hanumangarh.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Hanumangarh</a></li>
+          <li><a href="best-eye-hospital-in-sri-ganganagar.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Sri Ganganagar</a></li>
+          <li><a href="best-eye-hospital-in-tarn-taran.php" style="color:#b0c4d0;font-size:.85rem;text-decoration:none;line-height:2.1">Eye Hospital Tarn Taran</a></li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</div>
+<!-- End Cities We Serve Section -->
+
 <div class="footer-bottom centred">
     <div class="auto-container">
         <div class="copyright">

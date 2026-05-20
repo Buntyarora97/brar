@@ -566,212 +566,172 @@ include('header.php');
 
     <!-- Image Gallery -->
     <div class="image-gallery">
-      <!-- Surgical Images (Examinations & Procedures) -->
+      <!-- Surgical / Examination Images -->
       <div class="image-item surgical" style="animation-delay: 0.05s;">
-        <img data-src="attached_assets/1_1761672408057.webp" alt="Eye examination procedure" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/gallery1/1.webp" alt="Eye examination procedure at Brar Eye Hospital" loading="lazy">
+        <div class="image-overlay">Eye Examination</div>
       </div>
       <div class="image-item surgical" style="animation-delay: 0.1s;">
-        <img data-src="attached_assets/2_1761672408060.webp" alt="Patient consultation" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/gallery1/2.webp" alt="Patient consultation Brar Eye Hospital" loading="lazy">
+        <div class="image-overlay">Patient Consultation</div>
       </div>
       <div class="image-item surgical" style="animation-delay: 0.15s;">
-        <img loading="lazy" data-src="attached_assets/3_1761672408061.webp" alt="Eye testing procedure" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/gallery1/3.webp" alt="Eye testing procedure" loading="lazy">
+        <div class="image-overlay">Eye Testing</div>
       </div>
       <div class="image-item surgical" style="animation-delay: 0.2s;">
-        <img loading="lazy" data-src="attached_assets/5_1761672408064.webp" alt="Slit lamp examination" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/gallery1/4.webp" alt="Slit lamp examination" loading="lazy">
+        <div class="image-overlay">Slit Lamp Exam</div>
       </div>
       <div class="image-item surgical" style="animation-delay: 0.25s;">
-        <img loading="lazy" data-src="attached_assets/6_1761672408064.webp" alt="Eye examination with equipment" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/gallery1/5.webp" alt="Eye examination with advanced equipment" loading="lazy">
+        <div class="image-overlay">Advanced Equipment</div>
       </div>
       <div class="image-item surgical" style="animation-delay: 0.3s;">
-        <img loading="lazy" data-src="attached_assets/7_1761672408065.webp" alt="Patient examination session" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/gallery1/6.webp" alt="Patient examination session" loading="lazy">
+        <div class="image-overlay">Patient Care</div>
       </div>
       <div class="image-item surgical" style="animation-delay: 0.35s;">
-        <img loading="lazy" data-src="attached_assets/9_1761672408066.webp" alt="Professional eye care" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/gallery1/7.webp" alt="Professional eye care at Brar Eye Hospital" loading="lazy">
+        <div class="image-overlay">Professional Eye Care</div>
       </div>
       <div class="image-item surgical" style="animation-delay: 0.4s;">
-        <img loading="lazy" data-src="attached_assets/10_1761672408066.webp" alt="Detailed eye examination" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/gallery1/9.webp" alt="Detailed eye examination" loading="lazy">
+        <div class="image-overlay">Eye Examination</div>
       </div>
       <div class="image-item surgical" style="animation-delay: 0.45s;">
-        <img loading="lazy" data-src="attached_assets/11_1761672408067.webp" alt="Patient care procedure" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/gallery1/10.webp" alt="Patient care and treatment" loading="lazy">
+        <div class="image-overlay">Patient Treatment</div>
       </div>
       <div class="image-item surgical" style="animation-delay: 0.5s;">
-        <img loading="lazy" data-src="attached_assets/12_1761672408068.webp" alt="Eye health assessment" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/gallery1/11.webp" alt="Eye health assessment Bathinda" loading="lazy">
+        <div class="image-overlay">Health Assessment</div>
       </div>
       <div class="image-item surgical" style="animation-delay: 0.55s;">
-        <img loading="lazy" data-src="attached_assets/13_1761672408068.webp" alt="Comprehensive eye exam" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/gallery1/13.webp" alt="Comprehensive eye exam Punjab" loading="lazy">
+        <div class="image-overlay">Comprehensive Exam</div>
       </div>
       <div class="image-item surgical" style="animation-delay: 0.6s;">
-        <img loading="lazy" data-src="attached_assets/14_1761672408068.webp" alt="Vision testing" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/gallery1/15.webp" alt="Vision care at Brar Eye Hospital" loading="lazy">
+        <div class="image-overlay">Vision Care</div>
       </div>
       <div class="image-item surgical" style="animation-delay: 0.65s;">
-        <img loading="lazy" data-src="attached_assets/15_1761672408069.webp" alt="Eye care consultation" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/gallery1/16.webp" alt="Medical eye examination" loading="lazy">
+        <div class="image-overlay">Medical Examination</div>
       </div>
       <div class="image-item surgical" style="animation-delay: 0.7s;">
-        <img loading="lazy" data-src="attached_assets/16_1761672408069.webp" alt="Medical examination" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/gallery1/17.webp" alt="Patient eye treatment" loading="lazy">
+        <div class="image-overlay">Patient Treatment</div>
       </div>
       <div class="image-item surgical" style="animation-delay: 0.75s;">
-        <img loading="lazy" data-src="attached_assets/17_1761672408069.webp" alt="Patient treatment" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/gallery1/18.webp" alt="Eye surgery preparation Bathinda" loading="lazy">
+        <div class="image-overlay">Surgery Preparation</div>
       </div>
       <div class="image-item surgical" style="animation-delay: 0.8s;">
-        <img loading="lazy" data-src="attached_assets/18_1761672408070.webp" alt="Eye surgery preparation" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/sections/Professional_eye_examination_scene_eec40d0a.webp" alt="Professional eye examination" loading="lazy">
+        <div class="image-overlay">Eye Examination</div>
       </div>
       <div class="image-item surgical" style="animation-delay: 0.85s;">
-        <img loading="lazy" data-src="attached_assets/19_1761672408070.webp" alt="Surgical procedure" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/sections/Happy_patient_post-surgery_success_4c72b404.webp" alt="Happy patient after eye surgery" loading="lazy">
+        <div class="image-overlay">Successful Outcome</div>
       </div>
       <div class="image-item surgical" style="animation-delay: 0.9s;">
-        <img loading="lazy" data-src="attached_assets/20_1761672408071.webp" alt="Operating room setup" class="lazy">
-        <div class="image-overlay">Click to view</div>
-      </div>
-      <div class="image-item surgical" style="animation-delay: 0.95s;">
-        <img loading="lazy" data-src="attached_assets/21_1761672761444.webp" alt="Advanced eye surgery" class="lazy">
-        <div class="image-overlay">Click to view</div>
-      </div>
-      <div class="image-item surgical" style="animation-delay: 1s;">
-        <img loading="lazy" data-src="attached_assets/22_1761672761444.webp" alt="Microscopic surgery" class="lazy">
-        <div class="image-overlay">Click to view</div>
-      </div>
-      <div class="image-item surgical" style="animation-delay: 1.05s;">
-        <img loading="lazy" data-src="attached_assets/23_1761672761445.webp" alt="Precision eye surgery" class="lazy">
-        <div class="image-overlay">Click to view</div>
-      </div>
-      <div class="image-item surgical" style="animation-delay: 1.1s;">
-        <img loading="lazy" data-src="attached_assets/24_1761672761446.webp" alt="Surgical team in action" class="lazy">
-        <div class="image-overlay">Click to view</div>
-      </div>
-      <div class="image-item surgical" style="animation-delay: 1.15s;">
-        <img loading="lazy" data-src="attached_assets/25_1761672761446.webp" alt="Eye operation procedure" class="lazy">
-        <div class="image-overlay">Click to view</div>
-      </div>
-      <div class="image-item surgical" style="animation-delay: 1.2s;">
-        <img loading="lazy" data-src="attached_assets/26_1761672761447.webp" alt="Advanced surgical technique" class="lazy">
-        <div class="image-overlay">Click to view</div>
-      </div>
-      <div class="image-item surgical" style="animation-delay: 1.25s;">
-        <img loading="lazy" data-src="attached_assets/27_1761672761448.webp" alt="Professional surgery" class="lazy">
-        <div class="image-overlay">Click to view</div>
-      </div>
-      <div class="image-item surgical" style="animation-delay: 1.3s;">
-        <img loading="lazy" data-src="attached_assets/28_1761672761448.webp" alt="Cataract surgery" class="lazy">
-        <div class="image-overlay">Click to view</div>
-      </div>
-      <div class="image-item surgical" style="animation-delay: 1.35s;">
-        <img loading="lazy" data-src="attached_assets/29_1761672761449.webp" alt="Eye care surgery" class="lazy">
-        <div class="image-overlay">Click to view</div>
-      </div>
-      <div class="image-item surgical" style="animation-delay: 1.4s;">
-        <img loading="lazy" data-src="attached_assets/30_1761672761449.webp" alt="Surgical excellence" class="lazy">
-        <div class="image-overlay">Click to view</div>
-      </div>
-      <div class="image-item surgical" style="animation-delay: 1.45s;">
-        <img loading="lazy" data-src="attached_assets/49_1761672979803.webp" alt="Microscope surgery" class="lazy">
-        <div class="image-overlay">Click to view</div>
-      </div>
-      <div class="image-item surgical" style="animation-delay: 1.5s;">
-        <img loading="lazy" data-src="attached_assets/50_1761672979804.webp" alt="Patient examination" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/sections/Advanced_laser_eye_surgery_equipment_3754f4b3.webp" alt="Advanced laser eye surgery equipment" loading="lazy">
+        <div class="image-overlay">Laser Equipment</div>
       </div>
 
-      <!-- Smile-Pro Images -->
+      <!-- SMILE Pro Images -->
       <div class="image-item smilepro" style="animation-delay: 0.05s;">
-        <img loading="lazy" data-src="attached_assets/31_1761672761450.webp" alt="Smile Pro technology" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/smile-pro/smile-pro-main.webp" alt="SMILE Pro technology at Brar Eye Hospital" loading="lazy">
+        <div class="image-overlay">SMILE Pro Technology</div>
       </div>
       <div class="image-item smilepro" style="animation-delay: 0.1s;">
-        <img loading="lazy" data-src="attached_assets/32_1761672761451.webp" alt="Advanced Smile Pro procedure" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/smile-pro/smile-pro-procedure.webp" alt="SMILE Pro laser procedure" loading="lazy">
+        <div class="image-overlay">SMILE Pro Procedure</div>
       </div>
       <div class="image-item smilepro" style="animation-delay: 0.15s;">
-        <img loading="lazy" data-src="attached_assets/33_1761672761452.webp" alt="Smile Pro laser treatment" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/smile-pro/smile-pro-technology.webp" alt="ZEISS SMILE Pro machine" loading="lazy">
+        <div class="image-overlay">ZEISS Technology</div>
       </div>
       <div class="image-item smilepro" style="animation-delay: 0.2s;">
-        <img loading="lazy" data-src="attached_assets/34_1761672761452.webp" alt="Vision correction surgery" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/smile-pro/smile-pro-results.webp" alt="SMILE Pro vision correction results" loading="lazy">
+        <div class="image-overlay">Excellent Results</div>
       </div>
       <div class="image-item smilepro" style="animation-delay: 0.25s;">
-        <img loading="lazy" data-src="attached_assets/35_1761672761453.webp" alt="LASIK procedure" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/smile-pro/smile-pro-recovery.webp" alt="SMILE Pro fast recovery" loading="lazy">
+        <div class="image-overlay">Fast Recovery</div>
+      </div>
+      <div class="image-item smilepro" style="animation-delay: 0.3s;">
+        <img src="assets/images/sections/SMILE_Pro_minimal_incision_procedure_f70224ec.webp" alt="SMILE Pro minimal incision procedure" loading="lazy">
+        <div class="image-overlay">Minimal Incision</div>
+      </div>
+      <div class="image-item smilepro" style="animation-delay: 0.35s;">
+        <img src="assets/images/sections/LASIK_surgery_procedure_illustration_c871a6da.webp" alt="LASIK surgery procedure" loading="lazy">
+        <div class="image-overlay">LASIK Procedure</div>
       </div>
 
       <!-- Hospital Facilities -->
       <div class="image-item hospital" style="animation-delay: 0.05s;">
-        <img loading="lazy" data-src="attached_assets/36_1761672761453.webp" alt="Hospital reception area" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/hospital.webp" alt="Brar Eye Hospital building Bathinda" loading="lazy">
+        <div class="image-overlay">Our Hospital</div>
       </div>
       <div class="image-item hospital" style="animation-delay: 0.1s;">
-        <img loading="lazy" data-src="attached_assets/37_1761672761454.webp" alt="Waiting room" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/bhatinda.webp" alt="Brar Eye Hospital Bathinda branch" loading="lazy">
+        <div class="image-overlay">Bathinda Branch</div>
       </div>
       <div class="image-item hospital" style="animation-delay: 0.15s;">
-        <img loading="lazy" data-src="attached_assets/38_1761672761454.webp" alt="Optical shop" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/Kotkapura.webp" alt="Brar Eye Hospital Kotkapura branch" loading="lazy">
+        <div class="image-overlay">Kotkapura Branch</div>
       </div>
       <div class="image-item hospital" style="animation-delay: 0.2s;">
-        <img loading="lazy" data-src="attached_assets/39_1761672761455.webp" alt="Hospital interior" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/service/cataract-detail.webp" alt="Cataract surgery at Brar Eye Hospital" loading="lazy">
+        <div class="image-overlay">Cataract Surgery</div>
       </div>
       <div class="image-item hospital" style="animation-delay: 0.25s;">
-        <img loading="lazy" data-src="attached_assets/40_1761672761456.webp" alt="Consultation area" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/service/alcon-centurion.webp" alt="ALCON Centurion cataract machine" loading="lazy">
+        <div class="image-overlay">ALCON Centurion</div>
       </div>
       <div class="image-item hospital" style="animation-delay: 0.3s;">
-        <img loading="lazy" data-src="attached_assets/41_1761672979798.webp" alt="Hospital facilities" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/service/contaract-surgery-illustration.webp" alt="Modern cataract surgery" loading="lazy">
+        <div class="image-overlay">Modern Surgery</div>
       </div>
       <div class="image-item hospital" style="animation-delay: 0.35s;">
-        <img loading="lazy" data-src="attached_assets/42_1761672979799.webp" alt="Patient comfort area" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/service/Eye-Cataract.webp" alt="Eye cataract treatment Punjab" loading="lazy">
+        <div class="image-overlay">Cataract Treatment</div>
       </div>
       <div class="image-item hospital" style="animation-delay: 0.4s;">
-        <img loading="lazy" data-src="attached_assets/WhatsApp-Image-2025-10-28-at-16.34_1761672979804.webp" alt="Brar Eye Hospital building" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/service/cataract-after.webp" alt="Clear vision after cataract surgery" loading="lazy">
+        <div class="image-overlay">Clear Vision Restored</div>
       </div>
 
-      <!-- Equipment & Staff -->
+      <!-- Equipment & Specialist Care -->
       <div class="image-item equipment" style="animation-delay: 0.05s;">
-        <img loading="lazy" data-src="attached_assets/4_1761672408062.webp" alt="Medical staff" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/glaucoma/glaucoma-main.webp" alt="Glaucoma diagnosis and treatment" loading="lazy">
+        <div class="image-overlay">Glaucoma Care</div>
       </div>
       <div class="image-item equipment" style="animation-delay: 0.1s;">
-        <img loading="lazy" data-src="attached_assets/43_1761672979800.webp" alt="ZEISS equipment" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/glaucoma/eye-pressure-check.webp" alt="IOP eye pressure check" loading="lazy">
+        <div class="image-overlay">IOP Pressure Check</div>
       </div>
       <div class="image-item equipment" style="animation-delay: 0.15s;">
-        <img loading="lazy" data-src="attached_assets/44_1761672979801.webp" alt="Advanced diagnostic equipment" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/glaucoma/rnfl-test.webp" alt="RNFL glaucoma test" loading="lazy">
+        <div class="image-overlay">RNFL Analysis</div>
       </div>
       <div class="image-item equipment" style="animation-delay: 0.2s;">
-        <img loading="lazy" data-src="attached_assets/45_1761672979801.webp" alt="Surgical instruments" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/retina/retina-specialist.webp" alt="Retina specialist at Brar Eye Hospital" loading="lazy">
+        <div class="image-overlay">Retina Specialist</div>
       </div>
       <div class="image-item equipment" style="animation-delay: 0.25s;">
-        <img loading="lazy" data-src="attached_assets/46_1761672979802.webp" alt="Modern eye care equipment" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/retina/diabetic-retinopathy.webp" alt="Diabetic retinopathy treatment" loading="lazy">
+        <div class="image-overlay">Diabetic Retinopathy</div>
       </div>
       <div class="image-item equipment" style="animation-delay: 0.3s;">
-        <img loading="lazy" data-src="attached_assets/47_1761672979802.webp" alt="Medical technology" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/sections/Corneal_topography_mapping_visualization_1b038d03.webp" alt="Corneal topography mapping" loading="lazy">
+        <div class="image-overlay">Corneal Topography</div>
       </div>
       <div class="image-item equipment" style="animation-delay: 0.35s;">
-        <img loading="lazy" data-src="attached_assets/48_1761672979803.webp" alt="State-of-the-art equipment" class="lazy">
-        <div class="image-overlay">Click to view</div>
+        <img src="assets/images/sections/Child-friendly_pediatric_eye_care_c1135587.webp" alt="Paediatric eye care for children" loading="lazy">
+        <div class="image-overlay">Paediatric Eye Care</div>
       </div>
     </div>
   </div>
