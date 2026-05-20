@@ -851,28 +851,23 @@
 
 <div class="brareye123-header">
   <div class="brareye123-inner">
-    
-   <!-- Logo Section -->
-<div class="brareye123-logo animateFade">
-  <a href="index.php" style="display:inline-block;">
-    <video autoplay muted loop playsinline>
-      <source src="assets/images/brar eyes logo an.mp4" type="video/mp4" />
-      Your browser does not support the video tag.
-    </video>
-  </a>
-</div>
 
+    <!-- Logo -->
+    <div class="brareye123-logo">
+      <a href="index.php">
+        <img src="assets/images/logo1.webp" alt="Brar Eye Hospital Logo" />
+      </a>
+    </div>
 
-    <!-- Hospital name -->
-    <div class="brareye123-title animateFade">
+    <!-- Hospital Name -->
+    <div class="brareye123-title">
       BRAR EYE HOSPITAL
     </div>
 
-    <!-- Right side -->
+    <!-- Right: Button + NABH -->
     <div class="brareye123-right">
-      <a href="contact-brar-eye-hospital-bathinda.php" class="brareye123-btn animateFade">Book An Appointment</a>
-
-      <div class="brareye123-nabh animateFade">
+      <a href="contact-brar-eye-hospital-bathinda.php" class="brareye123-btn">Book An Appointment</a>
+      <div class="brareye123-nabh">
         <img src="assets/images/nabh-logo.webp" alt="NABH Accredited" />
       </div>
     </div>
@@ -884,117 +879,88 @@
 /* MAIN HEADER */
 .brareye123-header {
   width: 100%;
-  background: #fff;
-  border-bottom: 1px solid #eee;
-  padding: 0;
+  background: #ffffff !important;
+  border-bottom: 2px solid #e8e8e8 !important;
+  padding: 8px 20px;
+  box-sizing: border-box;
+  position: relative;
+  z-index: 10;
 }
 
 .brareye123-inner {
-  max-width: 100%;
+  max-width: 1400px;
   margin: 0 auto;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
-}
-
-/* ANIMATION */
-@keyframes fadeZoom {
-  0% { opacity: 0; transform: scale(0.85); }
-  100% { opacity: 1; transform: scale(1); }
-}
-
-.animateFade {
-  animation: fadeZoom 0.8s ease forwards;
+  gap: 18px;
 }
 
 /* LOGO */
-.brareye123-logo video {
-  height: 105px;
-  width: auto;
+.brareye123-logo img {
+  height: 80px;
+  width: 80px;
   object-fit: contain;
   display: block;
+  border-radius: 50%;
+  background: #fff;
 }
 
 /* TITLE */
 .brareye123-title {
   font-family: 'Inter', Arial, Helvetica, sans-serif;
   color: #f17732;
-  font-size: 52px;      /* 👈 Increased Size */
+  font-size: 42px;
   font-weight: 900;
-  margin-left: 32px;
-  letter-spacing: 2px;
+  letter-spacing: 1.5px;
   white-space: nowrap;
   flex: 1 1 auto;
+  line-height: 1;
 }
 
 /* RIGHT SIDE */
 .brareye123-right {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 14px;
+  flex-shrink: 0;
 }
 
 .brareye123-btn {
   background: #1dd2c3;
-  color: #fff;
-  padding: 12px 20px;
-  border-radius: 10px;
-  text-decoration: none;
-  font-weight: 800;
-  font-size: 20px;
-  letter-spacing: .5px;
-  box-shadow: 0 3px 14px rgba(0,0,0,0.06);
+  color: #fff !important;
+  padding: 13px 24px;
+  border-radius: 8px;
+  text-decoration: none !important;
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 0.3px;
+  white-space: nowrap;
   transition: background 0.2s;
   font-family: 'Inter', sans-serif;
 }
 .brareye123-btn:hover {
   background: #f17732;
+  color: #fff !important;
 }
 
 .brareye123-nabh img {
-  height: 85px;
+  height: 72px;
   width: auto;
   display: block;
 }
 
 /* RESPONSIVE */
 @media (max-width: 992px) {
-  .brareye123-inner {
-    flex-direction: column;
-    gap: 20px;
-    text-align: center;
-  }
-  .brareye123-title {
-    font-size: 42px;
-    margin: 0;
-  }
-  .brareye123-logo video {
-    height: 80px;
-  }
-  .brareye123-btn {
-    font-size: 18px;
-  }
-  .brareye123-nabh img {
-    height: 45px;
-  }
+  .brareye123-title { font-size: 30px; }
+  .brareye123-logo img { height: 64px; width: 64px; }
+  .brareye123-nabh img { height: 54px; }
+  .brareye123-btn { font-size: 14px; padding: 10px 16px; }
 }
 
-@media (max-width: 570px) {
-  .brareye123-title {
-    font-size: 28px;
-    letter-spacing: 1px;
-  }
-  .brareye123-logo video {
-    height: 55px;
-  }
-  .brareye123-btn {
-    font-size: 14px;
-    padding: 8px 14px;
-  }
-  .brareye123-nabh img {
-    height: 28px;
-  }
+@media (max-width: 640px) {
+  .brareye123-inner { flex-wrap: wrap; justify-content: center; text-align: center; }
+  .brareye123-title { font-size: 24px; letter-spacing: 1px; width: 100%; text-align: center; }
+  .brareye123-right { justify-content: center; }
 }
 </style>
 

@@ -29,7 +29,7 @@ include('header.php');
 .lux-hero__overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(105deg, rgba(0,8,22,0.83) 0%, rgba(0,20,40,0.70) 55%, rgba(0,10,30,0.52) 100%);
+  background: linear-gradient(105deg, rgba(0,8,22,0.55) 0%, rgba(0,20,40,0.40) 55%, rgba(0,10,30,0.28) 100%);
   z-index: 1;
 }
 .lux-hero__container {
