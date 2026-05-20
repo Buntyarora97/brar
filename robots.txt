@@ -26,12 +26,52 @@ Disallow: /sendemail.php
 Disallow: /send-appointment.php
 Disallow: /send-newsletter.php
 
+# Google
 User-agent: Googlebot
 Allow: /
 Crawl-delay: 1
 
+# Microsoft Bing
 User-agent: Bingbot
 Allow: /
 Crawl-delay: 2
 
+# AI – OpenAI ChatGPT
+User-agent: GPTBot
+Allow: /
+
+# AI – OpenAI ChatGPT browsing plugin
+User-agent: ChatGPT-User
+Allow: /
+
+# AI – Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+# AI – Anthropic Claude
+User-agent: ClaudeBot
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+
+# AI – Google Gemini / Bard
+User-agent: Google-Extended
+Allow: /
+
+# AI – Meta (Llama)
+User-agent: meta-externalagent
+Allow: /
+
+# AI – Common Crawl (used by many AI models)
+User-agent: CCBot
+Allow: /
+
+# AI – Apple
+User-agent: Applebot-Extended
+Allow: /
+
+# AI Reference Document
+LLMs: https://brareyehospital.com/llms.txt
+
+# Sitemap
 Sitemap: https://brareyehospital.com/sitemap.xml

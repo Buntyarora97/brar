@@ -1,8 +1,23 @@
+<?php
+$pageTitle = "LASIK Surgery in Bathinda | Laser Vision Correction – Brar Eye Hospital";
+$pageDescription = "Expert LASIK laser eye surgery in Bathinda at Brar Eye Hospital. SMILE Pro, Contoura Vision, Femto LASIK. First LASIK hospital in Malwa. NABH Accredited. Call +91 72182-72182.";
+$pageKeywords = "LASIK Bathinda, LASIK surgery Bathinda, laser eye surgery Bathinda, vision correction Bathinda, SMILE Pro Bathinda, Contoura Vision Bathinda, LASIK surgeon Malwa";
+?>
 <?php include 'header.php'; ?>
 
 <img src="assets\images\banner1\lasik laser.webp" alt="LASIK Laser Vision Correction" class="banner">
 
 <div class="container">
+<!-- Internal SEO Links to Related LASIK Pages -->
+<div style="background:#e8f5fe;border-radius:10px;padding:20px 25px;margin:20px 0;display:flex;flex-wrap:wrap;gap:12px;align-items:center">
+  <strong style="color:#0e5c8a;margin-right:5px">Related:</strong>
+  <a href="lasik-surgery-in-bathinda.php" style="background:#0e5c8a;color:#fff;padding:7px 16px;border-radius:5px;text-decoration:none;font-size:14px">LASIK Surgery in Bathinda</a>
+  <a href="lasik-surgery-cost-in-bathinda.php" style="background:#f17732;color:#fff;padding:7px 16px;border-radius:5px;text-decoration:none;font-size:14px">LASIK Cost Bathinda</a>
+  <a href="lasik-surgery-in-kotkapura.php" style="background:#27ae60;color:#fff;padding:7px 16px;border-radius:5px;text-decoration:none;font-size:14px">LASIK in Kotkapura</a>
+  <a href="contoura-vision-bathinda.php" style="background:#8e44ad;color:#fff;padding:7px 16px;border-radius:5px;text-decoration:none;font-size:14px">Contoura Vision</a>
+  <a href="laser-vision-correction-bathinda.php" style="background:#1dd2c3;color:#fff;padding:7px 16px;border-radius:5px;text-decoration:none;font-size:14px">SMILE Pro</a>
+</div>
+
     <h1 class="page-title">LASIK Laser Vision Correction</h1>
     
     <div class="content-section intro-section">

@@ -45,8 +45,16 @@
     <meta name="geo.position" content="30.2110;74.9455">
     <meta name="ICBM" content="30.2110, 74.9455">
 
-    <!-- Fav Icon -->
+    <!-- AI / LLM Visibility (ChatGPT, Perplexity, Bing AI, Gemini) -->
+    <meta name="ai-content-declaration" content="human-expert-authored">
+    <meta name="article:author" content="Brar Eye Hospital Medical Team">
+    <meta name="citation_author" content="Dr. P.S. Brar, Brar Eye Hospital">
+    <meta name="citation_publisher" content="Brar Eye Hospital, Bathinda">
+    <link rel="alternate" type="text/plain" href="https://brareyehospital.com/llms.txt" title="AI Reference Document">
+
+    <!-- Fav Icon + Apple Touch Icon -->
     <link rel="icon" href="assets/images/logo1.webp" type="image/x-icon">
+    <link rel="apple-touch-icon" href="assets/images/logo1.webp">
 
     <!-- DNS Prefetch & Preconnect for speed -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

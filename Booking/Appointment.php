@@ -1105,7 +1105,7 @@ html {
         <!-- Slide 1 -->
         <div class="carousel-item active">
           <video class="d-block w-100 carousel-video" autoplay muted loop playsinline>
-            <source src="23.mp4" type="video/mp4">
+            <source src="../assets/images/background/23.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
           <div class="carousel-caption d-none d-md-block">
