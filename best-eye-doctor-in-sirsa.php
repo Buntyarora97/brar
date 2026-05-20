@@ -1,9 +1,9 @@
     <?php
 
 
-$pageTitle = "Best eye doctor in Sirsa | Safe, Precise & Advanced Surgery";
-$pageDescription = "Searching for Best eye doctor in Sirsa? Visit Brar Eye Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = "ophthalmologist near me in sirsa, top eye MD in sirsa, eye care specialist in sirsa, eye clinic in sirsa";
+$pageTitle = "Best Eye Doctor in Sirsa | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Sirsa? Visit Brar Eye Hospital – trusted by patients from Sirsa and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Sirsa, eye specialist Sirsa, ophthalmologist Sirsa, eye hospital near Sirsa, eye checkup Sirsa";
 
 include('header.php');
 ?>

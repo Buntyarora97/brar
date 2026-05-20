@@ -1,9 +1,9 @@
 <?php
 
 
-$pageTitle = "Best eye doctor in Kotkapura | Leading LASIK & Vision Experts";
-$pageDescription = "Trust BRAR EYE Hospital for Best eye doctor in Kotkapura. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "ophthalmologist near me in kotkapura, top eye MD in kotkapura, eye care specialist in kotkapura, eye clinic in kotkapura";
+$pageTitle = "Best Eye Doctor in Kotkapura | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Kotkapura? Visit Brar Eye Hospital – trusted by patients from Kotkapura and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Kotkapura, eye specialist Kotkapura, ophthalmologist Kotkapura, eye hospital near Kotkapura, eye checkup Kotkapura";
 
 include('header.php');
 ?>

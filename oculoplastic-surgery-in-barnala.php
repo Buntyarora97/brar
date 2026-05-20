@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic surgery in Barnala | Safe, Precise & Advanced Surgery";
-$pageDescription = "Oculoplastic surgery in Barnala now made accessible with Brar Eye Hospital's 21+ years of experience, trusted by 1.3L+ patients and backed by cutting-edge laser & diagnostic technology.";
-$pageKeywords = "eyelid surgery in barnala, tear duct surgery in barnala, ptosis correction in barnala, eye reconstruction in barnala";
+$pageTitle = "Oculoplastic Surgery in Barnala | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Barnala at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Barnala region in Punjab.";
+$pageKeywords = "oculoplastic surgery Barnala, eyelid surgery Barnala, ptosis treatment Barnala, orbital surgery Barnala, eye plastic surgery Barnala";
 include('header.php');
 ?>
 

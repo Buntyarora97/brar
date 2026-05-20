@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Cataract surgery cost in Tarn-Taran | Affordable & Advanced Cataract Surgery Packages with Experts";
-$pageDescription = "Looking for affordable cataract surgery cost in Tarn-Taran? Get safe, advanced, and budget-friendly treatment with expert surgeons.";
-$pageKeywords = "cataract surgery cost Tarn-Taran, affordable cataract surgery Tarn-Taran, cataract package Tarn-Taran, low-cost cataract surgery Tarn-Taran, phaco charges Tarn-Taran, budget cataract surgery Tarn-Taran";
+$pageTitle = "Cataract Surgery Cost in Tarn Taran | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Tarn Taran. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Tarn Taran & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Tarn Taran, cataract operation cost Tarn Taran, cataract surgery Tarn Taran, eye surgery Tarn Taran, cataract surgeon near Tarn Taran";
 include('header.php');
 ?>
 

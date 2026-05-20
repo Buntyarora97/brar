@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Child eye specialist in sirsa – Trusted Eye Care with Modern Technology";
-$pageDescription = "Brar Eye Hospital offers the best care for Child eye specialist in sirsa using world-class machines, advanced surgical techniques & experienced eye specialists.";
-$pageKeywords = " ophthalmologist in sirsa, retina doctor in sirsa, vision expert in sirsa, eye surgeon in sirsa";
+$pageTitle = "Child Eye Specialist in Sirsa | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Sirsa at Brar Eye Hospital. Expert paediatric eye care for children from Sirsa – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Sirsa, paediatric eye doctor Sirsa, children eye care Sirsa, kids eye specialist Sirsa, lazy eye treatment Sirsa";
 include('header.php');
 ?>
     <!-- Favicon -->

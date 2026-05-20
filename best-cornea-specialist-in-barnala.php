@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-barnala.php
 
-$pageTitle = "Best cornea specialist in Barnala | Advanced Eye Care Solutions";
-$pageDescription = "Brar Eye Hospital offers the best care for Best cornea specialist in Barnala using world-class machines, advanced surgical techniques & experienced eye specialists.";
-$pageKeywords = "corneal transplant in barnala, keratoconus in barnala, dry eye care in barnala, corneal infections in barnala";
+$pageTitle = "Best Cornea Specialist in Barnala | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Barnala at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Barnala and across Punjab.";
+$pageKeywords = "cornea specialist Barnala, corneal transplant Barnala, keratoconus Barnala, cornea doctor Barnala, dry eye treatment Barnala";
 
 include('header.php');
 ?>

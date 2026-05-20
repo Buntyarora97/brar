@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Squint eye treatment in Mansa | Safe, Precise & Advanced Surgery";
-$pageDescription = "Squint eye treatment in Mansa now made accessible with Brar Eye Hospital's 21+ years of experience, trusted by 1.3L+ patients and backed by cutting-edge laser & diagnostic technology.";
-$pageKeywords = "strabismus surgery in mansa, squint correction in mansa, eye alignment treatment in mansa, lazy eye fix in mansa";
+$pageTitle = "Squint Eye Treatment in Mansa | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Mansa at Brar Eye Hospital. Safe strabismus correction for children and adults from Mansa and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Mansa, squint surgery Mansa, strabismus Mansa, crossed eyes treatment Mansa, eye specialist Mansa";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-mansa.php";
  include 'header.php';
 ?>

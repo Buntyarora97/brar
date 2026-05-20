@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "  Child eye specialist in Sangrur | Eye Health Excellence Since 2001";
-$pageDescription = "    Get reliable & high-precision solutions for Child eye specialist in sangrur at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "ophthalmologist in sangrur, retina doctor in sangrur, vision expert in sangrur, eye surgeon in sangrur";
+$pageTitle = "Child Eye Specialist in Sangrur | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Sangrur at Brar Eye Hospital. Expert paediatric eye care for children from Sangrur – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Sangrur, paediatric eye doctor Sangrur, children eye care Sangrur, kids eye specialist Sangrur, lazy eye treatment Sangrur";
 include('header.php');
 ?>
     <!-- Favicon -->

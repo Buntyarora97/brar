@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Hanumangarh | Leading LASIK & Vision Experts";
-$pageDescription = "Get reliable & high-precision solutions for Eyesight operation in Hanumangarh at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "vision improvement surgery in hanumangarh, specs removal operation in hanumangarh, corrective eye surgery in hanumangarh, surgical eye care in hanumangarh";
+$pageTitle = "Eyesight Operation in Hanumangarh | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Hanumangarh – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Hanumangarh region across Punjab.";
+$pageKeywords = "eyesight operation Hanumangarh, LASIK surgery Hanumangarh, vision correction Hanumangarh, remove glasses Hanumangarh, eye surgery Hanumangarh";
 include('header.php');
 ?>
 

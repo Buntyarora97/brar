@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic surgery in Sri Ganganagar – Trusted Eye Care with Modern Technology";
-$pageDescription = "Oculoplastic surgery in Sri Ganganagar now made accessible with Brar Eye Hospital's 21+ years of experience, trusted by 1.3L+ patients and backed by cutting-edge laser & diagnostic technology.";
-$pageKeywords = "eyelid surgery in sri ganganagar, tear duct surgery in sri ganganagar, ptosis correction in sri ganganagar, eye reconstruction in sri ganganagar";
+$pageTitle = "Oculoplastic Surgery in Sri Ganganagar | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Sri Ganganagar at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Sri Ganganagar region in Punjab.";
+$pageKeywords = "oculoplastic surgery Sri Ganganagar, eyelid surgery Sri Ganganagar, ptosis treatment Sri Ganganagar, orbital surgery Sri Ganganagar, eye plastic surgery Sri Ganganagar";
 include('header.php');
 ?>
 

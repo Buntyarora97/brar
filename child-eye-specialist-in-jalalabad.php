@@ -1,7 +1,7 @@
 <?php
-$pageTitle = " Child eye specialist in Jalalabad | Pediatric Eye Expert for Squint, Lazy Eye & Complete Eye Care";
-$pageDescription = "Find the best child eye specialist in Jalalabad. Comprehensive pediatric eye care for squint, lazy eye, and vision problems in children.";
-$pageKeywords = "child eye specialist Jalalabad, pediatric eye care Jalalabad, squint treatment Jalalabad, lazy eye specialist Jalalabad";
+$pageTitle = "Child Eye Specialist in Jalalabad | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Jalalabad at Brar Eye Hospital. Expert paediatric eye care for children from Jalalabad – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Jalalabad, paediatric eye doctor Jalalabad, children eye care Jalalabad, kids eye specialist Jalalabad, lazy eye treatment Jalalabad";
 include('header.php');
 ?>
     <!-- Favicon -->

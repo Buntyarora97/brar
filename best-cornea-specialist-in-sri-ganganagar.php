@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital- Sri Ganganagar .php
 
-$pageTitle = "Best cornea specialist in  Sri Ganganagar  – Trusted Eye Care with Modern Technology";
-$pageDescription = "Trust Brar Eye Hospital for Best cornea specialist in Sri Ganganagar. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "corneal transplant in sri ganganagar, keratoconus in sri ganganagar, dry eye care in sri ganganagar, corneal infections in sri ganganagar ";
+$pageTitle = "Best Cornea Specialist in Sri Ganganagar | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Sri Ganganagar at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Sri Ganganagar and across Punjab.";
+$pageKeywords = "cornea specialist Sri Ganganagar, corneal transplant Sri Ganganagar, keratoconus Sri Ganganagar, cornea doctor Sri Ganganagar, dry eye treatment Sri Ganganagar";
 
 include('header.php');
 ?>

@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-tarn-taran.php
 
-$pageTitle = "Best cornea specialist in Tarn-Taran | Trusted Cornea Expert for Keratoconus, Infections & Eye Health";
-$pageDescription = "Consult top cornea specialists in Tarn-Taran for corneal diseases, infections, and keratoconus. Expert diagnosis and treatment available.";
-$pageKeywords = "cornea specialist Tarn-Taran, keratoconus treatment Tarn-Taran, corneal infection doctor Tarn-Taran, corneal transplant Tarn-Taran, advanced cornea care Tarn-Taran, eye cornea surgery Tarn-Taran";
+$pageTitle = "Best Cornea Specialist in Tarn Taran | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Tarn Taran at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Tarn Taran and across Punjab.";
+$pageKeywords = "cornea specialist Tarn Taran, corneal transplant Tarn Taran, keratoconus Tarn Taran, cornea doctor Tarn Taran, dry eye treatment Tarn Taran";
 
 include('header.php');
 ?>

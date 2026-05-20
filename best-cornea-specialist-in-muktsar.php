@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-muktsar.php
 
-$pageTitle = "Best cornea specialist in Muktsar | Advanced Eye Care Solutions";
-$pageDescription = "Best cornea specialist in Muktsar with personalized care, US FDA-approved tech, & Punjab's most experienced team of ophthalmologists at Brar Eye Hospital.";
-$pageKeywords = "corneal transplant in muktsar, keratoconus in muktsar, dry eye care in muktsar, corneal infections in muktsar";
+$pageTitle = "Best Cornea Specialist in Muktsar | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Muktsar at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Muktsar and across Punjab.";
+$pageKeywords = "cornea specialist Muktsar, corneal transplant Muktsar, keratoconus Muktsar, cornea doctor Muktsar, dry eye treatment Muktsar";
 
 include('header.php');
 ?>

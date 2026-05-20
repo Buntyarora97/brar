@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Cataract Surgery in Hanumangarh – Brar Eye Hospital’s Expertise";
-$pageDescription = "Cataract Surgery in Hanumangarh with personalized care, US FDA-approved tech, & Punjab's most experienced team of ophthalmologists at Brar Eye Hospital.";
-$pageKeywords = "phacoemulsification in hanumangarh, intraocular lens implant in hanumangarh, blurry vision treatment in hanumangarh, cloudy lens surgery in hanumangarh";
+$pageTitle = "Cataract Surgery in Hanumangarh | Best Cataract Surgeon Near Hanumangarh – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Hanumangarh at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Hanumangarh in Punjab.";
+$pageKeywords = "cataract surgery Hanumangarh, cataract surgeon Hanumangarh, cataract operation Hanumangarh, eye surgeon near Hanumangarh, cataract hospital Hanumangarh";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-hanumangarh.php";
  include 'header.php';
 ?>

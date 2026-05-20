@@ -1,9 +1,9 @@
     <?php
 
 
-$pageTitle = "Best eye doctor in Punjab – Brar Eye Hospital’s Expertise";
-$pageDescription = "Trust Brar Eye Hospital for Best eye doctor in Punjab. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "ophthalmologist near me in punjab, top eye MD in punjab, eye care specialist in punjab, eye clinic in punjab";
+$pageTitle = "Best Eye Doctor in Punjab | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Punjab? Visit Brar Eye Hospital – trusted by patients from Punjab and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Punjab, eye specialist Punjab, ophthalmologist Punjab, eye hospital near Punjab, eye checkup Punjab";
 
 include('header.php');
 ?>

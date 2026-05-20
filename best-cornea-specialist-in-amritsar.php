@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-amritsar.php
 
-$pageTitle = "Best cornea specialist in Amritsar | Trusted Cornea Expert for Keratoconus, Infections & Eye Health";
-$pageDescription = "Consult top cornea specialists in Amritsar for corneal diseases, infections, and keratoconus. Expert diagnosis and treatment available.";
-$pageKeywords = "cornea specialist Amritsar, keratoconus treatment Amritsar, corneal infection doctor Amritsar, corneal transplant Amritsar, eye cornea care Amritsar, cornea surgery Amritsar";
+$pageTitle = "Best Cornea Specialist in Amritsar | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Amritsar at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Amritsar and across Punjab.";
+$pageKeywords = "cornea specialist Amritsar, corneal transplant Amritsar, keratoconus Amritsar, cornea doctor Amritsar, dry eye treatment Amritsar";
 
 include('header.php');
 ?>

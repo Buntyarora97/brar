@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic surgery in Patiala | Leading LASIK & Vision Experts";
-$pageDescription = "Trust Brar Eye Hospital for Oculoplastic surgery in Patiala. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "eyelid surgery in patiala, tear duct surgery in patiala, ptosis correction in patiala, eye reconstruction in patiala";
+$pageTitle = "Oculoplastic Surgery in Patiala | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Patiala at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Patiala region in Punjab.";
+$pageKeywords = "oculoplastic surgery Patiala, eyelid surgery Patiala, ptosis treatment Patiala, orbital surgery Patiala, eye plastic surgery Patiala";
 include('header.php');
 ?>
 

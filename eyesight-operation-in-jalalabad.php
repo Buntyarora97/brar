@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Jalalabad | Restore Clear Vision with Expert Ophthalmologists & Modern Care";
-$pageDescription = "Restore your vision with safe eyesight operations in Jalalabad. Expert ophthalmologists for cataract, LASIK, and other surgeries.";
-$pageKeywords = "eyesight operation Jalalabad, LASIK operation Jalalabad, cataract operation Jalalabad, vision restoration Jalalabad";
+$pageTitle = "Eyesight Operation in Jalalabad | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Jalalabad – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Jalalabad region across Punjab.";
+$pageKeywords = "eyesight operation Jalalabad, LASIK surgery Jalalabad, vision correction Jalalabad, remove glasses Jalalabad, eye surgery Jalalabad";
 include('header.php');
 ?>
 

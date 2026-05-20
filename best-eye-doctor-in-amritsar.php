@@ -1,9 +1,9 @@
     <?php
 
 
-$pageTitle = "Best eye doctor in Amritsar | Leading Eye Care Solutions for Cataract, Glaucoma & Vision Problems";
-$pageDescription = "Meet the best eye doctors in Amritsar for complete vision care – cataract, glaucoma, squint, and laser surgery under expert guidance.";
-$pageKeywords = "best eye doctor Amritsar, cataract specialist Amritsar, glaucoma treatment Amritsar, squint surgery Amritsar, laser eye doctor Amritsar, comprehensive eye care Amritsar";
+$pageTitle = "Best Eye Doctor in Amritsar | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Amritsar? Visit Brar Eye Hospital – trusted by patients from Amritsar and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Amritsar, eye specialist Amritsar, ophthalmologist Amritsar, eye hospital near Amritsar, eye checkup Amritsar";
 
 include('header.php');
 ?>

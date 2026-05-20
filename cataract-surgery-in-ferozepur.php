@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Cataract Surgery in Ferozepur | Safe, Affordable & Advanced Cataract Removal with Expert Surgeons";
-$pageDescription = "Affordable and advanced cataract surgery in Ferozepur. Safe procedures with expert surgeons and modern technology for clear vision.";
-$pageKeywords = "cataract surgery ferozepur, motiyabind treatment, eye operation ferozepur, lens replacement ferozepur, eye surgeon";
+$pageTitle = "Cataract Surgery in Ferozepur | Best Cataract Surgeon Near Ferozepur – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Ferozepur at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Ferozepur in Punjab.";
+$pageKeywords = "cataract surgery Ferozepur, cataract surgeon Ferozepur, cataract operation Ferozepur, eye surgeon near Ferozepur, cataract hospital Ferozepur";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-ferozepur.php";
  include 'header.php';
 ?>

@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Squint eye treatment in abohar | Advanced Squint Surgery & Eye Alignment Correction with Experts";
-$pageDescription = "squint eye treatment abohar, squint surgery abohar, strabismus treatment abohar, eye alignment correction abohar, squint doctor abohar, pediatric squint specialist abohar";
-$pageKeywords = "squint eye treatment abohar, squint surgery abohar, strabismus treatment abohar, eye alignment correction abohar, squint doctor abohar, pediatric squint specialist abohar";
+$pageTitle = "Squint Eye Treatment in Abohar | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Abohar at Brar Eye Hospital. Safe strabismus correction for children and adults from Abohar and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Abohar, squint surgery Abohar, strabismus Abohar, crossed eyes treatment Abohar, eye specialist Abohar";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-abohar.php";
  include 'header.php';
 ?>

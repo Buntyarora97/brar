@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Bathinda – Trusted Eye Care with Modern Technology";
-$pageDescription = "Need Eyesight operation in Bathinda? BRAR EYE Hospital ensures ethical practices, fast recovery & transparent pricing with expert eye surgeons on board.";
-$pageKeywords = "vision improvement surgery in bathinda, specs removal operation in bathinda, corrective eye surgery in bathinda, surgical eye care in bathinda";
+$pageTitle = "Eyesight Operation in Bathinda | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Bathinda – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Bathinda region across Punjab.";
+$pageKeywords = "eyesight operation Bathinda, LASIK surgery Bathinda, vision correction Bathinda, remove glasses Bathinda, eye surgery Bathinda";
 include('header.php');
 ?>
 

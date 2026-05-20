@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-malout.php
 
-$pageTitle = "Best cornea specialist in Malout – Trusted Eye Care with Modern Technology";
-$pageDescription = "Best cornea specialist in Malout now made accessible with Brar Eye Hospital's 21+ years of experience, trusted by 1.3L+ patients and backed by cutting-edge laser & diagnostic technology.";
-$pageKeywords = "corneal transplant in malout, keratoconus in malout, dry eye care in malout, corneal infections in malout";
+$pageTitle = "Best Cornea Specialist in Malout | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Malout at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Malout and across Punjab.";
+$pageKeywords = "cornea specialist Malout, corneal transplant Malout, keratoconus Malout, cornea doctor Malout, dry eye treatment Malout";
 
 include('header.php');
 ?>

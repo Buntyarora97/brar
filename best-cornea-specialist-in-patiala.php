@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-patiala.php
 
-$pageTitle = "Best cornea specialist in Patiala – Trusted Eye Care with Modern Technology";
-$pageDescription = "Searching for Best cornea specialist in Patiala? Visit Brar Eye Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = "corneal transplant in patiala, keratoconus in patiala, dry eye care in patiala, corneal infections in patiala";
+$pageTitle = "Best Cornea Specialist in Patiala | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Patiala at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Patiala and across Punjab.";
+$pageKeywords = "cornea specialist Patiala, corneal transplant Patiala, keratoconus Patiala, cornea doctor Patiala, dry eye treatment Patiala";
 
 include('header.php');
 ?>

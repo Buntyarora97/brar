@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Squint eye treatment in Muktsar | Leading LASIK & Vision Experts";
-$pageDescription = "Get reliable & high-precision solutions for Squint eye treatment in Muktsar at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "   strabismus surgery in muktsar, squint correction in muktsar, eye alignment treatment in muktsar, lazy eye fix in muktsar";
+$pageTitle = "Squint Eye Treatment in Malout | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Malout at Brar Eye Hospital. Safe strabismus correction for children and adults from Malout and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Malout, squint surgery Malout, strabismus Malout, crossed eyes treatment Malout, eye specialist Malout";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-muktsar.php";
  include 'header.php';
 ?>

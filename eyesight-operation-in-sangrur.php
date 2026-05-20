@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Sangrur – Brar Eye Hospital’s Expertise";
-$pageDescription = "Eyesight operation in Sangrur with personalized care, US FDA-approved tech, & Punjab's most experienced team of ophthalmologists at Brar Eye Hospital.";
-$pageKeywords = "vision improvement surgery in sangrur, specs removal operation in sangrur, corrective eye surgery in sangrur, surgical eye care in sangrur";
+$pageTitle = "Eyesight Operation in Sangrur | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Sangrur – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Sangrur region across Punjab.";
+$pageKeywords = "eyesight operation Sangrur, LASIK surgery Sangrur, vision correction Sangrur, remove glasses Sangrur, eye surgery Sangrur";
 include('header.php');
 ?>
 

@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Sri Ganganagar – Trusted Eye Care with Modern Technology";
-$pageDescription = "Eyesight operation in Sri Ganganagar now made accessible with Brar Eye Hospital's 21+ years of experience, trusted by 1.3L+ patients and backed by cutting-edge laser & diagnostic technology.";
-$pageKeywords = "vision improvement surgery in sri ganganagar, specs removal operation in sri ganganagar, corrective eye surgery in sri ganganagar, surgical eye care in sri ganganagar";
+$pageTitle = "Eyesight Operation in Sri Ganganagar | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Sri Ganganagar – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Sri Ganganagar region across Punjab.";
+$pageKeywords = "eyesight operation Sri Ganganagar, LASIK surgery Sri Ganganagar, vision correction Sri Ganganagar, remove glasses Sri Ganganagar, eye surgery Sri Ganganagar";
 include('header.php');
 ?>
 

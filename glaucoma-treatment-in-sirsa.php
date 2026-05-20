@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Glaucoma treatment in Sirsa | Advanced Eye Care Solutions";
-$pageDescription = "Brar Eye Hospital offers the best care for Glaucoma treatment in Sirsa using world-class machines, advanced surgical techniques & experienced eye specialists.";
-$pageKeywords = "eye pressure management in sirsa, optic nerve protection in sirsa, trabeculectomy in sirsa, visual field preservation in sirsa";
+$pageTitle = "Glaucoma Treatment in Sirsa | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Sirsa at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Sirsa and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Sirsa, eye pressure Sirsa, glaucoma specialist near Sirsa, glaucoma surgery Sirsa, eye doctor Sirsa";
 include('header.php');
 ?>
 

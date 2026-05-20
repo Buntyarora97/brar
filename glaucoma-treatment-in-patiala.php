@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Glaucoma treatment in Patiala | Safe, Precise & Advanced Surgery";
-$pageDescription = "Get reliable & high-precision solutions for Glaucoma treatment in Patiala at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "eye pressure management in patiala, optic nerve protection in patiala, trabeculectomy in patiala, visual field preservation in patiala";
+$pageTitle = "Glaucoma Treatment in Patiala | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Patiala at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Patiala and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Patiala, eye pressure Patiala, glaucoma specialist near Patiala, glaucoma surgery Patiala, eye doctor Patiala";
 include('header.php');
 ?>
 

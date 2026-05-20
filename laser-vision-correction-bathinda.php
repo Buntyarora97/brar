@@ -80,7 +80,7 @@
     
  <div class="content-section">
     <h2>Post-Procedure Success</h2>
-    <img src="assets/images/smile-pro/smile-pro-results.webp" alt="Happy Patient After Surgery"
+    <img loading="lazy" src="assets/images/smile-pro/smile-pro-results.webp" alt="Happy Patient After Surgery"
          style="display: block; margin: 14px auto 20px auto; width: 440px; max-width:100%; border-radius: 12px;" />
     <p style="text-align: center; font-style: italic; color: #666;">
         Join thousands of satisfied patients who have achieved clear vision with SMILE Pro!

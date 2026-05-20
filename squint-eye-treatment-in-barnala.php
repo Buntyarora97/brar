@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = " Squint eye treatment in Barnala | Safe, Precise & Advanced Surgery";
-$pageDescription = "Trust Brar Eye Hospital for Squint eye treatment in Barnala. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "strabismus surgery in barnala, squint correction in barnala, eye alignment treatment in barnala, lazy eye fix in barnala";
+$pageTitle = "Squint Eye Treatment in Barnala | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Barnala at Brar Eye Hospital. Safe strabismus correction for children and adults from Barnala and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Barnala, squint surgery Barnala, strabismus Barnala, crossed eyes treatment Barnala, eye specialist Barnala";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-barnala.php";
  include 'header.php';
 ?>

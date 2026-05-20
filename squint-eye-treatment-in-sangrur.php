@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = " Squint eye treatment in Sangrur | Advanced Eye Care Solutions";
-$pageDescription = "Get reliable & high-precision solutions for Squint eye treatment in Sangrur at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "strabismus surgery in sangrur, squint correction in sangrur, eye alignment treatment in sangrur, lazy eye fix in sangrur";
+$pageTitle = "Squint Eye Treatment in Sangrur | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Sangrur at Brar Eye Hospital. Safe strabismus correction for children and adults from Sangrur and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Sangrur, squint surgery Sangrur, strabismus Sangrur, crossed eyes treatment Sangrur, eye specialist Sangrur";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-sangrur.php";
  include 'header.php';
 ?>

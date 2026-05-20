@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic surgery in Hanumangarh – Trusted Eye Care with Modern Technology";
-$pageDescription = "Trust Brar Eye Hospital for Oculoplastic surgery in Hanumangarh. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = " eyelid surgery in hanumangarh, tear duct surgery in hanumangarh, ptosis correction in hanumangarh, eye reconstruction in hanumangarh";
+$pageTitle = "Oculoplastic Surgery in Hanumangarh | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Hanumangarh at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Hanumangarh region in Punjab.";
+$pageKeywords = "oculoplastic surgery Hanumangarh, eyelid surgery Hanumangarh, ptosis treatment Hanumangarh, orbital surgery Hanumangarh, eye plastic surgery Hanumangarh";
 include('header.php');
 ?>
 

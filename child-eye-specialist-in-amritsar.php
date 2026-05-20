@@ -1,7 +1,7 @@
 <?php
-$pageTitle = " Child eye specialist in Amritsar | Pediatric Eye Expert for Squint, Lazy Eye & Complete Eye Care";
-$pageDescription = "Find the best child eye specialist in Amritsar. Comprehensive pediatric eye care for squint, lazy eye, and vision problems in children.";
-$pageKeywords = "child eye specialist Amritsar, pediatric eye care Amritsar, squint doctor Amritsar, lazy eye treatment Amritsar, kids eye clinic Amritsar, children’s eye specialist Amritsar";
+$pageTitle = "Child Eye Specialist in Amritsar | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Amritsar at Brar Eye Hospital. Expert paediatric eye care for children from Amritsar – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Amritsar, paediatric eye doctor Amritsar, children eye care Amritsar, kids eye specialist Amritsar, lazy eye treatment Amritsar";
 include('header.php');
 ?>
     <!-- Favicon -->

@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic surgery in Mansa | Advanced Eye Care Solutions";
-$pageDescription = "Need Oculoplastic surgery in Mansa? Brar Eye Hospital ensures ethical practices, fast recovery & transparent pricing with expert eye surgeons on board.";
-$pageKeywords = "eyelid surgery in mansa, tear duct surgery in mansa, ptosis correction in mansa, eye reconstruction in mansa";
+$pageTitle = "Oculoplastic Surgery in Mansa | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Mansa at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Mansa region in Punjab.";
+$pageKeywords = "oculoplastic surgery Mansa, eyelid surgery Mansa, ptosis treatment Mansa, orbital surgery Mansa, eye plastic surgery Mansa";
 include('header.php');
 ?>
 

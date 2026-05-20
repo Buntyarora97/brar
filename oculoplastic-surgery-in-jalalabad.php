@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic surgery in Jalalabad | Expert Eyelid, Tear Duct & Eye Plastic Surgery Specialists";
-$pageDescription = "Advanced oculoplastic surgery in jalalabad for eyelid, tear duct, and orbital disorders. Expert care with modern technology.";
-$pageKeywords = "oculoplastic surgery jalalabad, eyelid surgery jalalabad, ptosis correction jalalabad, orbital surgery jalalabad, tear duct surgery jalalabad, cosmetic eye surgery jalalabad";
+$pageTitle = "Oculoplastic Surgery in Jalalabad | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Jalalabad at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Jalalabad region in Punjab.";
+$pageKeywords = "oculoplastic surgery Jalalabad, eyelid surgery Jalalabad, ptosis treatment Jalalabad, orbital surgery Jalalabad, eye plastic surgery Jalalabad";
 include('header.php');
 ?>
 

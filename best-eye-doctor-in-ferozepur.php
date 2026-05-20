@@ -1,9 +1,9 @@
     <?php
 
 
-$pageTitle = "Best eye doctor in Ferozepur | Leading Eye Care Solutions for Cataract, Glaucoma & Vision Problems";
-$pageDescription = "Meet the best eye doctors in Ferozepur for complete vision care – cataract, glaucoma, squint, and laser surgery under expert guidance.";
-$pageKeywords = "eye doctor in Ferozepur, cataract doctor Ferozepur, glaucoma treatment Ferozepur, laser vision correction Ferozepur, squint eye care Ferozepur";
+$pageTitle = "Best Eye Doctor in Ferozepur | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Ferozepur? Visit Brar Eye Hospital – trusted by patients from Ferozepur and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Ferozepur, eye specialist Ferozepur, ophthalmologist Ferozepur, eye hospital near Ferozepur, eye checkup Ferozepur";
 
 include('header.php');
 ?>

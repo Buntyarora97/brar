@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Glaucoma treatment in Ferozepur | Advanced Glaucoma Care with Modern Technology & Expert Surgeons";
-$pageDescription = "Expert glaucoma treatment in Ferozepur with advanced diagnostic tools and surgical options to preserve your eyesight.";
-$pageKeywords = "glaucoma specialist Ferozepur, glaucoma surgery Ferozepur, optic nerve pressure treatment Ferozepur, eye pressure care Ferozepur, glaucoma expert Ferozepur";
+$pageTitle = "Glaucoma Treatment in Ferozepur | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Ferozepur at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Ferozepur and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Ferozepur, eye pressure Ferozepur, glaucoma specialist near Ferozepur, glaucoma surgery Ferozepur, eye doctor Ferozepur";
 include('header.php');
 ?>
 

@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Cataract surgery cost in Malout – Trusted Eye Care with Modern Technology";
-$pageDescription = "Get reliable & high-precision solutions for Cataract surgery cost in Malout at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "phacoemulsification in malout, intraocular lens implant in malout, blurry vision treatment in malout, cloudy lens surgery in malout";
+$pageTitle = "Cataract Surgery Cost in Malout | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Malout. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Malout & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Malout, cataract operation cost Malout, cataract surgery Malout, eye surgery Malout, cataract surgeon near Malout";
 include('header.php');
 ?>
 

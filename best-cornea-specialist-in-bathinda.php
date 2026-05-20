@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-bathinda.php
 
-$pageTitle = "Get Treated by Experts for Best cornea specialist in Bathinda";
-$pageDescription = "Trust Brar Eye Hospital for Best cornea specialist in Bathinda. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "corneal transplant in bathinda, keratoconus in bathinda, dry eye care in bathinda, corneal infections in bathinda";
+$pageTitle = "Best Cornea Specialist in Bathinda | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Bathinda at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Bathinda and across Punjab.";
+$pageKeywords = "cornea specialist Bathinda, corneal transplant Bathinda, keratoconus Bathinda, cornea doctor Bathinda, dry eye treatment Bathinda";
 
 include('header.php');
 ?>

@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Glaucoma treatment in Dabwali | Advanced Eye Care Solutions";
-$pageDescription = "Get reliable & high-precision solutions for Glaucoma treatment in Dabwali at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "eye pressure management in dabwali, optic nerve protection in dabwali, trabeculectomy in dabwali, visual field preservation in dabwali";
+$pageTitle = "Glaucoma Treatment in Dabwali | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Dabwali at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Dabwali and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Dabwali, eye pressure Dabwali, glaucoma specialist near Dabwali, glaucoma surgery Dabwali, eye doctor Dabwali";
 include('header.php');
 ?>
 

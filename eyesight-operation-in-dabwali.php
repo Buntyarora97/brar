@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Dabwali | Eye Health Excellence Since 2001";
-$pageDescription = "Need Eyesight operation in Dabwali? Brar Eye Hospital ensures ethical practices, fast recovery & transparent pricing with expert eye surgeons on board.";
-$pageKeywords = "vision improvement surgery in dabwali, specs removal operation in dabwali, corrective eye surgery in dabwali, surgical eye care in dabwali";
+$pageTitle = "Eyesight Operation in Dabwali | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Dabwali – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Dabwali region across Punjab.";
+$pageKeywords = "eyesight operation Dabwali, LASIK surgery Dabwali, vision correction Dabwali, remove glasses Dabwali, eye surgery Dabwali";
 include('header.php');
 ?>
 

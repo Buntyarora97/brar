@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Empanelments & Partnerships";
-$pageDescription = "Information about empanelments and insurance partnerships with Brar Eye Hospital.";
-$pageKeywords = "hospital empanelments, insurance partners";
+$pageTitle = "Insurance & Empanelments | Brar Eye Hospital Bathinda – CGHS, ECHS, Ayushman Bharat";
+$pageDescription = "Brar Eye Hospital Bathinda is empanelled with CGHS, ECHS, Ayushman Bharat (PMJAY) and major insurance companies. Get cashless eye treatment in Punjab.";
+$pageKeywords = "eye hospital empanelments Bathinda, CGHS eye hospital Punjab, ECHS eye treatment Bathinda, Ayushman Bharat eye hospital, cashless eye surgery Bathinda, insurance eye hospital Punjab";
 include('header.php');
 ?>
 <!-- ===== Empanelments Page Title (Animated & Responsive) ===== -->

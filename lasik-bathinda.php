@@ -17,19 +17,19 @@
             </div>
             
             <div class="solution-card">
-                <!--<img src="assets/laser/surface-ablation.webp" alt="Surface Ablation Epi-LASIK" class="solution-image">-->
+                <!--<img loading="lazy" src="assets/laser/surface-ablation.webp" alt="Surface Ablation Epi-LASIK" class="solution-image">-->
                 <h3>Surface Ablation or Epi-LASIK</h3>
                 <p>An option for cases with thin corneas not suitable for conventional LASIK</p>
             </div>
             
             <div class="solution-card">
-                <!--<img src="assets/laser/phakic-iol.webp" alt="Phakic Intraocular Lenses" class="solution-image">-->
+                <!--<img loading="lazy" src="assets/laser/phakic-iol.webp" alt="Phakic Intraocular Lenses" class="solution-image">-->
                 <h3>Phakic Intraocular Lenses</h3>
                 <p>Offering hope for thin corneas and cases with a very high power of glasses</p>
             </div>
             
             <div class="solution-card">
-                <!--<img src="assets/laser/bioptics.webp" alt="Bioptics Combined Procedure" class="solution-image">-->
+                <!--<img loading="lazy" src="assets/laser/bioptics.webp" alt="Bioptics Combined Procedure" class="solution-image">-->
                 <h3>Bioptics</h3>
                 <p>A combination of more than one procedure to correct extreme degrees of refractive error</p>
             </div>
@@ -51,7 +51,7 @@
     
     <div class="content-section">
         <h2>Surface Ablation: Epi-LASIK</h2>
-        <!--<img src="assets/laser/epilasik-procedure.webp" alt="Epi-LASIK Surface Ablation Procedure" class="section-image">-->
+        <!--<img loading="lazy" src="assets/laser/epilasik-procedure.webp" alt="Epi-LASIK Surface Ablation Procedure" class="section-image">-->
         <h3>Here's how it works:</h3>
         <ul>
             <li>During Epilasik the eye is numbed using anesthetic eye drops and eyelid holder placed to prevent blinking.</li>
@@ -63,7 +63,7 @@
     
     <div class="content-section">
         <h2>What are the Benefits of Laser Vision Correction (LASIK)?</h2>
-        <img src="assets/laser/lasik-benefits.webp" alt="Benefits of LASIK Surgery" class="section-image-small">
+        <img loading="lazy" src="assets/laser/lasik-benefits.webp" alt="Benefits of LASIK Surgery" class="section-image-small">
         <p>Laser vision correction method (LASIK) and PRK - The modern alternatives method to glass or contact lenses. The goal of laser vision correction is to reduce or eliminate your dependence on contact lenses and glasses.</p>
         <p>LASIK and PRK surgery may reduce nearsightedness, farsightedness and Astigmatism, therefore reducing your need of contacts or glasses.</p>
     </div>
@@ -74,7 +74,7 @@
         <p>Contact lens wearers are advised to discontinue lenses 10 days prior to detailed evaluation.</p>
         
         <h3>PRK (Photorefractive Keratectomy)</h3>
-        <!--<img src="assets/laser/prk-procedure.webp" alt="PRK Photorefractive Keratectomy" class="section-image-small">-->
+        <!--<img loading="lazy" src="assets/laser/prk-procedure.webp" alt="PRK Photorefractive Keratectomy" class="section-image-small">-->
         <p>Excimer Laser is delivered to superficial layers of cornea and they are thus removed (ablated). Depending upon the amount of refractive error i.e. spectacle, amount of corneal surface cells to be reshaped is determined.</p>
     </div>
     
@@ -131,7 +131,7 @@
     
     <div class="content-section">
         <h2>Pre-Operative</h2>
-        <img src="assets/laser/preoperative.webp" alt="Pre-operative LASIK Preparation" class="section-image-small">
+        <img loading="lazy" src="assets/laser/preoperative.webp" alt="Pre-operative LASIK Preparation" class="section-image-small">
         <p>You may be given a mild sedative or you may ask for one to help you relax. The nurse will then clean your eye and administer the anaesthetic eye drops to prepare you for the procedure. All the information required to correct your refractive error is uploaded into the computer controlling the excimer laser to be used by the surgeon.</p>
         
         <p>You will be positioned on a bed under the operating microscope where the procedure will take place. Throughout the procedure, your surgeon will be constantly talking to you, explaining every step so that you will know what to expect.</p>
@@ -179,20 +179,20 @@
         <div class="laser-features">
             <div class="feature-card">
                 <h4>Safety</h4>
-                <!--<img src="assets/laser/laser-safety.webp" alt="Laser Safety Features" class="feature-image">-->
+                <!--<img loading="lazy" src="assets/laser/laser-safety.webp" alt="Laser Safety Features" class="feature-image">-->
                 <p>Pulse Technology accurately controls the energy level and placement of every laser pulse, enabled by an active eye tracker that reads eye movement 200 times per second.</p>
             </div>
             
             <div class="feature-card">
                 <h4>Quality of Vision</h4>
-                <!--<img src="assets/laser/vision-quality.webp" alt="Quality Vision Results" class="feature-image">-->
+                <!--<img loading="lazy" src="assets/laser/vision-quality.webp" alt="Quality Vision Results" class="feature-image">-->
                 <p>Wavefront-optimization customizes the treatment to each person's corneal curvature.</p>
                 <p>A flap of partial thickness of cornea shall be raised and you will see little hazy. Then the completely painless laser rays shall be fired on the cornea & then the flap shall be repositioned.</p>
             </div>
             
             <div class="feature-card">
                 <h4>Performance</h4>
-                <!--<img src="assets/laser/laser-performance.webp" alt="Laser Performance" class="feature-image">-->
+                <!--<img loading="lazy" src="assets/laser/laser-performance.webp" alt="Laser Performance" class="feature-image">-->
                 <p>The Allegretto Wave is the fastest laser, treating one diopter of correction in only four seconds. In fact, the average total treatment time is just 10 seconds. Rapid treatment speed has been shown to increase predictability and reduce the incidence of complications.</p>
             </div>
         </div>
@@ -306,7 +306,7 @@
     
     <div class="content-section cta-section">
         <h2>Freedom from Glasses Starts Here!</h2>
-        <!--<img src="assets/laser/happy-patient.webp" alt="Happy Patient After LASIK" class="section-image-small">-->
+        <!--<img loading="lazy" src="assets/laser/happy-patient.webp" alt="Happy Patient After LASIK" class="section-image-small">-->
         <p class="cta-text" style="color: white;">Schedule your LASIK evaluation and discover if you're a candidate for life-changing vision correction.</p>
         <a href="/contact-brar-eye-hospital-bathinda.php" class="cta-button">Book  Evaluation</a>
     </div>

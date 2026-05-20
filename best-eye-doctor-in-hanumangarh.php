@@ -1,9 +1,9 @@
 <?php
 
 
-$pageTitle = "Best eye doctor in Hanumangarh | Advanced Eye Care Solutions";
-$pageDescription = "Searching for Best eye doctor in Hanumangarh? Visit Brar Eye Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = "ophthalmologist near me in hanumangarh, top eye MD in hanumangarh, eye care specialist in hanumangarh, eye clinic in hanumangarh";
+$pageTitle = "Best Eye Doctor in Hanumangarh | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Hanumangarh? Visit Brar Eye Hospital – trusted by patients from Hanumangarh and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Hanumangarh, eye specialist Hanumangarh, ophthalmologist Hanumangarh, eye hospital near Hanumangarh, eye checkup Hanumangarh";
 
 include('header.php');
 ?>

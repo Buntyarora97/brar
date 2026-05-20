@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Glaucoma treatment in Punjab | Advanced Eye Care Solutions";
-$pageDescription = "Get reliable & high-precision solutions for Glaucoma treatment in Punjab at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "eye pressure management in punjab, optic nerve protection in punjab, trabeculectomy in punjab, visual field preservation in punjab";
+$pageTitle = "Glaucoma Treatment in Punjab | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Punjab at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Punjab and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Punjab, eye pressure Punjab, glaucoma specialist near Punjab, glaucoma surgery Punjab, eye doctor Punjab";
 include('header.php');
 ?>
 

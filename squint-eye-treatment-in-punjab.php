@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Squint eye treatment in Punjab – Brar Eye Hospital’s Expertise";
-$pageDescription = "Trust Brar Eye Hospital for Squint eye treatment in Punjab. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "strabismus surgery in punjab, squint correction in punjab, eye alignment treatment in punjab, lazy eye fix in punjab";
+$pageTitle = "Squint Eye Treatment in Punjab | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Punjab at Brar Eye Hospital. Safe strabismus correction for children and adults from Punjab and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Punjab, squint surgery Punjab, strabismus Punjab, crossed eyes treatment Punjab, eye specialist Punjab";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-Punjab.php";
  include 'header.php';
 ?>

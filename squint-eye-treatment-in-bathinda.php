@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Squint eye treatment in Bathinda – BRAR EYEHospital’s Expertise";
-$pageDescription = "Squint eye treatment in Bathinda with personalized care, US FDA-approved tech, & Punjab's most experienced team of ophthalmologists at BRAR EYEHospital.";
-$pageKeywords = "strabismus surgery in bathinda, squint correction in bathinda, eye alignment treatment in bathinda, lazy eye fix in bathinda";
+$pageTitle = "Squint Eye Treatment in Bathinda | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Bathinda at Brar Eye Hospital. Safe strabismus correction for children and adults from Bathinda and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Bathinda, squint surgery Bathinda, strabismus Bathinda, crossed eyes treatment Bathinda, eye specialist Bathinda";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-bathinda.php";
  include 'header.php';
 ?>

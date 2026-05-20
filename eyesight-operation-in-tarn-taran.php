@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Tarn-Taran | Restore Clear Vision with Expert Ophthalmologists & Modern Care";
-$pageDescription = "Restore your vision with safe eyesight operations in Tarn-Taran. Expert ophthalmologists for cataract, LASIK, and other surgeries.";
-$pageKeywords = "eyesight operation Tarn-Taran, LASIK operation Tarn-Taran, cataract operation Tarn-Taran, refractive surgery Tarn-Taran, vision restoration Tarn-Taran, advanced eye operation Tarn-Taran";
+$pageTitle = "Eyesight Operation in Tarn Taran | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Tarn Taran – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Tarn Taran region across Punjab.";
+$pageKeywords = "eyesight operation Tarn Taran, LASIK surgery Tarn Taran, vision correction Tarn Taran, remove glasses Tarn Taran, eye surgery Tarn Taran";
 include('header.php');
 ?>
 

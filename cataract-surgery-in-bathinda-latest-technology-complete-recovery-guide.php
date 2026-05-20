@@ -4,9 +4,9 @@
     <?php
 // eye-care-blog-bathinda.php
 
-$pageTitle = "Cataract Surgery in Bathinda: Phacoemulsification, Femto Laser & Lens Options – Brar Eye Hospital";
-$pageDescription = "Learn about the latest cataract surgery technologies in Bathinda, including phacoemulsification, femto laser cataract, and advanced lens options. Expert care at Brar Eye Hospital.";
-$pageKeywords = "Cataract surgery in Bathinda, phacoemulsification cataract, femto laser cataract surgery, cataract lens options, Brar Eye Hospital Bathinda, cataract recovery tips";
+$pageTitle = "Cataract Surgery in Bathinda Latest Technology Complete Recovery Guide | Best Cataract Surgeon Near Bathinda Latest Technology Complete Recovery Guide – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Bathinda Latest Technology Complete Recovery Guide at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Bathinda Latest Technology Complete Recovery Guide in Punjab.";
+$pageKeywords = "cataract surgery Bathinda Latest Technology Complete Recovery Guide, cataract surgeon Bathinda Latest Technology Complete Recovery Guide, cataract operation Bathinda Latest Technology Complete Recovery Guide, eye surgeon near Bathinda Latest Technology Complete Recovery Guide, cataract hospital Bathinda Latest Technology Complete Recovery Guide";
 
 include('header.php');
 ?>

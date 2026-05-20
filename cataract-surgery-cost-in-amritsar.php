@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Cataract surgery cost in Amritsar | Affordable & Advanced Cataract Surgery Packages with Experts";
-$pageDescription = "Looking for affordable cataract surgery cost in Amritsar? Get safe, advanced, and budget-friendly treatment with expert surgeons.";
-$pageKeywords = "cataract surgery cost Amritsar, affordable cataract surgery Amritsar, cataract package Amritsar, budget cataract surgery Amritsar, phaco charges Amritsar, low-cost cataract surgery Amritsar";
+$pageTitle = "Cataract Surgery Cost in Amritsar | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Amritsar. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Amritsar & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Amritsar, cataract operation cost Amritsar, cataract surgery Amritsar, eye surgery Amritsar, cataract surgeon near Amritsar";
 include('header.php');
 ?>
 

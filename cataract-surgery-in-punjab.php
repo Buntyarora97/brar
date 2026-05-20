@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Cataract Surgery in Punjab | Experience Clarity with Us";
-$pageDescription = "Trust Brar Eye Hospital for Cataract Surgery in Punjab. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "phacoemulsification in punjab, intraocular lens implant in punjab, blurry vision treatment in punjab, cloudy lens surgery in punjab";
+$pageTitle = "Cataract Surgery in Punjab | Best Cataract Surgeon Near Punjab – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Punjab at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Punjab in Punjab.";
+$pageKeywords = "cataract surgery Punjab, cataract surgeon Punjab, cataract operation Punjab, eye surgeon near Punjab, cataract hospital Punjab";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-Punjab.php";
  include 'header.php';
 ?>

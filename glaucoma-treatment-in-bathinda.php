@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Glaucoma treatment in Bathinda – Trusted Eye Care with Modern Technology";
-$pageDescription = "Get reliable & high-precision solutions for Glaucoma treatment in Bathinda at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "eye pressure management in bathinda, optic nerve protection in bathinda, trabeculectomy in bathinda, visual field preservation in bathinda";
+$pageTitle = "Glaucoma Treatment in Bathinda | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Bathinda at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Bathinda and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Bathinda, eye pressure Bathinda, glaucoma specialist near Bathinda, glaucoma surgery Bathinda, eye doctor Bathinda";
 include('header.php');
 ?>
 

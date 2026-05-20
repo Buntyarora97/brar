@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Ferozepur | Restore Clear Vision with Expert Ophthalmologists & Modern Care";
-$pageDescription = "Restore your vision with safe eyesight operations in Ferozepur. Expert ophthalmologists for cataract, LASIK, and other surgeries.";
-$pageKeywords = "eyesight operation Ferozepur, refractive surgery Ferozepur, LASIK vision correction Ferozepur, eye surgery clinic Ferozepur, clear vision surgery Ferozepur";
+$pageTitle = "Eyesight Operation in Ferozepur | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Ferozepur – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Ferozepur region across Punjab.";
+$pageKeywords = "eyesight operation Ferozepur, LASIK surgery Ferozepur, vision correction Ferozepur, remove glasses Ferozepur, eye surgery Ferozepur";
 include('header.php');
 ?>
 

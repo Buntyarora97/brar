@@ -15,7 +15,7 @@
   <section class="surgery-info-section">
     <h2>Understanding Retina Surgery</h2>
     <br>
-    <img src="assets\cataract_images\retina2.webp" alt="Retina Micro Surgery" class="side-img">
+    <img loading="lazy" src="assets\cataract_images\retina2.webp" alt="Retina Micro Surgery" class="side-img">
     <p>Retina surgery uses microsurgical techniques to repair or restore the retina when it is torn, detached, or affected by diseases such as diabetic retinopathy or macular degeneration.</p>
     <ul>
       <li><b>Micro-Incision Vitrectomy Surgery (MIVS):</b> Removes the vitreous gel and repairs the retina through tiny, suture-free openings.</li>
@@ -28,7 +28,7 @@
   <section class="emergency-section">
     <h2>Emergency Retina Symptoms — Seek Help Immediately</h2>
         <br>
-    <!-- <img src="assets\cataract_images\retina3.webp" alt="Emergency Retina Symptoms" class="side-img"> -->
+    <!-- <img loading="lazy" src="assets\cataract_images\retina3.webp" alt="Emergency Retina Symptoms" class="side-img"> -->
     <ul>
       <li>Sudden flashes of light or flickering</li>
       <li>A sudden increase in floaters (spots, lines, or cobwebs)</li>
@@ -95,7 +95,7 @@
 <section style="margin-bottom: 20px; margin-top: 10px;">
   <div >
     <!-- <h3>Types of Retina Surgery at Delhi Eye Care</h3> -->
-    <img width="400px"  src="assets\images\services\imgi_338_green-simple-money-management-tips-infographic_1024x1590.webp" alt="">
+    <img loading="lazy" width="400px"  src="assets\images\services\imgi_338_green-simple-money-management-tips-infographic_1024x1590.webp" alt="">
   </div>
 </section>
 
@@ -153,7 +153,7 @@
   <section class="tech-section">
     <h2>Advanced Retina Technology at Brar Eye Hospital</h2>
         <br>
-    <!-- <img src="assets/retina_images/technology.webp" alt="Retina Technology" class="side-img"> -->
+    <!-- <img loading="lazy" src="assets/retina_images/technology.webp" alt="Retina Technology" class="side-img"> -->
     <ul>
       <li>3D Heads-Up Visualization System: Provides magnified, real-time imaging for delicate retinal procedures.</li>
       <li>Zepto Laser Technology: Robotic precision for rapid sealing of retinal tears.</li>
@@ -188,7 +188,7 @@
 
   <section class="trusted-section">
     <h2>Brar Eye Hospital – The Trusted Destination for Retina Care</h2>
-    <!-- <img src="assets/retina_images/team.webp" alt="Retina Team" class="side-img"> -->
+    <!-- <img loading="lazy" src="assets/retina_images/team.webp" alt="Retina Team" class="side-img"> -->
     <ul>
       <li>Diabetic retinal bleeding and advanced diabetic eye disease</li>
       <li>Retinal detachment and macular hole repairs</li>

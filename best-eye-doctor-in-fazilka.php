@@ -1,9 +1,9 @@
 <?php
 
 
-$pageTitle = "Best eye doctor in fazilka – Trusted Eye Care with Modern Technology";
-$pageDescription = "Best eye doctor in fazilka now made accessible with Brar Eye Hospital's 21+ years of experience, trusted by 1.3L+ patients and backed by cutting-edge laser & diagnostic technology.";
-$pageKeywords = "ophthalmologist near me in fazilka, top eye MD in fazilka, eye care specialist in fazilka, eye clinic in fazilka";
+$pageTitle = "Best Eye Doctor in Fazilka | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Fazilka? Visit Brar Eye Hospital – trusted by patients from Fazilka and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Fazilka, eye specialist Fazilka, ophthalmologist Fazilka, eye hospital near Fazilka, eye checkup Fazilka";
 
 include('header.php');
 ?>

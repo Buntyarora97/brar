@@ -1,9 +1,9 @@
     <?php
 
 
-$pageTitle = "Best eye doctor in Jalalabad | Leading Eye Care Solutions for Cataract, Glaucoma & Vision Problems";
-$pageDescription = "Meet the best eye doctors in Jalalabad for complete vision care – cataract, glaucoma, squint, and laser surgery under expert guidance.";
-$pageKeywords = "best eye doctor in Jalalabad, cataract treatment Jalalabad, glaucoma care Jalalabad, laser eye surgery Jalalabad";
+$pageTitle = "Best Eye Doctor in Jalalabad | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Jalalabad? Visit Brar Eye Hospital – trusted by patients from Jalalabad and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Jalalabad, eye specialist Jalalabad, ophthalmologist Jalalabad, eye hospital near Jalalabad, eye checkup Jalalabad";
 
 include('header.php');
 ?>

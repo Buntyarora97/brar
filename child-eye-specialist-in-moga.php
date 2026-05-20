@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "      Child eye specialist in Moga – Trusted Eye Care with Modern Technology";
-$pageDescription = " Your destination for Child eye specialist in Moga – Brar Eye Hospital combines technology with trust to provide safe, accurate, and affordable treatments.";
-$pageKeywords = "ophthalmologist in moga, retina doctor in moga, vision expert in moga, eye surgeon in moga";
+$pageTitle = "Child Eye Specialist in Moga | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Moga at Brar Eye Hospital. Expert paediatric eye care for children from Moga – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Moga, paediatric eye doctor Moga, children eye care Moga, kids eye specialist Moga, lazy eye treatment Moga";
 include('header.php');
 ?>
     <!-- Favicon -->

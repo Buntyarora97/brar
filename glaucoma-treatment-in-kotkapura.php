@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Get Treated by Experts for Glaucoma treatment in Kotkapura";
-$pageDescription = "Glaucoma treatment in Kotkapura with personalized care, US FDA-approved tech, & Punjab's most experienced team of ophthalmologists at BRAR EYE Hospital.";
-$pageKeywords = "eye pressure management in kotkapura, optic nerve protection in kotkapura, trabeculectomy in kotkapura, visual field preservation in kotkapura";
+$pageTitle = "Glaucoma Treatment in Kotkapura | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Kotkapura at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Kotkapura and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Kotkapura, eye pressure Kotkapura, glaucoma specialist near Kotkapura, glaucoma surgery Kotkapura, eye doctor Kotkapura";
 include('header.php');
 ?>
 

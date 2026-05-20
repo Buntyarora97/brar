@@ -1,9 +1,9 @@
 <?php
 // index.php
 
-$pageTitle = "Best Eye Hospital in Bathinda | Eye Care Multispeciality with SmilePro";
-$pageDescription = "Brar Eye Hospital is the leading Eye Superspeciality Hospital in Bathinda offering advanced eye surgeries including SMILE Pro, LASIK, and Cataract.";
-$pageKeywords = "Eye Hospital Bathinda, SmilePro LASIK, Cataract Surgery Bathinda , Eye surgeon in Bathinda, SMILE Pro machine, eye checkup Bathinda ";
+$pageTitle = "Best Eye Hospital in Bathinda | Brar Eye Hospital – SMILE Pro, LASIK & Cataract Experts";
+$pageDescription = "Brar Eye Hospital is Bathinda's #1 Eye Superspeciality Hospital with 21+ years of expertise. Advanced SMILE Pro, LASIK, Cataract, Glaucoma, Retina & Cornea treatments. NABH Accredited. Book appointment: +91 72182-72182.";
+$pageKeywords = "best eye hospital Bathinda, eye hospital near me Bathinda, eye surgeon Bathinda, SMILE Pro LASIK Bathinda, cataract surgery Bathinda, glaucoma treatment Bathinda, retina specialist Bathinda, eye specialist Punjab, eye doctor Bathinda, NABH eye hospital Punjab";
 
 include('server.php');
 include('header.php');
@@ -146,7 +146,7 @@ include('header.php');
           </div>
           <div class="image-box style-three">
           <figure class="image" style=" margin-bottom: -166px;">
-  <img src="assets/images/banner/C.webp" alt="Brareye Hospital Kot Kapura">
+  <img loading="lazy" src="assets/images/banner/C.webp" alt="Brareye Hospital Kot Kapura">
 </figure>
 
           </div>
@@ -623,7 +623,7 @@ include('header.php');
         <div class="image_block_two">
           <div class="image-box p_relative d_block">
             <figure class="image p_relative d_block">
-              <img src="assets/images/service/contaract surgery.avif" alt="Cataract Treatment">
+              <img loading="lazy" src="assets/images/service/contaract surgery.avif" alt="Cataract Treatment">
             </figure>
           </div>
         </div>
@@ -714,7 +714,7 @@ include('header.php');
                 <div class="image_block_two">
                     <div class="image-box p_relative d_block">
                         <figure class="image p_relative d_block">
-                            <img src="assets/images/service/Refrective surgery.avif" alt="Refractive Surgery">
+                            <img loading="lazy" src="assets/images/service/Refrective surgery.avif" alt="Refractive Surgery">
                         </figure>
                     </div>
                 </div>
@@ -787,7 +787,7 @@ include('header.php');
                 <div class="image_block_two">
                     <div class="image-box p_relative d_block">
                         <figure class="image p_relative d_block">
-                            <img src="assets/images/service/Retina-Update.webp" alt="Retina Services">
+                            <img loading="lazy" src="assets/images/service/Retina-Update.webp" alt="Retina Services">
                         </figure>
                     </div>
                 </div>
@@ -857,7 +857,7 @@ include('header.php');
                 <div class="image_block_two">
                     <div class="image-box p_relative d_block">
                         <figure class="image p_relative d_block">
-                            <img src="assets/images/service/Retina-Update.webp" alt="Uvea Services">
+                            <img loading="lazy" src="assets/images/service/Retina-Update.webp" alt="Uvea Services">
                         </figure>
                     </div>
                 </div>
@@ -914,7 +914,7 @@ include('header.php');
                                 <div class="image_block_two">
                                     <div class="image-box p_relative d_block">
                                         <figure class="image p_relative d_block">
-                                            <img src="assets/images/service/glaucoma.avif" alt="Glaucoma Services">
+                                            <img loading="lazy" src="assets/images/service/glaucoma.avif" alt="Glaucoma Services">
                                         </figure>
                                     </div>
                                 </div>
@@ -982,7 +982,7 @@ include('header.php');
                                 <div class="image_block_two">
                                     <div class="image-box p_relative d_block">
                                         <figure class="image p_relative d_block">
-                                            <img src="assets/images/service/Cornea-Update.webp" alt="Cornea Services">
+                                            <img loading="lazy" src="assets/images/service/Cornea-Update.webp" alt="Cornea Services">
                                         </figure>
                                     </div>
                                 </div>
@@ -1058,7 +1058,7 @@ include('header.php');
                 <div class="image_block_two">
                     <div class="image-box p_relative d_block">
                         <figure class="image p_relative d_block">
-                            <img src="assets/images/service/child eyecare.avif" alt="Pediatric Eye Care">
+                            <img loading="lazy" src="assets/images/service/child eyecare.avif" alt="Pediatric Eye Care">
                         </figure>
                     </div>
                 </div>
@@ -1132,7 +1132,7 @@ include('header.php');
                 <div class="image_block_two">
                     <div class="image-box p_relative d_block">
                         <figure class="image p_relative d_block">
-                            <img src="assets/images/service/child eyecare.avif" alt="Squint Treatment">
+                            <img loading="lazy" src="assets/images/service/child eyecare.avif" alt="Squint Treatment">
                         </figure>
                     </div>
                 </div>
@@ -1185,7 +1185,7 @@ include('header.php');
                                 <div class="image_block_two">
                                     <div class="image-box p_relative d_block">
                                         <figure class="image p_relative d_block">
-                                            <img src="assets/images/service/oculoplasty.avif" alt="Oculoplasty, Reconstructive & Cosmetic Eye Surgery">
+                                            <img loading="lazy" src="assets/images/service/oculoplasty.avif" alt="Oculoplasty, Reconstructive & Cosmetic Eye Surgery">
                                         </figure>
                                     </div>
                                 </div>
@@ -1236,7 +1236,7 @@ include('header.php');
                                 <div class="image_block_two">
                                     <div class="image-box p_relative d_block">
                                         <figure class="image p_relative d_block">
-                                            <img src="assets/images/service/neuro-ophthalmology.avif" alt="Neuro-Ophthalmology Services">
+                                            <img loading="lazy" src="assets/images/service/neuro-ophthalmology.avif" alt="Neuro-Ophthalmology Services">
                                         </figure>
                                     </div>
                                 </div>
@@ -1253,7 +1253,7 @@ include('header.php');
 
 <!-- Full-Width Image Banner -->
 <div class="emi-image-banner">
-    <img src="emi-banner.webp" alt="EMI Banner" />
+    <img loading="lazy" src="emi-banner.webp" alt="EMI Banner" />
 </div>
 
 <style>
@@ -1453,7 +1453,7 @@ include('header.php');
     <div class="left-card">
       <div class="image-card">
         <!-- Replace with your PNG path -->
-        <img src="/assets/images/achievement.webp" alt="Award presentation" class="award-img" />
+        <img loading="lazy" src="/assets/images/achievement.webp" alt="Award presentation" class="award-img" />
         <div class="caption">
           <p style="color:white; margin:0; font-size:15px; line-height:1.4;">
             The IIRSI Gold Medal is awarded to <strong>Dr. P. S. Brar</strong> for his outstanding
@@ -1792,7 +1792,7 @@ border:1px solid #eee;
                     <div class="image-box" style="margin: 0 auto; position: relative;">
                         <div class="shape" style="background-image: url(assets/images/shape/shape-1.webp);"></div>
                         <figure class="image">
-                            <img src="assets/images/1 copy (2) (1).webp" alt="Eye surgeon in Bathinda" style="max-width: 100%; border-radius: 10px;">
+                            <img loading="lazy" src="assets/images/1 copy (2) (1).webp" alt="Eye surgeon in Bathinda" style="max-width: 100%; border-radius: 10px;">
                         </figure>
                         <div class="text p_absolute r_0 b_0" style="right: 20px; bottom: 10px; text-align: right;">
                             <h2 style="font-size: 48px; margin: 0;">30+</h2>
@@ -1956,7 +1956,7 @@ border:1px solid #eee;
 
     <!-- LEFT SIDE IMAGE -->
     <div class="mv-image left-image">
-      <img src="assets/images/bhatinda.webp" alt="Left Mission Vision Illustration">
+      <img loading="lazy" src="assets/images/bhatinda.webp" alt="Left Mission Vision Illustration">
     </div>
 
     <!-- CENTER: Mission + Vision -->
@@ -1982,7 +1982,7 @@ border:1px solid #eee;
 
     <!-- RIGHT SIDE IMAGE -->
     <div class="mv-image right-image">
-      <img src="assets/images/Kotkapura.webp" alt="Right Mission Vision Illustration">
+      <img loading="lazy" src="assets/images/Kotkapura.webp" alt="Right Mission Vision Illustration">
     </div>
 
   </div>
@@ -2551,7 +2551,7 @@ $review_images = [
       ?>
         <div class="swiper-slide">
           <div class="review-image-card" onclick="openLightbox('<?php echo htmlspecialchars($img_url); ?>')">
-            <img src="<?php echo htmlspecialchars($img_url); ?>" alt="Google review screenshot" loading="lazy">
+            <img loading="lazy" src="<?php echo htmlspecialchars($img_url); ?>" alt="Google review screenshot" loading="lazy">
           </div>
         </div>
       <?php endforeach; ?>
@@ -2569,7 +2569,7 @@ $review_images = [
 <!-- Lightbox markup -->
 <div id="simpleLightbox" class="lightbox" onclick="closeLightbox()">
   <button class="close-btn" aria-label="Close" onclick="closeLightbox(); event.stopPropagation();">✕</button>
-  <img id="lightboxImg" src="" alt="">
+  <img loading="lazy" id="lightboxImg" src="" alt="">
 </div>
 
 <!-- Swiper JS -->
@@ -2742,7 +2742,7 @@ $review_images = [
             <div class="col-lg-4 col-md-6 col-sm-12 team-block" style="margin-bottom:40px;">
                 <div class="team-block-one wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
                     <div class="inner-box p_relative d_block pr_55">
-                        <figure class="image-box p_relative d_block"><img src="assets/images/team/123.webp" alt="Dr. P.S. Brar"></figure>
+                        <figure class="image-box p_relative d_block"><img loading="lazy" src="assets/images/team/123.webp" alt="Dr. P.S. Brar"></figure>
                         <div class="lower-content p_absolute r_0 b_45 b_shadow_6 z_1 tran_5">
                             <h3 class="d_block lh_30 mb_3">
                                 <a href="dr-ps-brar.php" style="color:black; text-decoration:underline;">Dr. P.S. Brar</a>
@@ -2757,7 +2757,7 @@ $review_images = [
             <div class="col-lg-4 col-md-6 col-sm-12 team-block" style="margin-bottom:40px;">
                 <div class="team-block-one wow fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div class="inner-box p_relative d_block pr_55">
-                        <figure class="image-box p_relative d_block"><img src="assets/images/team/12345.webp" alt="Dr. Sunny Goyal"></figure>
+                        <figure class="image-box p_relative d_block"><img loading="lazy" src="assets/images/team/12345.webp" alt="Dr. Sunny Goyal"></figure>
                         <div class="lower-content p_absolute r_0 b_45 b_shadow_6 z_1 tran_5">
                             <h3 class="d_block lh_30 mb_3">
                                 <a href="dr-sunny-goyal.php" style="color:black; text-decoration:underline;">Dr. Sunny Goyal</a>
@@ -2772,7 +2772,7 @@ $review_images = [
             <div class="col-lg-4 col-md-6 col-sm-12 team-block" style="margin-bottom:40px;">
                 <div class="team-block-one wow fadeInUp animated" data-wow-delay="100ms" data-wow-duration="1500ms">
                     <div class="inner-box p_relative d_block pr_55">
-                        <figure class="image-box p_relative d_block"><img src="assets/images/team/1234.webp" alt="Dr. M.S. Brar"></figure>
+                        <figure class="image-box p_relative d_block"><img loading="lazy" src="assets/images/team/1234.webp" alt="Dr. M.S. Brar"></figure>
                         <div class="lower-content p_absolute r_0 b_45 b_shadow_6 z_1 tran_5">
                             <h3 class="d_block lh_30 mb_3">
                                 <a href="dr-ms-brar.php" style="color:black; text-decoration:underline;">Dr. M.S. Brar</a>
@@ -2787,7 +2787,7 @@ $review_images = [
             <div class="col-lg-4 col-md-6 col-sm-12 team-block" style="margin-bottom:40px;">
                 <div class="team-block-one wow fadeInUp animated" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="inner-box p_relative d_block pr_55">
-                        <figure class="image-box p_relative d_block"><img src="assets/images/team/55.webp" alt="Dr. Anand Singh Brar"></figure>
+                        <figure class="image-box p_relative d_block"><img loading="lazy" src="assets/images/team/55.webp" alt="Dr. Anand Singh Brar"></figure>
                         <div class="lower-content p_absolute r_0 b_45 b_shadow_6 z_1 tran_5">
                             <h3 class="d_block lh_30 mb_3">
                                 <a href="dr-anand-singh-brar.php" style="color:black; text-decoration:underline;">Dr. Anand Singh Brar</a>
@@ -2802,7 +2802,7 @@ $review_images = [
             <div class="col-lg-4 col-md-6 col-sm-12 team-block" style="margin-bottom:40px;">
                 <div class="team-block-one wow fadeInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms">
                     <div class="inner-box p_relative d_block pr_55">
-                        <figure class="image-box p_relative d_block"><img src="assets/images/team/team-51.webp" alt="Dr. Aazambir Singh Brar"></figure>
+                        <figure class="image-box p_relative d_block"><img loading="lazy" src="assets/images/team/team-51.webp" alt="Dr. Aazambir Singh Brar"></figure>
                         <div class="lower-content p_absolute r_0 b_45 b_shadow_6 z_1 tran_5">
                             <h3 class="d_block lh_30 mb_3">
                                 <a href="dr-aazambir-singh-brar.php" style="color:black; text-decoration:underline;">Dr. Aazambir Singh Brar</a>
@@ -2817,7 +2817,7 @@ $review_images = [
             <div class="col-lg-4 col-md-6 col-sm-12 team-block" style="margin-bottom:40px;">
                 <div class="team-block-one wow fadeInUp animated" data-wow-delay="500ms" data-wow-duration="1500ms">
                     <div class="inner-box p_relative d_block pr_55">
-                        <figure class="image-box p_relative d_block"><img src="assets/images/team/53.webp" alt="Dr. B. Ravinder Naik"></figure>
+                        <figure class="image-box p_relative d_block"><img loading="lazy" src="assets/images/team/53.webp" alt="Dr. B. Ravinder Naik"></figure>
                         <div class="lower-content p_absolute r_0 b_45 b_shadow_6 z_1 tran_5">
                             <h3 class="d_block lh_30 mb_3">
                                 <a href="dr-b-ravinder-naik.php" style="color:black; text-decoration:underline;">Dr. B. Ravinder Naik</a>
@@ -2833,7 +2833,7 @@ $review_images = [
     <div class="team-block-one wow fadeInUp animated" data-wow-delay="900ms" data-wow-duration="1500ms">
         <div class="inner-box p_relative d_block pr_55">
             <figure class="image-box p_relative d_block">
-                <img src="assets/images/team/imgi_5_dr-raman.webp" alt="Dr. Raman Mittal">
+                <img loading="lazy" src="assets/images/team/imgi_5_dr-raman.webp" alt="Dr. Raman Mittal">
             </figure>
             <div class="lower-content p_absolute r_0 b_45 b_shadow_6 z_1 tran_5">
                 <h3 class="d_block lh_30 mb_3">
@@ -2858,7 +2858,7 @@ $review_images = [
     <div class="team-block-one wow fadeInUp animated" data-wow-delay="1000ms" data-wow-duration="1500ms">
         <div class="inner-box p_relative d_block pr_55">
             <figure class="image-box p_relative d_block">
-                <img src="assets/images/team/kushdeep.webp" alt="Dr. Rabia Saif">
+                <img loading="lazy" src="assets/images/team/kushdeep.webp" alt="Dr. Rabia Saif">
             </figure>
             <div class="lower-content p_absolute r_0 b_45 b_shadow_6 z_1 tran_5">
                 <h3 class="d_block lh_30 mb_3">
@@ -2885,7 +2885,7 @@ $review_images = [
             <div class="col-lg-4 col-md-6 col-sm-12 team-block" style="margin-bottom:40px;">
                 <div class="team-block-one wow fadeInUp animated" data-wow-delay="800ms" data-wow-duration="1500ms">
                     <div class="inner-box p_relative d_block pr_55">
-                        <figure class="image-box p_relative d_block"><img src="assets/images/team/sample-2.webp" alt="Dr. M.L. Kapoor"></figure>
+                        <figure class="image-box p_relative d_block"><img loading="lazy" src="assets/images/team/sample-2.webp" alt="Dr. M.L. Kapoor"></figure>
                         <div class="lower-content p_absolute r_0 b_45 b_shadow_6 z_1 tran_5">
                             <h3 class="d_block lh_30 mb_3">
                                 <a href="dr-ml-kapoor.php" style="color:black; text-decoration:underline;">Dr. M.L. Kapoor</a>
@@ -2932,7 +2932,7 @@ $review_images = [
     <div class="team-block-one wow fadeInUp animated" data-wow-delay="1100ms" data-wow-duration="1500ms">
         <div class="inner-box p_relative d_block pr_55">
             <figure class="image-box p_relative d_block">
-                <img src="assets/images/team/image-tk-goyal.webp" alt="Dr. T.K. Goyal">
+                <img loading="lazy" src="assets/images/team/image-tk-goyal.webp" alt="Dr. T.K. Goyal">
             </figure>
             <div class="lower-content p_absolute r_0 b_45 b_shadow_6 z_1 tran_5">
                 <h3 class="d_block lh_30 mb_3">
@@ -2965,7 +2965,7 @@ $review_images = [
         <div class="project-carousel owl-carousel owl-theme owl-dots-none owl-nav-none">
             <div class="project-block-one">
                 <div class="inner-box">
-                    <figure class="image-box"><img src="assets\images\gallery1\18.webp" alt="Gallery Photo 1"></figure>
+                    <figure class="image-box"><img loading="lazy" src="assets\images\gallery1\18.webp" alt="Gallery Photo 1"></figure>
                     <div class="view-btn"><a href="assets\images\gallery1\18.webp" class="lightbox-image" data-fancybox="gallery"><i class="icon-33"></i></a></div>
                     <div class="text">
                         <h3><a href="index.php">Gallery 1</a></h3>
@@ -2975,7 +2975,7 @@ $review_images = [
             </div>
             <div class="project-block-one">
                 <div class="inner-box">
-                    <figure class="image-box"><img src="assets\images\gallery1\17.webp" alt="Gallery Photo 2"></figure>
+                    <figure class="image-box"><img loading="lazy" src="assets\images\gallery1\17.webp" alt="Gallery Photo 2"></figure>
                     <div class="view-btn"><a href="assets\images\gallery1\17.webp" class="lightbox-image" data-fancybox="gallery"><i class="icon-33"></i></a></div>
                     <div class="text">
                         <h3><a href="index.php">Gallery 2</a></h3>
@@ -2985,7 +2985,7 @@ $review_images = [
             </div>
             <div class="project-block-one">
                 <div class="inner-box">
-                    <figure class="image-box"><img src="assets\images\gallery1\16.webp" alt="Gallery Photo 3"></figure>
+                    <figure class="image-box"><img loading="lazy" src="assets\images\gallery1\16.webp" alt="Gallery Photo 3"></figure>
                     <div class="view-btn"><a href="assets\images\gallery1\16.webp" class="lightbox-image" data-fancybox="gallery"><i class="icon-33"></i></a></div>
                     <div class="text">
                         <h3><a href="index.php">Gallery 3</a></h3>
@@ -2995,7 +2995,7 @@ $review_images = [
             </div>
             <div class="project-block-one">
                 <div class="inner-box">
-                    <figure class="image-box"><img src="assets\images\gallery1\15.webp" alt="Gallery Photo 4"></figure>
+                    <figure class="image-box"><img loading="lazy" src="assets\images\gallery1\15.webp" alt="Gallery Photo 4"></figure>
                     <div class="view-btn"><a href="assets\images\gallery1\15.webp" class="lightbox-image" data-fancybox="gallery"><i class="icon-33"></i></a></div>
                     <div class="text">
                         <h3><a href="index.php">Gallery 4</a></h3>
@@ -3005,7 +3005,7 @@ $review_images = [
             </div>
             <div class="project-block-one">
                 <div class="inner-box">
-                    <figure class="image-box"><img src="assets\images\gallery1\10.webp" alt="Gallery Photo 5"></figure>
+                    <figure class="image-box"><img loading="lazy" src="assets\images\gallery1\10.webp" alt="Gallery Photo 5"></figure>
                     <div class="view-btn"><a href="assets\images\gallery1\10.webp" class="lightbox-image" data-fancybox="gallery"><i class="icon-33"></i></a></div>
                     <div class="text">
                         <h3><a href="index.php">Gallery 5</a></h3>
@@ -3015,7 +3015,7 @@ $review_images = [
             </div>
             <div class="project-block-one">
                 <div class="inner-box">
-                    <figure class="image-box"><img src="assets\images\gallery1\13.webp" alt="Gallery Photo 6"></figure>
+                    <figure class="image-box"><img loading="lazy" src="assets\images\gallery1\13.webp" alt="Gallery Photo 6"></figure>
                     <div class="view-btn"><a href="assets\images\gallery1\13.webp" class="lightbox-image" data-fancybox="gallery"><i class="icon-33"></i></a></div>
                     <div class="text">
                         <h3><a href="index.php">Gallery 6</a></h3>
@@ -3025,7 +3025,7 @@ $review_images = [
             </div>
             <div class="project-block-one">
                 <div class="inner-box">
-                    <figure class="image-box"><img src="assets\images\gallery1\9.webp" alt="Gallery Photo 7"></figure>
+                    <figure class="image-box"><img loading="lazy" src="assets\images\gallery1\9.webp" alt="Gallery Photo 7"></figure>
                     <div class="view-btn"><a href="assets\images\gallery1\9.webp" class="lightbox-image" data-fancybox="gallery"><i class="icon-33"></i></a></div>
                     <div class="text">
                         <h3><a href="index.php">Gallery 7</a></h3>
@@ -3035,7 +3035,7 @@ $review_images = [
             </div>
             <div class="project-block-one">
                 <div class="inner-box">
-                    <figure class="image-box"><img src="assets\images\gallery1\11.webp" alt="Gallery Photo 8"></figure>
+                    <figure class="image-box"><img loading="lazy" src="assets\images\gallery1\11.webp" alt="Gallery Photo 8"></figure>
                     <div class="view-btn"><a href="assets\images\gallery1\11.webp" class="lightbox-image" data-fancybox="gallery"><i class="icon-33"></i></a></div>
                     <div class="text">
                         <h3><a href="index.php">Gallery 8</a></h3>
@@ -3063,7 +3063,7 @@ $review_images = [
                 <div class="news-block-one wow fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms">
                     <div class="inner-box">
                         <figure class="image-box">
-                            <img src="assets/images/news/glaucoma.webp" alt="">
+                            <img loading="lazy" src="assets/images/news/glaucoma.webp" alt="">
                             <a href="glaucoma-treatment-bathinda.php"><i class="fas fa-link"></i></a>
                         </figure>
                         <div class="lower-content">
@@ -3088,7 +3088,7 @@ $review_images = [
                 <div class="news-block-one wow fadeInUp animated" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div class="inner-box">
                         <figure class="image-box">
-                            <img src="assets/images/news/cataract.webp" alt="">
+                            <img loading="lazy" src="assets/images/news/cataract.webp" alt="">
                             <a href="cataract-surgery-bathinda.php"><i class="fas fa-link"></i></a>
                         </figure>
                         <div class="lower-content">
@@ -3113,7 +3113,7 @@ $review_images = [
                 <div class="news-block-one wow fadeInUp animated" data-wow-delay="600ms" data-wow-duration="1500ms">
                     <div class="inner-box">
                         <figure class="image-box">
-                            <img src="assets/images/news/Oculoplastic Surgery.webp" alt=""><a href="Oculoplastics.php"><i class="fas fa-link"></i></a>
+                            <img loading="lazy" src="assets/images/news/Oculoplastic Surgery.webp" alt=""><a href="Oculoplastics.php"><i class="fas fa-link"></i></a>
                         </figure>
                         <div class="lower-content">
                             <div class="inner">

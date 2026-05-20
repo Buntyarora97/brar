@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic surgery in Tarn-Taran | Expert Eyelid, Tear Duct & Eye Plastic Surgery Specialists";
-$pageDescription = "Advanced oculoplastic surgery in Tarn-Taran for eyelid, tear duct, and orbital disorders. Expert care with modern technology.";
-$pageKeywords = "oculoplastic surgery Tarn-Taran, eyelid surgery Tarn-Taran, tear duct surgery Tarn-Taran, orbital surgery Tarn-Taran, ptosis correction Tarn-Taran, cosmetic eye surgery Tarn-Taran";
+$pageTitle = "Oculoplastic Surgery in Tarn Taran | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Tarn Taran at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Tarn Taran region in Punjab.";
+$pageKeywords = "oculoplastic surgery Tarn Taran, eyelid surgery Tarn Taran, ptosis treatment Tarn Taran, orbital surgery Tarn Taran, eye plastic surgery Tarn Taran";
 include('header.php');
 ?>
 

@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Squint eye treatment in jalalabad | Advanced Squint Surgery & Eye Alignment Correction with Experts";
-$pageDescription = "squint eye treatment jalalabad, squint surgery jalalabad, strabismus treatment jalalabad, eye alignment correction jalalabad, squint doctor jalalabad, pediatric squint specialist jalalabad";
-$pageKeywords = "squint eye treatment jalalabad, squint surgery jalalabad, strabismus treatment jalalabad, eye alignment correction jalalabad, squint doctor jalalabad, pediatric squint specialist jalalabad";
+$pageTitle = "Squint Eye Treatment in Jalalabad | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Jalalabad at Brar Eye Hospital. Safe strabismus correction for children and adults from Jalalabad and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Jalalabad, squint surgery Jalalabad, strabismus Jalalabad, crossed eyes treatment Jalalabad, eye specialist Jalalabad";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-jalalabad.php";
  include 'header.php';
 ?>

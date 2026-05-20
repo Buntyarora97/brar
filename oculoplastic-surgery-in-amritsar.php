@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic surgery in Amritsar | Expert Eyelid, Tear Duct & Eye Plastic Surgery Specialists";
-$pageDescription = "Advanced oculoplastic surgery in Amritsar for eyelid, tear duct, and orbital disorders. Expert care with modern technology.";
-$pageKeywords = "oculoplastic surgery Amritsar, eyelid surgery Amritsar, ptosis correction Amritsar, orbital surgery Amritsar, tear duct surgery Amritsar, cosmetic eye surgery Amritsar";
+$pageTitle = "Oculoplastic Surgery in Amritsar | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Amritsar at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Amritsar region in Punjab.";
+$pageKeywords = "oculoplastic surgery Amritsar, eyelid surgery Amritsar, ptosis treatment Amritsar, orbital surgery Amritsar, eye plastic surgery Amritsar";
 include('header.php');
 ?>
 

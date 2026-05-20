@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Cataract Surgery in Patiala | Leading LASIK & Vision Experts";
-$pageDescription = "Brar Eye Hospital offers the best care for Cataract Surgery in Patiala using world-class machines, advanced surgical techniques & experienced eye specialists.";
-$pageKeywords = "phacoemulsification in patiala, intraocular lens implant in patiala, blurry vision treatment in patiala, cloudy lens surgery in patiala";
+$pageTitle = "Cataract Surgery in Patiala | Best Cataract Surgeon Near Patiala – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Patiala at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Patiala in Punjab.";
+$pageKeywords = "cataract surgery Patiala, cataract surgeon Patiala, cataract operation Patiala, eye surgeon near Patiala, cataract hospital Patiala";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-patiala.php";
  include 'header.php';
 ?>

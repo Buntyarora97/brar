@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = " Squint eye treatment in Patiala | Experience Clarity with Us";
-$pageDescription = "Squint eye treatment in Patiala now made accessible with Brar Eye Hospital's 21+ years of experience, trusted by 1.3L+ patients and backed by cutting-edge laser & diagnostic technology.";
-$pageKeywords = "strabismus surgery in patiala, squint correction in patiala, eye alignment treatment in patiala, lazy eye fix in patiala";
+$pageTitle = "Squint Eye Treatment in Patiala | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Patiala at Brar Eye Hospital. Safe strabismus correction for children and adults from Patiala and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Patiala, squint surgery Patiala, strabismus Patiala, crossed eyes treatment Patiala, eye specialist Patiala";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-patiala.php";
  include 'header.php';
 ?>

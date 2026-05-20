@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Mansa – BRAR EYE Hospital’s Expertise";
-$pageDescription = "Searching for Eyesight operation in Mansa? Visit BRAR EYE Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = "vision improvement surgery in mansa, specs removal operation in mansa, corrective eye surgery in mansa, surgical eye care in mansa";
+$pageTitle = "Eyesight Operation in Mansa | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Mansa – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Mansa region across Punjab.";
+$pageKeywords = "eyesight operation Mansa, LASIK surgery Mansa, vision correction Mansa, remove glasses Mansa, eye surgery Mansa";
 include('header.php');
 ?>
 

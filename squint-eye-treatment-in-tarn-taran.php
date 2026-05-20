@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Squint eye treatment in Tarn-Taran | Advanced Squint Surgery & Eye Alignment Correction with Experts";
-$pageDescription = "squint eye treatment Tarn-Taran, squint surgery Tarn-Taran, strabismus treatment Tarn-Taran, eye alignment correction Tarn-Taran, squint doctor Tarn-Taran, pediatric squint specialist Tarn-Taran";
-$pageKeywords = "squint eye treatment Tarn-Taran, squint surgery Tarn-Taran, strabismus treatment Tarn-Taran, eye alignment correction Tarn-Taran, squint doctor Tarn-Taran, pediatric squint specialist Tarn-Taran";
+$pageTitle = "Squint Eye Treatment in Tarn Taran | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Tarn Taran at Brar Eye Hospital. Safe strabismus correction for children and adults from Tarn Taran and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Tarn Taran, squint surgery Tarn Taran, strabismus Tarn Taran, crossed eyes treatment Tarn Taran, eye specialist Tarn Taran";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-tarn-taran.php";
  include 'header.php';
 ?>

@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Cataract surgery cost in Muktsar – Brar Eye Hospital’s Expertise";
-$pageDescription = "Cataract surgery cost in Muktsar now made accessible with Brar Eye Hospital's 21+ years of experience, trusted by 1.3L+ patients and backed by cutting-edge laser & diagnostic technology.";
-$pageKeywords = "phacoemulsification in muktsar, intraocular lens implant in muktsar, blurry vision treatment in muktsar, cloudy lens surgery in muktsar";
+$pageTitle = "Cataract Surgery Cost in Muktsar | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Muktsar. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Muktsar & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Muktsar, cataract operation cost Muktsar, cataract surgery Muktsar, eye surgery Muktsar, cataract surgeon near Muktsar";
 include('header.php');
 ?>
 

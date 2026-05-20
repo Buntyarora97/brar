@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-sangrur.php
 
-$pageTitle = "Best cornea specialist in Sangrur | Experience Clarity with Us";
-$pageDescription = "Your destination for Best cornea specialist in Sangrur – Brar Eye Hospital combines technology with trust to provide safe, accurate, and affordable treatments.";
-$pageKeywords = "corneal transplant in sangrur, keratoconus in sangrur, dry eye care in sangrur, corneal infections in sangrur";
+$pageTitle = "Best Cornea Specialist in Sangrur | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Sangrur at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Sangrur and across Punjab.";
+$pageKeywords = "cornea specialist Sangrur, corneal transplant Sangrur, keratoconus Sangrur, cornea doctor Sangrur, dry eye treatment Sangrur";
 
 include('header.php');
 ?>

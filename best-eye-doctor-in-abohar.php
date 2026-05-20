@@ -1,9 +1,9 @@
     <?php
 
 
-$pageTitle = "Best Eye Doctor in Abohar | Complete Eye Checkup & Treatment";
-$pageDescription = "Find the best eye doctor in Abohar for vision issues, specs removal, and surgical care. Book your appointment with experienced ophthalmologists today.";
-$pageKeywords = "best eye doctor in Abohar, top eye specialist Abohar, eye checkup Abohar";
+$pageTitle = "Best Eye Doctor in Abohar | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Abohar? Visit Brar Eye Hospital – trusted by patients from Abohar and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Abohar, eye specialist Abohar, ophthalmologist Abohar, eye hospital near Abohar, eye checkup Abohar";
 
 include('header.php');
 ?>

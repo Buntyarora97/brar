@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic surgery in Sangrur | Safe, Precise & Advanced Surgery";
-$pageDescription = "Brar Eye Hospital offers the best care for Oculoplastic surgery in Sangrur using world-class machines, advanced surgical techniques & experienced eye specialists.";
-$pageKeywords = "eyelid surgery in sangrur, tear duct surgery in sangrur, ptosis correction in sangrur, eye reconstruction in sangrur";
+$pageTitle = "Oculoplastic Surgery in Sangrur | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Sangrur at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Sangrur region in Punjab.";
+$pageKeywords = "oculoplastic surgery Sangrur, eyelid surgery Sangrur, ptosis treatment Sangrur, orbital surgery Sangrur, eye plastic surgery Sangrur";
 include('header.php');
 ?>
 

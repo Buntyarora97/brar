@@ -1,8 +1,8 @@
 <?php
 // eye-care-blog-bathinda.php - Unified Eye Care Blog Listing
-$pageTitle = "Eye Care Blog | Brar Eye Hospital Bathinda – LASIK, Cataract & SMILE Pro Tips";
-$pageDescription = "Read expert blogs from Brar Eye Hospital, Bathinda on LASIK, SMILE Pro, cataract surgery, glaucoma care, squint correction & advanced eye treatments. Stay informed and protect your vision.";
-$pageKeywords = "eye care blog Bathinda, LASIK surgery Bathinda, cataract treatment Bathinda, vision correction Punjab, SMILE Pro blog, eye health tips Punjab";
+$pageTitle = "Eye Care Blog | Brar Eye Hospital Bathinda – Expert Tips on LASIK, Cataract & Vision";
+$pageDescription = "Read expert blogs from Brar Eye Hospital Bathinda doctors on LASIK, SMILE Pro, cataract surgery, glaucoma, retina care, and eye health tips for Punjab patients.";
+$pageKeywords = "eye care blog Bathinda, LASIK information Punjab, cataract treatment tips, eye health blog, vision correction blog, SMILE Pro guide Bathinda, eye care tips Punjab";
 $canonicalUrl = "https://www.brareyehospital.com/eye-care-blog-bathinda.php";
 
 include('header.php');

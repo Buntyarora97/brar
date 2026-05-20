@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Child eye specialist in Tarn-Taran | Pediatric Eye Expert for Squint, Lazy Eye & Complete Eye Care";
-$pageDescription = " Find the best child eye specialist in Tarn-Taran. Comprehensive pediatric eye care for squint, lazy eye, and vision problems in children.";
-$pageKeywords = " child eye specialist Tarn-Taran, pediatric eye care Tarn-Taran, squint treatment Tarn-Taran, lazy eye doctor Tarn-Taran, children’s eye hospital Tarn-Taran, kids eye clinic Tarn-Taran";
+$pageTitle = "Child Eye Specialist in Tarn Taran | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Tarn Taran at Brar Eye Hospital. Expert paediatric eye care for children from Tarn Taran – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Tarn Taran, paediatric eye doctor Tarn Taran, children eye care Tarn Taran, kids eye specialist Tarn Taran, lazy eye treatment Tarn Taran";
 include('header.php');
 ?>
     <!-- Favicon -->

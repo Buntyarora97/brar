@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "  Squint eye treatment in Dabwali | Advanced Eye Care Solutions";
-$pageDescription = "Squint eye treatment in Dabwali with personalized care, US FDA-approved tech, & Punjab's most experienced team of ophthalmologists at Brar Eye Hospital.";
-$pageKeywords = "strabismus surgery in dabwali, squint correction in dabwali, eye alignment treatment in dabwali, lazy eye fix in dabwali";
+$pageTitle = "Squint Eye Treatment in Dabwali | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Dabwali at Brar Eye Hospital. Safe strabismus correction for children and adults from Dabwali and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Dabwali, squint surgery Dabwali, strabismus Dabwali, crossed eyes treatment Dabwali, eye specialist Dabwali";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-dabwali.php";
  include 'header.php';
 ?>

@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Sirsa – Trusted Eye Care with Modern Technology";
-$pageDescription = "Trust Brar Eye Hospital for Eyesight operation in Sirsa. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "vision improvement surgery in sirsa, specs removal operation in sirsa, corrective eye surgery in sirsa, surgical eye care in sirsa";
+$pageTitle = "Eyesight Operation in Sirsa | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Sirsa – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Sirsa region across Punjab.";
+$pageKeywords = "eyesight operation Sirsa, LASIK surgery Sirsa, vision correction Sirsa, remove glasses Sirsa, eye surgery Sirsa";
 include('header.php');
 ?>
 

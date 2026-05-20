@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic surgery in Mansa | Advanced Eye Care Solutions";
-$pageDescription = "Need Oculoplastic surgery in Mansa? Brar Eye Hospital ensures ethical practices, fast recovery & transparent pricing with expert eye surgeons on board.";
-$pageKeywords = "ophthalmologist near me in kotkapura, top eye MD in kotkapura, eye care specialist in kotkapura, eye clinic in kotkapura";
+$pageTitle = "Oculoplastic Surgery in Bathinda | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Bathinda at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Bathinda region in Punjab.";
+$pageKeywords = "oculoplastic surgery Bathinda, eyelid surgery Bathinda, ptosis treatment Bathinda, orbital surgery Bathinda, eye plastic surgery Bathinda";
 include('header.php');
 ?>
 

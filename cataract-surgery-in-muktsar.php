@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Cataract Surgery in Muktsar | Experience Clarity with Us";
-$pageDescription = "Need Cataract Surgery in Muktsar? Brar Eye Hospital ensures ethical practices, fast recovery & transparent pricing with expert eye surgeons on board.";
-$pageKeywords = "phacoemulsification in muktsar, intraocular lens implant in muktsar, blurry vision treatment in muktsar, cloudy lens surgery in muktsar";
+$pageTitle = "Cataract Surgery in Muktsar | Best Cataract Surgeon Near Muktsar – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Muktsar at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Muktsar in Punjab.";
+$pageKeywords = "cataract surgery Muktsar, cataract surgeon Muktsar, cataract operation Muktsar, eye surgeon near Muktsar, cataract hospital Muktsar";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-muktsar.php";
  include 'header.php';
 ?>

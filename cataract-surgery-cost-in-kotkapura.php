@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = " Cataract surgery cost in Kotkapura | Advanced Eye Care Solutions";
-$pageDescription = "Cataract surgery cost in Kotkapura with personalized care, US FDA-approved tech, & Punjab's most experienced team of ophthalmologists at Brar Eye Hospital.";
-$pageKeywords = "phacoemulsification in kotkapura, intraocular lens implant in kotkapura, blurry vision treatment in kotkapura, cloudy lens surgery in kotkapura";
+$pageTitle = "Cataract Surgery Cost in Kotkapura | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Kotkapura. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Kotkapura & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Kotkapura, cataract operation cost Kotkapura, cataract surgery Kotkapura, eye surgery Kotkapura, cataract surgeon near Kotkapura";
 include('header.php');
 ?>
 

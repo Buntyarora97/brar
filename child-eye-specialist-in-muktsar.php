@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Child eye specialist in Muktsar | Leading LASIK & Vision Experts";
-$pageDescription = "Searching for Child eye specialist in Muktsar? Visit Brar Eye Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = " ophthalmologist in muktsar, retina doctor in muktsar, vision expert in muktsar, eye surgeon in muktsar";
+$pageTitle = "Child Eye Specialist in Muktsar | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Muktsar at Brar Eye Hospital. Expert paediatric eye care for children from Muktsar – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Muktsar, paediatric eye doctor Muktsar, children eye care Muktsar, kids eye specialist Muktsar, lazy eye treatment Muktsar";
 include('header.php');
 ?>
     <!-- Favicon -->

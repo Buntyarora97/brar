@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Glaucoma treatment in Barnala | Experience Clarity with Us";
-$pageDescription = "Searching for Glaucoma treatment in Barnala? Visit Brar Eye Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = "eye pressure management in barnala, optic nerve protection in barnala, trabeculectomy in barnala, visual field preservation in barnala";
+$pageTitle = "Glaucoma Treatment in Barnala | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Barnala at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Barnala and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Barnala, eye pressure Barnala, glaucoma specialist near Barnala, glaucoma surgery Barnala, eye doctor Barnala";
 include('header.php');
 ?>
 

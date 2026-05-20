@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Cataract Surgery in Malout | Safe, Precise & Advanced Surgery";
-$pageDescription = "Need Cataract Surgery in Malout? Brar Eye Hospital ensures ethical practices, fast recovery & transparent pricing with expert eye surgeons on board.";
-$pageKeywords = "phacoemulsification in malout, intraocular lens implant in malout, blurry vision treatment in malout, cloudy lens surgery in malout";
+$pageTitle = "Cataract Surgery in Malout | Best Cataract Surgeon Near Malout – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Malout at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Malout in Punjab.";
+$pageKeywords = "cataract surgery Malout, cataract surgeon Malout, cataract operation Malout, eye surgeon near Malout, cataract hospital Malout";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-malout.php";
  include 'header.php';
 ?>

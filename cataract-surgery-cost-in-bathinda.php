@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = " Cataract surgery cost in Bathinda – Trusted Eye Care with Modern Technology";
-$pageDescription = "Your destination for Cataract surgery cost in Bathinda – Brar Eye Hospital combines technology with trust to provide safe, accurate, and affordable treatments.";
-$pageKeywords = "   phacoemulsification in bathinda, intraocular lens implant in bathinda, blurry vision treatment in bathinda, cloudy lens surgery in bathinda";
+$pageTitle = "Cataract Surgery Cost in Bathinda | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Bathinda. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Bathinda & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Bathinda, cataract operation cost Bathinda, cataract surgery Bathinda, eye surgery Bathinda, cataract surgeon near Bathinda";
 include('header.php');
 ?>
 

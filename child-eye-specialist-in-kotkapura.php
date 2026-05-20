@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Child eye specialist in Kotkapura | Eye Health Excellence Since 2001";
-$pageDescription = "Child eye specialist in Kotkapura now made accessible with BRAR EYE Hospital's 21+ years of experience, trusted by 1.3L+ patients and backed by cutting-edge laser & diagnostic technology.";
-$pageKeywords = "ophthalmologist in kotkapura, retina doctor in kotkapura, vision expert in kotkapura, eye surgeon in kotkapura";
+$pageTitle = "Child Eye Specialist in Kotkapura | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Kotkapura at Brar Eye Hospital. Expert paediatric eye care for children from Kotkapura – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Kotkapura, paediatric eye doctor Kotkapura, children eye care Kotkapura, kids eye specialist Kotkapura, lazy eye treatment Kotkapura";
 include('header.php');
 ?>
     <!-- Favicon -->

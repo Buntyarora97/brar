@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Squint eye treatment in amritsar | Advanced Squint Surgery & Eye Alignment Correction with Experts";
-$pageDescription = "squint eye treatment amritsar, squint surgery amritsar, strabismus treatment amritsar, eye alignment correction amritsar, squint doctor amritsar, pediatric squint specialist amritsar";
-$pageKeywords = "squint eye treatment amritsar, squint surgery amritsar, strabismus treatment amritsar, eye alignment correction amritsar, squint doctor amritsar, pediatric squint specialist amritsar";
+$pageTitle = "Squint Eye Treatment in Amritsar | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Amritsar at Brar Eye Hospital. Safe strabismus correction for children and adults from Amritsar and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Amritsar, squint surgery Amritsar, strabismus Amritsar, crossed eyes treatment Amritsar, eye specialist Amritsar";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-amritsar.php";
  include 'header.php';
 ?>

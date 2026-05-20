@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Cataract surgery cost in Patiala | Safe, Precise & Advanced Surgery";
-$pageDescription = "Searching for Cataract surgery cost in Patiala? Visit Brar Eye Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = "  phacoemulsification in patiala, intraocular lens implant in patiala, blurry vision treatment in patiala, cloudy lens surgery in patiala";
+$pageTitle = "Cataract Surgery Cost in Patiala | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Patiala. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Patiala & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Patiala, cataract operation cost Patiala, cataract surgery Patiala, eye surgery Patiala, cataract surgeon near Patiala";
 include('header.php');
 ?>
 

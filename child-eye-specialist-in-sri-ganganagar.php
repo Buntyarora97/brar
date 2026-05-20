@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Child eye specialist in Sri Ganganagar | Advanced Eye Care Solutions";
-$pageDescription = "Trust Brar Eye Hospital for Child eye specialist in Sri Ganganagar. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "ophthalmologist in sri ganganagar, retina doctor in sri ganganagar, vision expert in sri ganganagar, eye surgeon in sri ganganagar";
+$pageTitle = "Child Eye Specialist in Sri Ganganagar | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Sri Ganganagar at Brar Eye Hospital. Expert paediatric eye care for children from Sri Ganganagar – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Sri Ganganagar, paediatric eye doctor Sri Ganganagar, children eye care Sri Ganganagar, kids eye specialist Sri Ganganagar, lazy eye treatment Sri Ganganagar";
 include('header.php');
 ?>
     <!-- Favicon -->

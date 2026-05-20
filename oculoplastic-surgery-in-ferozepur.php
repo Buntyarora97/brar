@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic surgery in Ferozepur | Expert Eyelid, Tear Duct & Eye Plastic Surgery Specialists";
-$pageDescription = " Advanced oculoplastic surgery in Ferozepur for eyelid, tear duct, and orbital disorders. Expert care with modern technology.";
-$pageKeywords = "oculoplastic surgeon Ferozepur, eyelid surgery Ferozepur, ptosis correction Ferozepur, tear duct surgery Ferozepur, cosmetic eye surgery Ferozepur";
+$pageTitle = "Oculoplastic Surgery in Ferozepur | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Ferozepur at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Ferozepur region in Punjab.";
+$pageKeywords = "oculoplastic surgery Ferozepur, eyelid surgery Ferozepur, ptosis treatment Ferozepur, orbital surgery Ferozepur, eye plastic surgery Ferozepur";
 include('header.php');
 ?>
 

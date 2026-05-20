@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Punjab | Experience Clarity with Us";
-$pageDescription = "Trust Brar Eye Hospital for Eyesight operation in Punjab. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "vision improvement surgery in punjab, specs removal operation in punjab, corrective eye surgery in punjab, surgical eye care in punjab";
+$pageTitle = "Eyesight Operation in Punjab | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Punjab – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Punjab region across Punjab.";
+$pageKeywords = "eyesight operation Punjab, LASIK surgery Punjab, vision correction Punjab, remove glasses Punjab, eye surgery Punjab";
 include('header.php');
 ?>
 

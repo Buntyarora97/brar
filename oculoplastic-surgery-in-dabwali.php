@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic surgery in Dabwali | Leading LASIK & Vision Experts";
-$pageDescription = "Your destination for Oculoplastic surgery in Dabwali – Brar Eye Hospital combines technology with trust to provide safe, accurate, and affordable treatments.";
-$pageKeywords = "   eyelid surgery in dabwali, tear duct surgery in dabwali, ptosis correction in dabwali, eye reconstruction in dabwali";
+$pageTitle = "Oculoplastic Surgery in Dabwali | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Dabwali at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Dabwali region in Punjab.";
+$pageKeywords = "oculoplastic surgery Dabwali, eyelid surgery Dabwali, ptosis treatment Dabwali, orbital surgery Dabwali, eye plastic surgery Dabwali";
 include('header.php');
 ?>
 

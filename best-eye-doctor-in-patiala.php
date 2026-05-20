@@ -1,9 +1,9 @@
     <?php
 
 
-$pageTitle = "Best eye doctor in Patiala – Trusted Eye Care with Modern Technology";
-$pageDescription = "Searching for Best eye doctor in Patiala? Visit Brar Eye Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = "ophthalmologist near me in patiala, top eye MD in patiala, eye care specialist in patiala, eye clinic in patiala";
+$pageTitle = "Best Eye Doctor in Patiala | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Patiala? Visit Brar Eye Hospital – trusted by patients from Patiala and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Patiala, eye specialist Patiala, ophthalmologist Patiala, eye hospital near Patiala, eye checkup Patiala";
 
 include('header.php');
 ?>

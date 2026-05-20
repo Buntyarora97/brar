@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Get Treated by Experts for Glaucoma treatment in Muktsar";
-$pageDescription = "Brar Eye Hospital offers the best care for Glaucoma treatment in Muktsar using world-class machines, advanced surgical techniques & experienced eye specialists.";
-$pageKeywords = "eye pressure management in muktsar, optic nerve protection in muktsar, trabeculectomy in muktsar, visual field preservation in muktsar";
+$pageTitle = "Glaucoma Treatment in Muktsar | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Muktsar at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Muktsar and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Muktsar, eye pressure Muktsar, glaucoma specialist near Muktsar, glaucoma surgery Muktsar, eye doctor Muktsar";
 include('header.php');
 ?>
 

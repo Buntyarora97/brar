@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Get Treated by Experts for Squint eye treatment in Kotkapura";
-$pageDescription = "Trust Brar Eye Hospital for Squint eye treatment in Kotkapura. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "strabismus surgery in kotkapura, squint correction in kotkapura, eye alignment treatment in kotkapura, lazy eye fix in kotkapura";
+$pageTitle = "Squint Eye Treatment in Kotkapura | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Kotkapura at Brar Eye Hospital. Safe strabismus correction for children and adults from Kotkapura and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Kotkapura, squint surgery Kotkapura, strabismus Kotkapura, crossed eyes treatment Kotkapura, eye specialist Kotkapura";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-kotkapura.php";
  include 'header.php';
 ?>

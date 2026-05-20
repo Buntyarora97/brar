@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Cataract Surgery Cost in Fazilka | Affordable & Transparent Pricing";
-$pageDescription = " Get transparent and affordable cataract surgery cost in Fazilka with advanced care.";
-$pageKeywords = "cataract surgery cost fazilka, low-cost cataract surgery fazilka, phaco charges fazilka, cataract package fazilka, affordable cataract operation fazilka";
+$pageTitle = "Cataract Surgery Cost in Fazilka | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Fazilka. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Fazilka & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Fazilka, cataract operation cost Fazilka, cataract surgery Fazilka, eye surgery Fazilka, cataract surgeon near Fazilka";
 include('header.php');
 ?>
 

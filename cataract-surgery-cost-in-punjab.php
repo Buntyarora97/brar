@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Get Treated by Experts for Cataract surgery cost in Punjab";
-$pageDescription = "Trust Brar Eye Hospital for Cataract surgery cost in Punjab. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "phacoemulsification in punjab, intraocular lens implant in punjab, blurry vision treatment in punjab, cloudy lens surgery in punjab";
+$pageTitle = "Cataract Surgery Cost in Punjab | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Punjab. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Punjab & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Punjab, cataract operation cost Punjab, cataract surgery Punjab, eye surgery Punjab, cataract surgeon near Punjab";
 include('header.php');
 ?>
 

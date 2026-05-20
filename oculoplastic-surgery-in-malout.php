@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Get Treated by Experts for Oculoplastic surgery in Malout";
-$pageDescription = "Oculoplastic surgery in Malout now made accessible with Brar Eye Hospital's 21+ years of experience, trusted by 1.3L+ patients and backed by cutting-edge laser & diagnostic technology.";
-$pageKeywords = "eyelid surgery in malout, tear duct surgery in malout, ptosis correction in malout, eye reconstruction in malout";
+$pageTitle = "Oculoplastic Surgery in Malout | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Malout at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Malout region in Punjab.";
+$pageKeywords = "oculoplastic surgery Malout, eyelid surgery Malout, ptosis treatment Malout, orbital surgery Malout, eye plastic surgery Malout";
 include('header.php');
 ?>
 

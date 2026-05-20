@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Cataract Surgery Cost in Abohar – Affordable & Transparent";
-$pageDescription = " Wondering about cataract surgery prices in Abohar? Get cost-effective packages without compromising quality eye care.";
-$pageKeywords = "cataract cost Abohar, affordable eye surgery, cataract packages, cost of lens surgery, eye hospital Abohar";
+$pageTitle = "Cataract Surgery Cost in Abohar | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Abohar. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Abohar & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Abohar, cataract operation cost Abohar, cataract surgery Abohar, eye surgery Abohar, cataract surgeon near Abohar";
 include('header.php');
 ?>
 

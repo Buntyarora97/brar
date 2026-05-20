@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Get Treated by Experts for Glaucoma treatment in Sri Ganganagar";
-$pageDescription = "Searching for Glaucoma treatment in Sri Ganganagar? Visit Brar Eye Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = "eye pressure management in sri ganganagar, optic nerve protection in sri ganganagar, trabeculectomy in sri ganganagar, visual field preservation in sri ganganagar";
+$pageTitle = "Glaucoma Treatment in Sri Ganganagar | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Sri Ganganagar at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Sri Ganganagar and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Sri Ganganagar, eye pressure Sri Ganganagar, glaucoma specialist near Sri Ganganagar, glaucoma surgery Sri Ganganagar, eye doctor Sri Ganganagar";
 include('header.php');
 ?>
 

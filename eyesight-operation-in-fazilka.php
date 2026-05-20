@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight Operation in Fazilka | Advanced Vision Correction Experts";
-$pageDescription = "Improve your eyesight with advanced surgical options and modern vision correction in Fazilka.";
-$pageKeywords = "Eyesight operation Fazilka, Vision correction Fazilka, LASIK Fazilka, Eye surgery Fazilka, Eye doctor Fazilka ";
+$pageTitle = "Eyesight Operation in Fazilka | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Fazilka – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Fazilka region across Punjab.";
+$pageKeywords = "eyesight operation Fazilka, LASIK surgery Fazilka, vision correction Fazilka, remove glasses Fazilka, eye surgery Fazilka";
 include('header.php');
 ?>
 

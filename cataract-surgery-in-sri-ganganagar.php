@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Cataract Surgery in Sri Ganganagar | Safe, Precise & Advanced Surgery";
-$pageDescription = "Need Cataract Surgery in Sri Ganganagar? Brar Eye Hospital ensures ethical practices, fast recovery & transparent pricing with expert eye surgeons on board.";
-$pageKeywords = "phacoemulsification in sri ganganagar, intraocular lens implant in sri ganganagar, blurry vision treatment in sri ganganagar, cloudy lens surgery in sri ganganagar";
+$pageTitle = "Cataract Surgery in Sri Ganganagar | Best Cataract Surgeon Near Sri Ganganagar – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Sri Ganganagar at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Sri Ganganagar in Punjab.";
+$pageKeywords = "cataract surgery Sri Ganganagar, cataract surgeon Sri Ganganagar, cataract operation Sri Ganganagar, eye surgeon near Sri Ganganagar, cataract hospital Sri Ganganagar";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-Sri-Ganganagar.php";
  include 'header.php';
 ?>

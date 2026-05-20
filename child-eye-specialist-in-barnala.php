@@ -1,7 +1,7 @@
 <?php
-$pageTitle = " Child eye specialist in Barnala | Leading LASIK & Vision Experts";
-$pageDescription = "  Need Child eye specialist in Barnala? Brar Eye Hospital ensures ethical practices, fast recovery & transparent pricing with expert eye surgeons on board.";
-$pageKeywords = "ophthalmologist in barnala, retina doctor in barnala, vision expert in barnala, eye surgeon in barnala";
+$pageTitle = "Child Eye Specialist in Barnala | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Barnala at Brar Eye Hospital. Expert paediatric eye care for children from Barnala – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Barnala, paediatric eye doctor Barnala, children eye care Barnala, kids eye specialist Barnala, lazy eye treatment Barnala";
 include('header.php');
 ?>
     <!-- Favicon -->

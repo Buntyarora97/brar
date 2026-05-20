@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Cataract surgery cost in Sri Ganganagar – Brar Eye Hospital’s Expertise";
-$pageDescription = "Cataract surgery cost in Sri Ganganagar now made accessible with Brar Eye Hospital's 21+ years of experience, trusted by 1.3L+ patients and backed by cutting-edge laser & diagnostic technology.";
-$pageKeywords = "   phacoemulsification in sri ganganagar, intraocular lens implant in sri ganganagar, blurry vision treatment in sri ganganagar, cloudy lens surgery in sri ganganagar";
+$pageTitle = "Cataract Surgery Cost in Sri Ganganagar | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Sri Ganganagar. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Sri Ganganagar & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Sri Ganganagar, cataract operation cost Sri Ganganagar, cataract surgery Sri Ganganagar, eye surgery Sri Ganganagar, cataract surgeon near Sri Ganganagar";
 include('header.php');
 ?>
 

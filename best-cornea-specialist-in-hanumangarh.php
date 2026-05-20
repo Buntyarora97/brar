@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-hanumangarh.php
 
-$pageTitle = "Best cornea specialist in Hanumangarh – Trusted Eye Care with Modern Technology";
-$pageDescription = "Trust Brar Eye Hospital for Best cornea specialist in Hanumangarh. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "corneal transplant in hanumangarh, keratoconus in hanumangarh, dry eye care in hanumangarh, corneal infections in hanumangarh";
+$pageTitle = "Best Cornea Specialist in Hanumangarh | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Hanumangarh at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Hanumangarh and across Punjab.";
+$pageKeywords = "cornea specialist Hanumangarh, corneal transplant Hanumangarh, keratoconus Hanumangarh, cornea doctor Hanumangarh, dry eye treatment Hanumangarh";
 
 include('header.php');
 ?>

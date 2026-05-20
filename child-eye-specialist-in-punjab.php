@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Child eye specialist in Sirsa | Eye Health Excellence Since 2001";
-$pageDescription = "Searching for Child eye specialist in sirsa? Visit Brar Eye Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = " ophthalmologist in sirsa, retina doctor in sirsa, vision expert in sirsa, eye surgeon in sirsa";
+$pageTitle = "Child Eye Specialist in Punjab | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Punjab at Brar Eye Hospital. Expert paediatric eye care for children from Punjab – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Punjab, paediatric eye doctor Punjab, children eye care Punjab, kids eye specialist Punjab, lazy eye treatment Punjab";
 include('header.php');
 ?>
     <!-- Favicon -->

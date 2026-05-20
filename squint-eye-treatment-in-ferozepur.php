@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Squint eye treatment in ferozepur | Advanced Squint Surgery & Eye Alignment Correction with Experts";
-$pageDescription = "squint eye treatment ferozepur, squint surgery ferozepur, strabismus treatment ferozepur, eye alignment correction ferozepur, squint doctor ferozepur, pediatric squint specialist ferozepur";
-$pageKeywords = "squint eye treatment ferozepur, squint surgery ferozepur, strabismus treatment ferozepur, eye alignment correction ferozepur, squint doctor ferozepur, pediatric squint specialist ferozepur";
+$pageTitle = "Squint Eye Treatment in Ferozepur | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Ferozepur at Brar Eye Hospital. Safe strabismus correction for children and adults from Ferozepur and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Ferozepur, squint surgery Ferozepur, strabismus Ferozepur, crossed eyes treatment Ferozepur, eye specialist Ferozepur";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-ferozepur.php";
  include 'header.php';
 ?>

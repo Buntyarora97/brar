@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-patiala.php
 
-$pageTitle = "Best cornea specialist in Patiala – Trusted Eye Care with Modern Technology";
-$pageDescription = "Searching for Best cornea specialist in Patiala? Visit Brar Eye Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = "corneal transplant in patiala, keratoconus in patiala, dry eye care in patiala, corneal infections in patiala";
+$pageTitle = "Contact Brar Eye Hospital Bathinda | Book Eye Appointment Online – +91 72182-72182";
+$pageDescription = "Contact Brar Eye Hospital Bathinda & Kotkapura. Book an eye checkup appointment with top ophthalmologists. Call +91 72182-72182 or visit Rose Garden Chowk, Bathinda, Punjab.";
+$pageKeywords = "contact Brar Eye Hospital, book eye appointment Bathinda, eye doctor appointment Bathinda, eye hospital phone number Bathinda, eye checkup Bathinda, Brar Eye Hospital address";
 
 include('header.php');
 ?>

@@ -6,25 +6,56 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-    <title><?php echo $pageTitle; ?></title>
-    <meta name="description" content="<?php echo $pageDescription; ?>">
+    <?php
+    $siteUrl = 'https://brareyehospital.com';
+    $currentPath = $_SERVER['REQUEST_URI'] ?? '/';
+    $canonicalUrl = $siteUrl . strtok($currentPath, '?');
+    $pageTitle = isset($pageTitle) ? $pageTitle : 'Best Eye Hospital in Bathinda | Brar Eye Hospital';
+    $pageDescription = isset($pageDescription) ? $pageDescription : 'Brar Eye Hospital - Leading Eye Superspeciality Hospital in Bathinda & Kotkapura, Punjab. Expert care for Cataract, SMILE Pro, LASIK, Glaucoma, Retina and more.';
+    $pageKeywords = isset($pageKeywords) ? $pageKeywords : 'eye hospital Bathinda, eye surgeon Punjab, cataract surgery Bathinda, SMILE Pro LASIK, glaucoma treatment Bathinda';
+    $ogImage = isset($ogImage) ? $ogImage : $siteUrl . '/assets/images/logo1.webp';
+    ?>
+
+    <title><?php echo htmlspecialchars($pageTitle); ?></title>
+    <meta name="description" content="<?php echo htmlspecialchars($pageDescription); ?>">
+    <meta name="keywords" content="<?php echo htmlspecialchars($pageKeywords); ?>">
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    <meta name="author" content="Brar Eye Hospital">
+    <link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl); ?>">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="<?php echo htmlspecialchars($canonicalUrl); ?>">
+    <meta property="og:title" content="<?php echo htmlspecialchars($pageTitle); ?>">
+    <meta property="og:description" content="<?php echo htmlspecialchars($pageDescription); ?>">
+    <meta property="og:image" content="<?php echo htmlspecialchars($ogImage); ?>">
+    <meta property="og:site_name" content="Brar Eye Hospital">
+    <meta property="og:locale" content="en_IN">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="<?php echo htmlspecialchars($pageTitle); ?>">
+    <meta name="twitter:description" content="<?php echo htmlspecialchars($pageDescription); ?>">
+    <meta name="twitter:image" content="<?php echo htmlspecialchars($ogImage); ?>">
+    <meta name="twitter:site" content="@brareyehospital">
+
+    <!-- Geo Tags -->
+    <meta name="geo.region" content="IN-PB">
+    <meta name="geo.placename" content="Bathinda, Punjab">
+    <meta name="geo.position" content="30.2110;74.9455">
+    <meta name="ICBM" content="30.2110, 74.9455">
+
     <!-- Fav Icon -->
     <link rel="icon" href="assets/images/logo1.webp" type="image/x-icon">
 
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&amp;display=swap"
-        rel="stylesheet">
-    <link
-        href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
-        rel="stylesheet">
-    <link
-        href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
-        rel="stylesheet">
-    <link
-        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
-        rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <!-- DNS Prefetch & Preconnect for speed -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
 
+    <!-- Google Fonts (combined single request - 4x faster) -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Jost:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Rubik:wght@400;500;600;700&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
 
     <!-- Stylesheets -->
     <link href="assets/css/font-awesome-all.css" rel="stylesheet">
@@ -39,52 +70,120 @@
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/responsive.css" rel="stylesheet">
     <!-- AOS Library -->
-<link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
 
-
-
-  <!-- ✅ Google Tag Code Yahan Paste Karo -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17006369601"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date()); 
-    gtag('config', 'AW-17006369601');
-  </script>
-
-
-<!-- Event snippet for BEH Page View conversion page -->
-<script>
-  gtag('event', 'conversion', {
-      'send_to': 'AW-17006369601/nHi1CMLU6_QaEMG2oq0_',
-      'value': 1.0,
-      'currency': 'INR'
-  });
-</script>
-
-
-<!-- Event snippet for Click to call conversion page
-In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
-<script>
-function gtag_report_conversion(url) {
-  var callback = function () {
-    if (typeof(url) != 'undefined') {
-      window.location = url;
+    <!-- MedicalBusiness + LocalBusiness Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": ["MedicalBusiness", "LocalBusiness"],
+          "@id": "https://brareyehospital.com/#organization",
+          "name": "Brar Eye Hospital",
+          "alternateName": "Brar Eye Hospital Pvt. Ltd.",
+          "url": "https://brareyehospital.com",
+          "logo": "https://brareyehospital.com/assets/images/logo1.webp",
+          "image": "https://brareyehospital.com/assets/images/logo1.webp",
+          "description": "Brar Eye Hospital is a leading eye superspeciality hospital in Bathinda and Kotkapura, Punjab, offering advanced eye care including SMILE Pro, LASIK, Cataract Surgery, Glaucoma, Retina, Cornea and Paediatric Ophthalmology.",
+          "telephone": "+91-7218272182",
+          "email": "brareyehospitals@gmail.com",
+          "foundingDate": "2003",
+          "priceRange": "₹₹",
+          "currenciesAccepted": "INR",
+          "paymentAccepted": "Cash, Credit Card, Debit Card, Insurance",
+          "medicalSpecialty": [
+            "Ophthalmology",
+            "Cataract Surgery",
+            "Refractive Surgery",
+            "Glaucoma",
+            "Retina",
+            "Cornea",
+            "Paediatric Ophthalmology"
+          ],
+          "address": [
+            {
+              "@type": "PostalAddress",
+              "streetAddress": "6WJP+3W4, Rose Garden Chowk",
+              "addressLocality": "Bathinda",
+              "addressRegion": "Punjab",
+              "postalCode": "151001",
+              "addressCountry": "IN"
+            }
+          ],
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 30.2110,
+            "longitude": 74.9455
+          },
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+              "opens": "08:00",
+              "closes": "17:00"
+            }
+          ],
+          "sameAs": [
+            "https://www.facebook.com/brareyehospitals",
+            "https://www.instagram.com/brareyehospital/",
+            "https://in.linkedin.com/company/brar-eye-hospital-pvt-ltd",
+            "https://www.youtube.com/channel/UCZYhxYnJ5HiVy0GLffaDM-g"
+          ],
+          "hasMap": "https://maps.google.com/?q=Brar+Eye+Hospital+Bathinda",
+          "isAcceptingNewPatients": true,
+          "availableService": [
+            {"@type": "MedicalProcedure", "name": "SMILE Pro Laser Vision Correction"},
+            {"@type": "MedicalProcedure", "name": "LASIK Surgery"},
+            {"@type": "MedicalProcedure", "name": "Cataract Surgery"},
+            {"@type": "MedicalProcedure", "name": "Glaucoma Treatment"},
+            {"@type": "MedicalProcedure", "name": "Retina Surgery"},
+            {"@type": "MedicalProcedure", "name": "Cornea Transplant"},
+            {"@type": "MedicalProcedure", "name": "Paediatric Eye Care"},
+            {"@type": "MedicalProcedure", "name": "Squint Surgery"},
+            {"@type": "MedicalProcedure", "name": "Oculoplastic Surgery"}
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://brareyehospital.com/#website",
+          "url": "https://brareyehospital.com",
+          "name": "Brar Eye Hospital",
+          "description": "Official website of Brar Eye Hospital, Bathinda, Punjab",
+          "publisher": {"@id": "https://brareyehospital.com/#organization"},
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://brareyehospital.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+      ]
     }
-  };
-  gtag('event', 'conversion', {
-      'send_to': 'AW-17006369601/E9aWCOG6xrQbEMG2oq0_',
-      'value': 1.0,
-      'currency': 'INR',
-      'event_callback': callback
-  });
-  return false;
-}
-</script>
+    </script>
 
+    <!-- Google Tag Manager -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17006369601"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'AW-17006369601');
+    </script>
+    <script>
+        gtag('event', 'conversion', {'send_to': 'AW-17006369601/nHi1CMLU6_QaEMG2oq0_', 'value': 1.0, 'currency': 'INR'});
+    </script>
+    <script>
+        function gtag_report_conversion(url) {
+            var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } };
+            gtag('event', 'conversion', {'send_to': 'AW-17006369601/E9aWCOG6xrQbEMG2oq0_', 'value': 1.0, 'currency': 'INR', 'event_callback': callback});
+            return false;
+        }
+    </script>
 
+    <meta name="google-site-verification" content="fI7vpI11Lin1Blet1SZeHuu8UqZDa8_DghuBPmFx9L4" />
 
-<meta name="google-site-verification" content="fI7vpI11Lin1Blet1SZeHuu8UqZDa8_DghuBPmFx9L4" />
+    <!-- Font Awesome (local only - removed CDN duplicate) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 </head>
 

@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Get Treated by Experts for Cataract surgery cost in Hanumangarh";
-$pageDescription = "Cataract surgery cost in Hanumangarh with personalized care, US FDA-approved tech, & Punjab's most experienced team of ophthalmologists at Brar Eye Hospital.";
-$pageKeywords = " phacoemulsification in hanumangarh, intraocular lens implant in hanumangarh, blurry vision treatment in hanumangarh, cloudy lens surgery in hanumangarh";
+$pageTitle = "Cataract Surgery Cost in Hanumangarh | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Hanumangarh. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Hanumangarh & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Hanumangarh, cataract operation cost Hanumangarh, cataract surgery Hanumangarh, eye surgery Hanumangarh, cataract surgeon near Hanumangarh";
 include('header.php');
 ?>
 

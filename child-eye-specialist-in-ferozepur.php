@@ -1,7 +1,7 @@
 <?php
-$pageTitle = " Child eye specialist in Ferozepur | Pediatric Eye Expert for Squint, Lazy Eye & Complete Eye Care";
-$pageDescription = "Find the best child eye specialist in Ferozepur. Comprehensive pediatric eye care for squint, lazy eye, and vision problems in children.";
-$pageKeywords = "child eye care Ferozepur, pediatric eye specialist Ferozepur, squint doctor Ferozepur, lazy eye treatment Ferozepur, kids eye clinic Ferozepur";
+$pageTitle = "Child Eye Specialist in Ferozepur | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Ferozepur at Brar Eye Hospital. Expert paediatric eye care for children from Ferozepur – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Ferozepur, paediatric eye doctor Ferozepur, children eye care Ferozepur, kids eye specialist Ferozepur, lazy eye treatment Ferozepur";
 include('header.php');
 ?>
     <!-- Favicon -->

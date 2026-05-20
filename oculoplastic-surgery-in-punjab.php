@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic surgery in Punjab – Trusted Eye Care with Modern Technology";
-$pageDescription = "Get reliable & high-precision solutions for Oculoplastic surgery in Punjab at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "eyelid surgery in punjab, tear duct surgery in punjab, ptosis correction in punjab, eye reconstruction in punjab";
+$pageTitle = "Oculoplastic Surgery in Punjab | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Punjab at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Punjab region in Punjab.";
+$pageKeywords = "oculoplastic surgery Punjab, eyelid surgery Punjab, ptosis treatment Punjab, orbital surgery Punjab, eye plastic surgery Punjab";
 include('header.php');
 ?>
 

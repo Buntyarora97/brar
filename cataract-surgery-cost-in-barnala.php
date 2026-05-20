@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Cataract surgery cost in Barnala | Experience Clarity with Us";
-$pageDescription = "Trust Brar Eye Hospital for Cataract surgery cost in Barnala. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "phacoemulsification in barnala, intraocular lens implant in barnala, blurry vision treatment in barnala, cloudy lens surgery in barnala";
+$pageTitle = "Cataract Surgery Cost in Barnala | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Barnala. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Barnala & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Barnala, cataract operation cost Barnala, cataract surgery Barnala, eye surgery Barnala, cataract surgeon near Barnala";
 include('header.php');
 ?>
 

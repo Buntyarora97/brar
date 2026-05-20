@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic surgery in Moga | Experience Clarity with Us";
-$pageDescription = "Searching for Oculoplastic surgery in Moga? Visit Brar Eye Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = "eyelid surgery in moga, tear duct surgery in moga, ptosis correction in moga, eye reconstruction in moga";
+$pageTitle = "Oculoplastic Surgery in Moga | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Moga at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Moga region in Punjab.";
+$pageKeywords = "oculoplastic surgery Moga, eyelid surgery Moga, ptosis treatment Moga, orbital surgery Moga, eye plastic surgery Moga";
 include('header.php');
 ?>
 

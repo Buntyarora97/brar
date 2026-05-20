@@ -1,7 +1,7 @@
 <?php
-$pageTitle = " Child Eye Specialist in Fazilka | Trusted Pediatric Eye Care";
-$pageDescription = "Get expert pediatric eye care at Brar Eye Hospital, Fazilka. Specialized in treating squint, blurry vision, and eye alignment issues in children.";
-$pageKeywords = "Child eye doctor, pediatric eye specialist, squint treatment, kids eye care Fazilka, blurry vision child";
+$pageTitle = "Child Eye Specialist in Fazilka | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Fazilka at Brar Eye Hospital. Expert paediatric eye care for children from Fazilka – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Fazilka, paediatric eye doctor Fazilka, children eye care Fazilka, kids eye specialist Fazilka, lazy eye treatment Fazilka";
 include('header.php');
 ?>
     <!-- Favicon -->

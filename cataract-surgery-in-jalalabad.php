@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Cataract Surgery in jalalabad | Leading LASIK & Vision Experts";
-$pageDescription = "Need Cataract Surgery in jalalabad? Brar Eye Hospital ensures ethical practices, fast recovery & transparent pricing with expert eye surgeons on board.";
-$pageKeywords = "phacoemulsification in jalalabad, intraocular lens implant in jalalabad, blurry vision treatment in jalalabad, cloudy lens surgery in jalalabad";
+$pageTitle = "Cataract Surgery in Jalalabad | Best Cataract Surgeon Near Jalalabad – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Jalalabad at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Jalalabad in Punjab.";
+$pageKeywords = "cataract surgery Jalalabad, cataract surgeon Jalalabad, cataract operation Jalalabad, eye surgeon near Jalalabad, cataract hospital Jalalabad";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-jalalabad.php";
  include 'header.php';
 ?>

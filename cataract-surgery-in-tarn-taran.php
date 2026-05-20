@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Cataract Surgery in tarn-taran | Eye Health Excellence Since 2001";
-$pageDescription = "Your destination for Cataract Surgery in tarn-taran – Brar Eye Hospital combines technology with trust to provide safe, accurate, and affordable treatments.";
-$pageKeywords = "phacoemulsification in tarn-taran, intraocular lens implant in tarn-taran, blurry vision treatment in tarn-taran, cloudy lens surgery in tarn-taran";
+$pageTitle = "Cataract Surgery in Tarn Taran | Best Cataract Surgeon Near Tarn Taran – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Tarn Taran at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Tarn Taran in Punjab.";
+$pageKeywords = "cataract surgery Tarn Taran, cataract surgeon Tarn Taran, cataract operation Tarn Taran, eye surgeon near Tarn Taran, cataract hospital Tarn Taran";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-tarn-taran.php";
  include 'header.php';
 ?>

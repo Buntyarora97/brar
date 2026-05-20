@@ -1,9 +1,9 @@
 <?php
 
 
-$pageTitle = "Best eye doctor in Mansa | Experience Clarity with Us";
-$pageDescription = "Best eye doctor in Mansa with personalized care, US FDA-approved tech, & Punjab's most experienced team of ophthalmologists at Brar Eye Hospital.";
-$pageKeywords = "ophthalmologist near me in mansa, top eye MD in mansa, eye care specialist in mansa, eye clinic in mansa";
+$pageTitle = "Best Eye Doctor in Mansa | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Mansa? Visit Brar Eye Hospital – trusted by patients from Mansa and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Mansa, eye specialist Mansa, ophthalmologist Mansa, eye hospital near Mansa, eye checkup Mansa";
 
 include('header.php');
 ?>

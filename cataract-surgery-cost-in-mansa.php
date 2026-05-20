@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = " Get Treated by Experts for Cataract surgery cost in Mansa";
-$pageDescription = "Get reliable & high-precision solutions for Cataract surgery cost in Mansa at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "   phacoemulsification in mansa, intraocular lens implant in mansa, blurry vision treatment in mansa, cloudy lens surgery in mansa";
+$pageTitle = "Cataract Surgery Cost in Mansa | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Mansa. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Mansa & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Mansa, cataract operation cost Mansa, cataract surgery Mansa, eye surgery Mansa, cataract surgeon near Mansa";
 include('header.php');
 ?>
 

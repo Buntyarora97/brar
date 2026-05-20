@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic surgery in Kotkapura | Experience Clarity with Us";
-$pageDescription = "Oculoplastic surgery in Kotkapura with personalized care, US FDA-approved tech, & Punjab's most experienced team of ophthalmologists at Brar Eye Hospital.";
-$pageKeywords = "eyelid surgery in kotkapura, tear duct surgery in kotkapura, ptosis correction in kotkapura, eye reconstruction in kotkapura";
+$pageTitle = "Oculoplastic Surgery in Kotkapura | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Kotkapura at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Kotkapura region in Punjab.";
+$pageKeywords = "oculoplastic surgery Kotkapura, eyelid surgery Kotkapura, ptosis treatment Kotkapura, orbital surgery Kotkapura, eye plastic surgery Kotkapura";
 include('header.php');
 ?>
 

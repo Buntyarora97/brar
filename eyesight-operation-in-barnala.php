@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Barnala | Eye Health Excellence Since 2001";
-$pageDescription = "Searching for Eyesight operation in Barnala? Visit Brar Eye Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = "vision improvement surgery in barnala, specs removal operation in barnala, corrective eye surgery in barnala, surgical eye care in barnala";
+$pageTitle = "Eyesight Operation in Barnala | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Barnala – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Barnala region across Punjab.";
+$pageKeywords = "eyesight operation Barnala, LASIK surgery Barnala, vision correction Barnala, remove glasses Barnala, eye surgery Barnala";
 include('header.php');
 ?>
 

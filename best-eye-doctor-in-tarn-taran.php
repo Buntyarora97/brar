@@ -1,9 +1,9 @@
 <?php
 
 
-$pageTitle = "Best eye doctor in Tarn-taran | Advanced Eye Care Solutions";
-$pageDescription = "Get reliable & high-precision solutions for Best eye doctor in Tarn-taran at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "ophthalmologist near me in tarn-taran, top eye MD in tarn-taran, eye care specialist in tarn-taran, eye clinic in tarn-taran";
+$pageTitle = "Best Eye Doctor in Tarn Taran | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Tarn Taran? Visit Brar Eye Hospital – trusted by patients from Tarn Taran and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Tarn Taran, eye specialist Tarn Taran, ophthalmologist Tarn Taran, eye hospital near Tarn Taran, eye checkup Tarn Taran";
 
 include('header.php');
 ?>

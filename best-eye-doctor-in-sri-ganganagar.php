@@ -1,9 +1,9 @@
 <?php
 
 
-$pageTitle = "Best eye doctor in Sri Ganganagar | Advanced Eye Care Solutions";
-$pageDescription = "Get reliable & high-precision solutions for Best eye doctor in Sri Ganganagar at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "ophthalmologist near me in sri ganganagar, top eye MD in sri ganganagar, eye care specialist in sri ganganagar, eye clinic in sri ganganagar";
+$pageTitle = "Best Eye Doctor in Sri Ganganagar | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Sri Ganganagar? Visit Brar Eye Hospital – trusted by patients from Sri Ganganagar and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Sri Ganganagar, eye specialist Sri Ganganagar, ophthalmologist Sri Ganganagar, eye hospital near Sri Ganganagar, eye checkup Sri Ganganagar";
 
 include('header.php');
 ?>

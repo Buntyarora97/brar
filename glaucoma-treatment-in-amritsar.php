@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Glaucoma treatment in Amritsar | Advanced Glaucoma Care with Modern Technology & Expert Surgeons";
-$pageDescription = "Expert glaucoma treatment in Amritsar with advanced diagnostic tools and surgical options to preserve your eyesight.";
-$pageKeywords = "glaucoma treatment Amritsar, glaucoma surgery Amritsar, optic nerve pressure care Amritsar, advanced glaucoma treatment Amritsar, eye pressure specialist Amritsar, glaucoma hospital Amritsar";
+$pageTitle = "Glaucoma Treatment in Amritsar | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Amritsar at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Amritsar and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Amritsar, eye pressure Amritsar, glaucoma specialist near Amritsar, glaucoma surgery Amritsar, eye doctor Amritsar";
 include('header.php');
 ?>
 

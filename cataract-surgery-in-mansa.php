@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Cataract Surgery in Mansa | Leading LASIK & Vision Experts";
-$pageDescription = "Cataract Surgery in Mansa with personalized care, US FDA-approved tech, & Punjab's most experienced team of ophthalmologists at Brar Eye Hospital.";
-$pageKeywords = "phacoemulsification in mansa, intraocular lens implant in mansa, blurry vision treatment in mansa, cloudy lens surgery in mansa";
+$pageTitle = "Cataract Surgery in Mansa | Best Cataract Surgeon Near Mansa – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Mansa at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Mansa in Punjab.";
+$pageKeywords = "cataract surgery Mansa, cataract surgeon Mansa, cataract operation Mansa, eye surgeon near Mansa, cataract hospital Mansa";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-mansa.php";
  include 'header.php';
 ?>

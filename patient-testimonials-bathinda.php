@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Patient Testimonials - Brar Eye Hospital I 21 Years of Legacy";
-$pageDescription = "Hear from our patients about their eye care experiences and successful treatments at Brar Eye Hospital.";
-$pageKeywords = "eye hospital reviews, patient feedback, lasik surgery cost";
+$pageTitle = "Patient Testimonials | Brar Eye Hospital Bathinda – Real Reviews & Success Stories";
+$pageDescription = "Read real patient reviews and success stories from Brar Eye Hospital Bathinda. Thousands of successful LASIK, SMILE Pro, cataract and glaucoma surgeries with 21+ years of trust.";
+$pageKeywords = "Brar Eye Hospital reviews, eye hospital patient testimonials Bathinda, LASIK surgery review Bathinda, cataract surgery testimonial Punjab, best eye hospital reviews";
 include('header.php');
 ?>
 <!-- 🌟 Testimonial Banner Section -->

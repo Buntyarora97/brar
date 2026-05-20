@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Glaucoma treatment in Tarn-Taran | Advanced Glaucoma Care with Modern Technology & Expert Surgeons";
-$pageDescription = "Expert glaucoma treatment in Tarn-Taran with advanced diagnostic tools and surgical options to preserve your eyesight.";
-$pageKeywords = "glaucoma treatment Tarn-Taran, glaucoma surgery Tarn-Taran, advanced glaucoma care Tarn-Taran, eye pressure treatment Tarn-Taran, optic nerve care Tarn-Taran, glaucoma specialists Tarn-Taran";
+$pageTitle = "Glaucoma Treatment in Tarn Taran | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Tarn Taran at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Tarn Taran and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Tarn Taran, eye pressure Tarn Taran, glaucoma specialist near Tarn Taran, glaucoma surgery Tarn Taran, eye doctor Tarn Taran";
 include('header.php');
 ?>
 

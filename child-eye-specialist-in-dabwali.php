@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Child eye specialist in Dabwali | Experience Clarity with Us";
-$pageDescription = "Searching for Child eye specialist in Dabwali? Visit Brar Eye Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = "ophthalmologist in dabwali, retina doctor in dabwali, vision expert in dabwali, eye surgeon in dabwali";
+$pageTitle = "Child Eye Specialist in Dabwali | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Dabwali at Brar Eye Hospital. Expert paediatric eye care for children from Dabwali – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Dabwali, paediatric eye doctor Dabwali, children eye care Dabwali, kids eye specialist Dabwali, lazy eye treatment Dabwali";
 include('header.php');
 ?>
     <!-- Favicon -->

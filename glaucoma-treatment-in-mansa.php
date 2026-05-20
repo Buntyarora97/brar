@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Glaucoma treatment in Mansa | Safe, Precise & Advanced Surgery";
-$pageDescription = "Get reliable & high-precision solutions for Glaucoma treatment in mansa at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "eye pressure management in mansa, optic nerve protection in mansa, trabeculectomy in mansa, visual field preservation in mansa";
+$pageTitle = "Glaucoma Treatment in Mansa | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Mansa at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Mansa and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Mansa, eye pressure Mansa, glaucoma specialist near Mansa, glaucoma surgery Mansa, eye doctor Mansa";
 include('header.php');
 ?>
 

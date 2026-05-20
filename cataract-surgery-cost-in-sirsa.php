@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Cataract surgery cost in Sirsa – Trusted Eye Care with Modern Technology";
-$pageDescription = "Need Cataract surgery cost in Sirsa? Brar Eye Hospital ensures ethical practices, fast recovery & transparent pricing with expert eye surgeons on board.";
-$pageKeywords = "phacoemulsification in sirsa, intraocular lens implant in sirsa, blurry vision treatment in sirsa, cloudy lens surgery in sirsa";
+$pageTitle = "Cataract Surgery Cost in Sirsa | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Sirsa. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Sirsa & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Sirsa, cataract operation cost Sirsa, cataract surgery Sirsa, eye surgery Sirsa, cataract surgeon near Sirsa";
 include('header.php');
 ?>
 

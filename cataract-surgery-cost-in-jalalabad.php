@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Cataract surgery cost in Jalalabad | Affordable & Advanced Cataract Surgery Packages with Experts";
-$pageDescription = "Looking for affordable cataract surgery cost in Jalalabad? Get safe, advanced, and budget-friendly treatment with expert surgeons.";
-$pageKeywords = "cataract surgery cost Jalalabad, affordable cataract surgery Jalalabad, budget cataract packages Jalalabad, advanced cataract surgery Jalalabad";
+$pageTitle = "Cataract Surgery Cost in Jalalabad | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Jalalabad. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Jalalabad & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Jalalabad, cataract operation cost Jalalabad, cataract surgery Jalalabad, eye surgery Jalalabad, cataract surgeon near Jalalabad";
 include('header.php');
 ?>
 

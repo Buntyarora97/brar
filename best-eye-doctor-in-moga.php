@@ -1,9 +1,9 @@
     <?php
 
 
-$pageTitle = "Best eye doctor in Moga | Experience Clarity with Us";
-$pageDescription = "Get reliable & high-precision solutions for Best eye doctor in Moga at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "ophthalmologist near me in moga, top eye MD in moga, eye care specialist in moga, eye clinic in moga";
+$pageTitle = "Best Eye Doctor in Moga | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Moga? Visit Brar Eye Hospital – trusted by patients from Moga and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Moga, eye specialist Moga, ophthalmologist Moga, eye hospital near Moga, eye checkup Moga";
 
 include('header.php');
 ?>

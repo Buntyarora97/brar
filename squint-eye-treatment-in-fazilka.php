@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Squint eye treatment in fazilka | Advanced Squint Surgery & Eye Alignment Correction with Experts";
-$pageDescription = "squint eye treatment fazilka, squint surgery fazilka, strabismus treatment fazilka, eye alignment correction fazilka, squint doctor fazilka, pediatric squint specialist fazilka";
-$pageKeywords = "squint eye treatment fazilka, squint surgery fazilka, strabismus treatment fazilka, eye alignment correction fazilka, squint doctor fazilka, pediatric squint specialist fazilka";
+$pageTitle = "Squint Eye Treatment in Fazilka | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Fazilka at Brar Eye Hospital. Safe strabismus correction for children and adults from Fazilka and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Fazilka, squint surgery Fazilka, strabismus Fazilka, crossed eyes treatment Fazilka, eye specialist Fazilka";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-fazilka.php";
  include 'header.php';
 ?>

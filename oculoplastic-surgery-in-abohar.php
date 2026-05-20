@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic Surgery in Abohar – Reconstructive & Cosmetic Eye Care";
-$pageDescription = " Restore both function and appearance with oculoplastic surgery in Abohar. Treatments for eyelids, tear ducts, and orbital issues.";
-$pageKeywords = "oculoplasty Abohar, eyelid surgery Abohar, tear duct treatment, eye cosmetic surgery, eye tumor surgery";
+$pageTitle = "Oculoplastic Surgery in Abohar | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Abohar at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Abohar region in Punjab.";
+$pageKeywords = "oculoplastic surgery Abohar, eyelid surgery Abohar, ptosis treatment Abohar, orbital surgery Abohar, eye plastic surgery Abohar";
 include('header.php');
 ?>
 

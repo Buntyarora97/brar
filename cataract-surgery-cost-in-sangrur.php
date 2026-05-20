@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Cataract surgery cost in Sangrur | Safe, Precise & Advanced Surgery";
-$pageDescription = "Searching for Cataract surgery cost in Sangrur? Visit Brar Eye Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = "   phacoemulsification in sangrur, intraocular lens implant in sangrur, blurry vision treatment in sangrur, cloudy lens surgery in sangrur";
+$pageTitle = "Cataract Surgery Cost in Sangrur | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Sangrur. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Sangrur & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Sangrur, cataract operation cost Sangrur, cataract surgery Sangrur, eye surgery Sangrur, cataract surgeon near Sangrur";
 include('header.php');
 ?>
 

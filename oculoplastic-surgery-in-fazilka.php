@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic Surgery in Fazilka | Eyelid & Cosmetic Eye Solutions";
-$pageDescription = " Specialized oculoplastic surgery in Fazilka for eyelids, tear ducts, and eye cosmetic corrections.";
-$pageKeywords = "Oculoplastic surgeon Fazilka, Eyelid surgery Fazilka, Eye cosmetic surgery Fazilka, Eye specialist Fazilka, Eye hospital Fazilka";
+$pageTitle = "Oculoplastic Surgery in Fazilka | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Fazilka at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Fazilka region in Punjab.";
+$pageKeywords = "oculoplastic surgery Fazilka, eyelid surgery Fazilka, ptosis treatment Fazilka, orbital surgery Fazilka, eye plastic surgery Fazilka";
 include('header.php');
 ?>
 

@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-dabwali.php
 
-$pageTitle = "Best cornea specialist in Dabwali | Experience Clarity with Us";
-$pageDescription = "Your destination for Best cornea specialist in Dabwali – Brar Eye Hospital combines technology with trust to provide safe, accurate, and affordable treatments.";
-$pageKeywords = "corneal transplant in dabwali, keratoconus in dabwali, dry eye care in dabwali, corneal infections in dabwali";
+$pageTitle = "Best Cornea Specialist in Dabwali | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Dabwali at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Dabwali and across Punjab.";
+$pageKeywords = "cornea specialist Dabwali, corneal transplant Dabwali, keratoconus Dabwali, cornea doctor Dabwali, dry eye treatment Dabwali";
 
 include('header.php');
 ?>

@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "  Child eye specialist in Patiala | Leading LASIK & Vision Experts";
-$pageDescription = "    Get reliable & high-precision solutions for Child eye specialist in Patiala at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "ophthalmologist in patiala, retina doctor in patiala, vision expert in patiala, eye surgeon in patiala";
+$pageTitle = "Child Eye Specialist in Patiala | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Patiala at Brar Eye Hospital. Expert paediatric eye care for children from Patiala – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Patiala, paediatric eye doctor Patiala, children eye care Patiala, kids eye specialist Patiala, lazy eye treatment Patiala";
 include('header.php');
 ?>
     <!-- Favicon -->

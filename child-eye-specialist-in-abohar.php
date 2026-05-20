@@ -1,7 +1,7 @@
 <?php
-$pageTitle = " Child Eye Specialist in Abohar | Pediatric Eye Care & Vision Testing";
-$pageDescription = " Looking for a child eye specialist in Abohar? Get expert pediatric eye care, vision testing, and treatment for squint, lazy eye, and more. Book an appointment today.";
-$pageKeywords = "child eye specialist in Abohar, pediatric eye doctor Abohar, children eye care Abohar, kids eye checkup Abohar, squint treatment for children Abohar";
+$pageTitle = "Child Eye Specialist in Abohar | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Abohar at Brar Eye Hospital. Expert paediatric eye care for children from Abohar – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Abohar, paediatric eye doctor Abohar, children eye care Abohar, kids eye specialist Abohar, lazy eye treatment Abohar";
 include('header.php');
 ?>
     <!-- Favicon -->

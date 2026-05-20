@@ -1,7 +1,7 @@
 <?php
-$pageTitle = " Get Treated by Experts for Child eye specialist in Malout";
-$pageDescription = "Trust Brar Eye Hospital for Child eye specialist in Malout. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "ophthalmologist in malout, retina doctor in malout, vision expert in malout, eye surgeon in malout";
+$pageTitle = "Child Eye Specialist in Malout | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Malout at Brar Eye Hospital. Expert paediatric eye care for children from Malout – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Malout, paediatric eye doctor Malout, children eye care Malout, kids eye specialist Malout, lazy eye treatment Malout";
 include('header.php');
 ?>
     <!-- Favicon -->

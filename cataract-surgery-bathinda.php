@@ -1,3 +1,8 @@
+<?php
+$pageTitle = "Cataract Surgery in Bathinda | Best Cataract Surgeon – Brar Eye Hospital";
+$pageDescription = "Get advanced cataract surgery in Bathinda at Brar Eye Hospital. Phacoemulsification, Micro-incision cataract surgery (MICS) and premium IOL implants by expert surgeons. Affordable cost. NABH accredited.";
+$pageKeywords = "cataract surgery Bathinda, cataract operation Punjab, phacoemulsification Bathinda, cataract surgeon Bathinda, cataract surgery cost Punjab, best cataract hospital Bathinda, IOL implant Bathinda";
+?>
 
 
 <?php include 'header.php'; ?>
@@ -22,7 +27,7 @@
         <h2>Symptoms of Cataract</h2>
         
         <!--<div class="image-container">-->
-        <!--    <img src="assets/cataract_images/symptoms_infographic.webp" alt="Cataract Symptoms Infographic" class="image-medium">-->
+        <!--    <img loading="lazy" src="assets/cataract_images/symptoms_infographic.webp" alt="Cataract Symptoms Infographic" class="image-medium">-->
         <!--</div>-->
         
         <ul>
@@ -41,13 +46,13 @@
   <h2>Advanced Cataract Surgery at Brar Eye Hospital</h2>
   
   <div class="top-image-row">
-    <img src="assets/cataract_images/IMG_1438.webp" alt="Expert Cataract Surgeon" class="img-main-doc">
+    <img loading="lazy" src="assets/cataract_images/IMG_1438.webp" alt="Expert Cataract Surgeon" class="img-main-doc">
   </div>
   
   <div class="phaco-flex-wrap">
     <div class="phaco-img-col">
-      <img src="assets/cataract_images/imgi_13_cataract3.webp" alt="Phacoemulsification Microincision" class="fixed-img" />
-      <img src="assets/cataract_images/imgi_7_cataract3-178x300.webp" alt="Conventional vs Phacoemulsification" class="fixed-img-small" />
+      <img loading="lazy" src="assets/cataract_images/imgi_13_cataract3.webp" alt="Phacoemulsification Microincision" class="fixed-img" />
+      <img loading="lazy" src="assets/cataract_images/imgi_7_cataract3-178x300.webp" alt="Conventional vs Phacoemulsification" class="fixed-img-small" />
     </div>
     <div class="phaco-content-col">
       <h3>Phacoemulsification with Microincision</h3>
@@ -163,7 +168,7 @@
     <!--    <h2>Cataract Surgery Procedure</h2>-->
         
     <!--    <div class="image-container">-->
-    <!--        <img src="assets/cataract_images/imgi_33_cataract4-768x155.webp" alt="Cataract Surgery Steps">-->
+    <!--        <img loading="lazy" src="assets/cataract_images/imgi_33_cataract4-768x155.webp" alt="Cataract Surgery Steps">-->
     <!--    </div>-->
         
     <!--    <div class="two-column">-->
@@ -189,7 +194,7 @@
     <!--    </div>-->
         
     <!--    <div class="image-container">-->
-    <!--        <img src="assets/cataract_images/imgi_8_cataract4.webp" alt="Surgery Procedure Steps">-->
+    <!--        <img loading="lazy" src="assets/cataract_images/imgi_8_cataract4.webp" alt="Surgery Procedure Steps">-->
     <!--    </div>-->
     <!--</div>-->
     
@@ -198,7 +203,7 @@
         <p>We offer a comprehensive range of premium intraocular lenses to suit your lifestyle and visual needs:</p>
         
         <div class="image-container">
-            <img src="assets/cataract_images/imgi_31_cataract2.webp" alt="Different IOL Options">
+            <img loading="lazy" src="assets/cataract_images/imgi_31_cataract2.webp" alt="Different IOL Options">
         </div>
         
         <div class="iol-types">
@@ -228,12 +233,12 @@
         <h2>State-of-the-Art Equipment</h2>
         
         <!--<div class="image-container">-->
-        <!--    <img src="assets/cataract_images/technology_room.webp" alt="Advanced Medical Technology" class="image-medium">-->
+        <!--    <img loading="lazy" src="assets/cataract_images/technology_room.webp" alt="Advanced Medical Technology" class="image-medium">-->
         <!--</div>-->
         
         <div class="two-column-layout">
             <div>
-                <img src="assets/cataract_images/2 copy (1).webp" alt="Signature Pro Equipment" class="image-small">
+                <img loading="lazy" src="assets/cataract_images/2 copy (1).webp" alt="Signature Pro Equipment" class="image-small">
             </div>
             <div class="equipment-list">
                 <h3>Our Advanced Technology:</h3>

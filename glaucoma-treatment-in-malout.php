@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Glaucoma treatment in Malout | Leading LASIK & Vision Experts";
-$pageDescription = "Get reliable & high-precision solutions for Glaucoma treatment in Malout at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "eye pressure management in malout, optic nerve protection in malout, trabeculectomy in malout, visual field preservation in malout";
+$pageTitle = "Glaucoma Treatment in Malout | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Malout at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Malout and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Malout, eye pressure Malout, glaucoma specialist near Malout, glaucoma surgery Malout, eye doctor Malout";
 include('header.php');
 ?>
 

@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-bathinda.php
 
-$pageTitle = "Best Eye Hospital in Bathinda I Brar Eye Hospital";
-$pageDescription = "Learn about Brar Eye Hospital’s mission and team. Biggest Eye Care Hospital in Bathinda ";
-$pageKeywords = "eye specialists, eye surgeons, lasik surgery cost, doctors team, hospital front view, eye care team, hospital history";
+$pageTitle = "About Brar Eye Hospital Bathinda | 21 Years of Trusted Eye Care in Punjab";
+$pageDescription = "Brar Eye Hospital Bathinda - NABH Accredited eye superspeciality hospital with 21+ years of legacy. Led by Dr. P.S. Brar, serving 1 lakh+ patients annually with world-class technology in Punjab.";
+$pageKeywords = "about Brar Eye Hospital, best eye hospital Bathinda, NABH accredited eye hospital Punjab, Dr PS Brar eye surgeon, top eye care centre Bathinda, eye hospital Kotkapura, multispeciality eye hospital Punjab";
 
 include('header.php');
 ?>
@@ -500,7 +500,7 @@ include('header.php');
   <!-- Branch: Kotkapura (image left, content right) -->
   <section class="branch-section" aria-label="Kotkapura branch">
     <div class="branch-image" aria-hidden="true">
-      <img src="assets/images/Kotkapura.webp" alt="Brar Eye Hospital Kotkapura Branch">
+      <img loading="lazy" src="assets/images/Kotkapura.webp" alt="Brar Eye Hospital Kotkapura Branch">
     </div>
 
     <div class="branch-content">
@@ -544,7 +544,7 @@ include('header.php');
     </div>
 
     <div class="branch-image" aria-hidden="true">
-      <img src="assets/images/b2.webp" alt="Brar Eye Hospital Bathinda Branch">
+      <img loading="lazy" src="assets/images/b2.webp" alt="Brar Eye Hospital Bathinda Branch">
     </div>
   </section>
 
@@ -884,7 +884,7 @@ include('header.php');
    <section class="section-123">
     <div class="container-123">
       <div class="image-box-123 text-center mb-4 mb-lg-0">
-        <img src="assets/images/team/ps brar.webp" alt="doctors team" class="img-fluid rounded shadow" />
+        <img loading="lazy" src="assets/images/team/ps brar.webp" alt="doctors team" class="img-fluid rounded shadow" />
         <h4>Dr P.S Brar</h4>
         <p>Medical Director cum Chief Eye Surgeon</p>
       </div>

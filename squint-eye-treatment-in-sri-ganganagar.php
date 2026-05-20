@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = " Squint eye treatment in Sri Ganganagar | Eye Health Excellence Since 2001";
-$pageDescription = "Squint eye treatment in Sri Ganganagar now made accessible with Brar Eye Hospital's 21+ years of experience, trusted by 1.3L+ patients and backed by cutting-edge laser & diagnostic technology.";
-$pageKeywords = "strabismus surgery in sri ganganagar, squint correction in sri ganganagar, eye alignment treatment in sri ganganagar, lazy eye fix in sri ganganagar";
+$pageTitle = "Squint Eye Treatment in Sri Ganganagar | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Sri Ganganagar at Brar Eye Hospital. Safe strabismus correction for children and adults from Sri Ganganagar and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Sri Ganganagar, squint surgery Sri Ganganagar, strabismus Sri Ganganagar, crossed eyes treatment Sri Ganganagar, eye specialist Sri Ganganagar";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-Sri Ganganagar.php";
  include 'header.php';
 ?>

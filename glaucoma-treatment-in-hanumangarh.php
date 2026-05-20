@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Glaucoma treatment in Hanumangarh | Experience Clarity with Us";
-$pageDescription = "Glaucoma treatment in Hanumangarh with personalized care, US FDA-approved tech, & Punjab's most experienced team of ophthalmologists at Brar Eye Hospital.";
-$pageKeywords = "eye pressure management in hanumangarh, optic nerve protection in hanumangarh, trabeculectomy in hanumangarh, visual field preservation in hanumangarh";
+$pageTitle = "Glaucoma Treatment in Hanumangarh | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Hanumangarh at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Hanumangarh and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Hanumangarh, eye pressure Hanumangarh, glaucoma specialist near Hanumangarh, glaucoma surgery Hanumangarh, eye doctor Hanumangarh";
 include('header.php');
 ?>
 

@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Cataract Surgery in Sirsa | Eye Health Excellence Since 2001";
-$pageDescription = "Your destination for Cataract Surgery in Sirsa – Brar Eye Hospital combines technology with trust to provide safe, accurate, and affordable treatments.";
-$pageKeywords = "phacoemulsification in sirsa, intraocular lens implant in sirsa, blurry vision treatment in sirsa, cloudy lens surgery in sirsa";
+$pageTitle = "Cataract Surgery in Sirsa | Best Cataract Surgeon Near Sirsa – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Sirsa at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Sirsa in Punjab.";
+$pageKeywords = "cataract surgery Sirsa, cataract surgeon Sirsa, cataract operation Sirsa, eye surgeon near Sirsa, cataract hospital Sirsa";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-sirsa.php";
  include 'header.php';
 ?>

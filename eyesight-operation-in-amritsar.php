@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Amritsar | Restore Clear Vision with Expert Ophthalmologists & Modern Care";
-$pageDescription = "Restore your vision with safe eyesight operations in Amritsar. Expert ophthalmologists for cataract, LASIK, and other surgeries.";
-$pageKeywords = "eyesight operation Amritsar, LASIK operation Amritsar, refractive surgery Amritsar, vision restoration Amritsar, clear vision surgery Amritsar, advanced eye operation Amritsar";
+$pageTitle = "Eyesight Operation in Amritsar | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Amritsar – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Amritsar region across Punjab.";
+$pageKeywords = "eyesight operation Amritsar, LASIK surgery Amritsar, vision correction Amritsar, remove glasses Amritsar, eye surgery Amritsar";
 include('header.php');
 ?>
 

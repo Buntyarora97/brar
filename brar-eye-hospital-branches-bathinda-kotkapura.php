@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Brar Eye Hospital Branch Locations ";
-$pageDescription = "Locate all Brar Eye Hospital branches across the city with contact details.";
-$pageKeywords = "hospital branches, eye clinic locations, lasik surgery cost";
+$pageTitle = "Brar Eye Hospital Branches | Bathinda & Kotkapura Locations, Timings & Contact";
+$pageDescription = "Brar Eye Hospital has two branches in Punjab - Bathinda (Mon-Sat 8AM-5PM) and Kotkapura (Mon-Sat 8AM-4PM). Get directions, timings and contact details for both eye hospitals.";
+$pageKeywords = "Brar Eye Hospital Bathinda branch, Brar Eye Hospital Kotkapura, eye hospital locations Punjab, eye hospital address Bathinda, eye doctor near me Punjab";
 include('header.php');
 ?>
 <!-- Branches Page (Kotkapura - left, Bathinda - right) -->

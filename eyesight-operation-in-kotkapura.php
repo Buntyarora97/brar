@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Kotkapura – Trusted Eye Care with Modern Technology";
-$pageDescription = "Searching for Eyesight operation in Kotkapura? Visit Brar Eye Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = "vision improvement surgery in kotkapura, specs removal operation in kotkapura, corrective eye surgery in kotkapura, surgical eye care in kotkapura";
+$pageTitle = "Eyesight Operation in Kotkapura | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Kotkapura – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Kotkapura region across Punjab.";
+$pageKeywords = "eyesight operation Kotkapura, LASIK surgery Kotkapura, vision correction Kotkapura, remove glasses Kotkapura, eye surgery Kotkapura";
 include('header.php');
 ?>
 

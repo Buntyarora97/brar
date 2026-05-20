@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-mansa.php
 
-$pageTitle = "Get Treated by Experts for Best cornea specialist in Mansa";
-$pageDescription = "Need Best cornea specialist in Mansa? Brar Eye Hospital ensures ethical practices, fast recovery & transparent pricing with expert eye surgeons on board.";
-$pageKeywords = "corneal transplant in mansa, keratoconus in mansa, dry eye care in mansa, corneal infections in mansa";
+$pageTitle = "Best Cornea Specialist in Mansa | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Mansa at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Mansa and across Punjab.";
+$pageKeywords = "cornea specialist Mansa, corneal transplant Mansa, keratoconus Mansa, cornea doctor Mansa, dry eye treatment Mansa";
 
 include('header.php');
 ?>

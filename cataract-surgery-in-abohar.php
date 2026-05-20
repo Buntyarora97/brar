@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Advanced Cataract Surgery in Abohar – Restore Clear Vision";
-$pageDescription = "Safe and effective cataract surgery in Abohar. Get clear vision again with bladeless technology and expert surgical care.";
-$pageKeywords = "cataract surgery Abohar, motiyabind treatment, eye operation Abohar, lens replacement Abohar, eye surgeon";
+$pageTitle = "Cataract Surgery in Abohar | Best Cataract Surgeon Near Abohar – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Abohar at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Abohar in Punjab.";
+$pageKeywords = "cataract surgery Abohar, cataract surgeon Abohar, cataract operation Abohar, eye surgeon near Abohar, cataract hospital Abohar";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-abohar.php";
  include 'header.php';
 ?>

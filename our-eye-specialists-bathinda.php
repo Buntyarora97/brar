@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Our Expert Team - Brar Eye Hospital";
-$pageDescription = "Meet the expert doctors, surgeons, and staff dedicated to your eye care.";
-$pageKeywords = "eye specialists, eye doctors, lasik surgery cost, eyesight operation, glaucoma treatment";
+$pageTitle = "Our Eye Specialists & Doctors | Brar Eye Hospital Bathinda – Expert Ophthalmologists";
+$pageDescription = "Meet our expert team of ophthalmologists at Brar Eye Hospital. Dr. P.S. Brar, Dr. M.S. Brar, Dr. Anand Singh Brar and more specialists in cataract, retina, LASIK, glaucoma and paediatric eye care.";
+$pageKeywords = "eye specialists Bathinda, eye doctors Brar Hospital, ophthalmologist Bathinda, Dr PS Brar, cataract surgeon Bathinda, retina specialist Bathinda, best eye doctor Punjab";
 include('header.php');
 ?>
 
@@ -425,7 +425,7 @@ include('header.php');
   <section class="profile-section5">
     <div class="profile-img-container5">
       <!-- Update the image source to your specific dr ms brar image -->
-      <img src="assets/images/team/1234.webp" alt="Dr. M.S. Brar" />
+      <img loading="lazy" src="assets/images/team/1234.webp" alt="Dr. M.S. Brar" />
     </div>
     <div class="profile-content5">
       <h1>Dr. M.S. Brar</h1>
@@ -454,7 +454,7 @@ include('header.php');
       </p>
     </div>
     <div class="profile-img-container">
-      <img src="assets/images/team/55.webp" alt="Dr. Anand Singh Brar" />
+      <img loading="lazy" src="assets/images/team/55.webp" alt="Dr. Anand Singh Brar" />
     </div>
   </section>
   
@@ -475,7 +475,7 @@ include('header.php');
       </p>
     </div>
      <div class="profile-img-container">
-      <img src="assets/images/team/team-51.webp" alt="Dr. Aazambir Singh Brar" />
+      <img loading="lazy" src="assets/images/team/team-51.webp" alt="Dr. Aazambir Singh Brar" />
     </div>
   </section>
   
@@ -635,7 +635,7 @@ include('header.php');
   <section class="profile-section7">
    <div class="profile-img-container7">
       <!-- Update this image source as needed -->
-      <img src="assets/images/team/53.webp" alt="Dr. B. Ravinder Naik" />
+      <img loading="lazy" src="assets/images/team/53.webp" alt="Dr. B. Ravinder Naik" />
     </div>
     <div class="profile-content7">
       <h1>Dr. B. Ravinder Naik</h1>
@@ -652,7 +652,7 @@ include('header.php');
   <!--7-->
   <section class="profile-section4">
        <div class="profile-img-container4">
-      <img src="assets/images/team/imgi_5_dr-raman.webp" alt="Dr. Raman Mittal" />
+      <img loading="lazy" src="assets/images/team/imgi_5_dr-raman.webp" alt="Dr. Raman Mittal" />
     </div>
     <div class="profile-content4">
       <h1>Dr. Raman Mittal</h1>
@@ -674,7 +674,7 @@ include('header.php');
 
   <!--<section class="profile-section content-left">-->
   <!--  <div class="profile-img-container">-->
-  <!--    <img src="assets/images/team/kushdeep.webp" />-->
+  <!--    <img loading="lazy" src="assets/images/team/kushdeep.webp" />-->
   <!--  </div>-->
   <!--  <div class="profile-content">-->
   <!--    <h1>Dr. Kushdeep Kaur  </h1>-->
@@ -701,7 +701,7 @@ include('header.php');
       </p>
     </div>
     <div class="profile-img-container">
-      <img src="assets/images/team/kushdeep.webp" />
+      <img loading="lazy" src="assets/images/team/kushdeep.webp" />
     </div>
   </section>
 
@@ -876,7 +876,7 @@ include('header.php');
   <!-- 10. Dr. M.L. Kapoor (Image Left, Content Right) -->
   <section class="profile-section">
     <div class="profile-img-container">
-      <img src="assets/images/team/sample-2.webp" alt="Dr. M.L. Kapoor" />
+      <img loading="lazy" src="assets/images/team/sample-2.webp" alt="Dr. M.L. Kapoor" />
     </div>
     <div class="profile-content">
       <h1>Dr. M.L. Kapoor</h1>
@@ -895,7 +895,7 @@ include('header.php');
   <!-- 11. Dr. T.K. Goyal (Image Left, Content Right) -->
   <section class="profile-section">
     <div class="profile-img-container">
-      <img src="image-tk-goyal.webp" alt="Dr. T.K. Goyal" />
+      <img loading="lazy" src="image-tk-goyal.webp" alt="Dr. T.K. Goyal" />
     </div>
     <div class="profile-content">
       <h1>Dr. T.K. Goyal</h1>

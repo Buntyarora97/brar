@@ -1,9 +1,9 @@
 <?php
 
 
-$pageTitle = "Best eye doctor in Bathinda | Safe, Precise & Advanced Surgery";
-$pageDescription = "TNeed Best eye doctor in Bathinda? Brar Eye Hospital ensures ethical practices, fast recovery & transparent pricing with expert eye surgeons on board.";
-$pageKeywords = "ophthalmologist near me in bathinda, top eye MD in bathinda, eye care specialist in bathinda, eye clinic in bathinda";
+$pageTitle = "Best Eye Doctor in Bathinda | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Bathinda? Visit Brar Eye Hospital – trusted by patients from Bathinda and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Bathinda, eye specialist Bathinda, ophthalmologist Bathinda, eye hospital near Bathinda, eye checkup Bathinda";
 
 include('header.php');
 ?>

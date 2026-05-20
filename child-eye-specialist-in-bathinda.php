@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Child eye specialist in Bathinda | Safe, Precise & Advanced Surgery";
-$pageDescription = "BRAR EYE Hospital offers the best care for Child eye specialist in Bathinda using world-class machines, advanced surgical techniques & experienced eye specialists.";
-$pageKeywords = "ophthalmologist in bathinda, retina doctor in bathinda, vision expert in bathinda, eye surgeon in bathinda";
+$pageTitle = "Child Eye Specialist in Bathinda | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Bathinda at Brar Eye Hospital. Expert paediatric eye care for children from Bathinda – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Bathinda, paediatric eye doctor Bathinda, children eye care Bathinda, kids eye specialist Bathinda, lazy eye treatment Bathinda";
 include('header.php');
 ?>
     <!-- Favicon -->

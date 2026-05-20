@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Cataract Surgery in Barnala | Experience Clarity with Us";
-$pageDescription = "Your destination for Cataract Surgery in Barnala – Brar Eye Hospital combines technology with trust to provide safe, accurate, and affordable treatments.";
-$pageKeywords = "phacoemulsification in barnala, intraocular lens implant in barnala, blurry vision treatment in barnala, cloudy lens surgery in barnala";
+$pageTitle = "Cataract Surgery in Barnala | Best Cataract Surgeon Near Barnala – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Barnala at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Barnala in Punjab.";
+$pageKeywords = "cataract surgery Barnala, cataract surgeon Barnala, cataract operation Barnala, eye surgeon near Barnala, cataract hospital Barnala";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-barnala.php";
  include 'header.php';
 ?>

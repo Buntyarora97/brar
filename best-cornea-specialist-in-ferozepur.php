@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-ferozepur.php
 
-$pageTitle = "Best cornea specialist in Ferozepur | Trusted Cornea Expert for Keratoconus, Infections & Eye Health";
-$pageDescription = "Consult top cornea specialists in Ferozepur for corneal diseases, infections, and keratoconus. Expert diagnosis and treatment available.";
-$pageKeywords = "cornea doctor Ferozepur, cornea treatment Ferozepur, keratoconus specialist Ferozepur, corneal infection doctor Ferozepur, cornea transplant Ferozepur ";
+$pageTitle = "Best Cornea Specialist in Ferozepur | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Ferozepur at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Ferozepur and across Punjab.";
+$pageKeywords = "cornea specialist Ferozepur, corneal transplant Ferozepur, keratoconus Ferozepur, cornea doctor Ferozepur, dry eye treatment Ferozepur";
 
 include('header.php');
 ?>

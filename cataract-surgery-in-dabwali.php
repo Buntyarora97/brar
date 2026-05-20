@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Cataract Surgery in Dabwali | Experience Clarity with Us";
-$pageDescription = "Brar Eye Hospital offers the best care for Cataract Surgery in Dabwali using world-class machines, advanced surgical techniques & experienced eye specialists.";
-$pageKeywords = "phacoemulsification in dabwali, intraocular lens implant in dabwali, blurry vision treatment in dabwali, cloudy lens surgery in dabwali";
+$pageTitle = "Cataract Surgery in Dabwali | Best Cataract Surgeon Near Dabwali – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Dabwali at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Dabwali in Punjab.";
+$pageKeywords = "cataract surgery Dabwali, cataract surgeon Dabwali, cataract operation Dabwali, eye surgeon near Dabwali, cataract hospital Dabwali";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-dabwali.php";
  include 'header.php';
 ?>

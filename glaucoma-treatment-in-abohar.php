@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Expert Glaucoma Treatment in Abohar – Save Your Sight";
-$pageDescription = "Protect your vision from glaucoma in Abohar. Get early diagnosis and expert treatment with advanced eye pressure control techniques.";
-$pageKeywords = "glaucoma treatment Abohar, eye pressure, vision loss Abohar, eye specialist, optic nerve damage";
+$pageTitle = "Glaucoma Treatment in Abohar | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Abohar at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Abohar and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Abohar, eye pressure Abohar, glaucoma specialist near Abohar, glaucoma surgery Abohar, eye doctor Abohar";
 include('header.php');
 ?>
 

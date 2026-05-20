@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-bathinda.php
 
-$pageTitle = "Best cornea specialist in Punjab | Safe, Precise & Advanced Surgery";
-$pageDescription = "Best cornea specialist in Punjab now made accessible with BRAR EYE Hospital's 21+ years of experience, trusted by 1.3L+ patients and backed by cutting-edge laser & diagnostic technology. ";
-$pageKeywords = "corneal transplant in punjab, keratoconus in punjab, dry eye care in punjab, corneal infections in punjab";
+$pageTitle = "Best Cornea Specialist in Punjab | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Punjab at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Punjab and across Punjab.";
+$pageKeywords = "cornea specialist Punjab, corneal transplant Punjab, keratoconus Punjab, cornea doctor Punjab, dry eye treatment Punjab";
 
 include('header.php');
 ?>

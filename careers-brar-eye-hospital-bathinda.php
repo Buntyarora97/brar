@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Careers at Brar Eye  Hospital";
-$pageDescription = "Join the Brar Eye  Hospital team. Explore job openings and career opportunities in eye care.";
-$pageKeywords = "eye hospital jobs, healthcare careers, lasik surgery cost";
+$pageTitle = "Careers at Brar Eye Hospital Bathinda | Job Openings in Eye Care Punjab";
+$pageDescription = "Join the team at Brar Eye Hospital Bathinda. Explore job openings for ophthalmologists, nurses, technicians and staff at one of Punjab's leading eye hospitals.";
+$pageKeywords = "eye hospital jobs Bathinda, ophthalmology careers Punjab, healthcare jobs Bathinda, eye care job openings, Brar Eye Hospital recruitment";
 include('header.php');
 
 // Load active positions from backend

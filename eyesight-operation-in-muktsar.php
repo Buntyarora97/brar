@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Muktsar | Experience Clarity with Us";
-$pageDescription = "Get reliable & high-precision solutions for Eyesight operation in Muktsar at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "vision improvement surgery in muktsar, specs removal operation in muktsar, corrective eye surgery in muktsar, surgical eye care in muktsar";
+$pageTitle = "Eyesight Operation in Muktsar | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Muktsar – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Muktsar region across Punjab.";
+$pageKeywords = "eyesight operation Muktsar, LASIK surgery Muktsar, vision correction Muktsar, remove glasses Muktsar, eye surgery Muktsar";
 include('header.php');
 ?>
 

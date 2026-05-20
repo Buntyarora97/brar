@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-abohar.php
 
-$pageTitle = "Best Cornea Specialist in Abohar | Corneal Infection & Transplant";
-$pageDescription = "Looking for the best cornea specialist in Abohar? Get advanced care for corneal infections, ulcers, keratoconus & transplants from experts.";
-$pageKeywords = "best cornea specialist in Abohar, corneal treatment Abohar, keratoconus specialist Abohar, cornea transplant Abohar";
+$pageTitle = "Best Cornea Specialist in Abohar | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Abohar at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Abohar and across Punjab.";
+$pageKeywords = "cornea specialist Abohar, corneal transplant Abohar, keratoconus Abohar, cornea doctor Abohar, dry eye treatment Abohar";
 
 include('header.php');
 ?>

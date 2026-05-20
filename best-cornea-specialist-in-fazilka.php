@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-fazilka.php
 
-$pageTitle = "Expert Cornea Specialist in Fazilka at Brar Eye Hospital";
-$pageDescription = "Looking for the best cornea specialist in Fazilka? Brar Eye Hospital provides expert care for corneal infections, injuries, and transplants with advanced technology and trusted specialists.";
-$pageKeywords = "Best cornea specialist in Fazilka, cornea treatment Fazilka, eye doctor for cornea, corneal transplant Fazilka, top eye hospital Fazilka, cornea surgeon";
+$pageTitle = "Best Cornea Specialist in Fazilka | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Fazilka at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Fazilka and across Punjab.";
+$pageKeywords = "cornea specialist Fazilka, corneal transplant Fazilka, keratoconus Fazilka, cornea doctor Fazilka, dry eye treatment Fazilka";
 
 include('header.php');
 ?>

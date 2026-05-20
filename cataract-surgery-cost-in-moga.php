@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Cataract surgery cost in Moga | Safe, Precise & Advanced Surgery";
-$pageDescription = "Need Cataract surgery cost in Moga? Brar Eye Hospital ensures ethical practices, fast recovery & transparent pricing with expert eye surgeons on board.";
-$pageKeywords = "phacoemulsification in moga, intraocular lens implant in moga, blurry vision treatment in moga, cloudy lens surgery in moga";
+$pageTitle = "Cataract Surgery Cost in Moga | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Moga. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Moga & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Moga, cataract operation cost Moga, cataract surgery Moga, eye surgery Moga, cataract surgeon near Moga";
 include('header.php');
 ?>
 

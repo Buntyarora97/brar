@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Get Treated by Experts for Oculoplastic surgery in Muktsar";
-$pageDescription = "Get reliable & high-precision solutions for Oculoplastic surgery in Muktsar at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "eyelid surgery in muktsar, tear duct surgery in muktsar, ptosis correction in muktsar, eye reconstruction in muktsar";
+$pageTitle = "Oculoplastic Surgery in Muktsar | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Muktsar at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Muktsar region in Punjab.";
+$pageKeywords = "oculoplastic surgery Muktsar, eyelid surgery Muktsar, ptosis treatment Muktsar, orbital surgery Muktsar, eye plastic surgery Muktsar";
 include('header.php');
 ?>
 

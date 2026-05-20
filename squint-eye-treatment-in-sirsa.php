@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Get Treated by Experts for Squint eye treatment in Sirsa";
-$pageDescription = "Squint eye treatment in Sirsa with personalized care, US FDA-approved tech, & Punjab's most experienced team of ophthalmologists at Brar Eye Hospital.";
-$pageKeywords = "strabismus surgery in sirsa, squint correction in sirsa, eye alignment treatment in sirsa, lazy eye fix in sirsa";
+$pageTitle = "Squint Eye Treatment in Sirsa | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Sirsa at Brar Eye Hospital. Safe strabismus correction for children and adults from Sirsa and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Sirsa, squint surgery Sirsa, strabismus Sirsa, crossed eyes treatment Sirsa, eye specialist Sirsa";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-sirsa.php";
  include 'header.php';
 ?>

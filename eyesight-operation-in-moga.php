@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Moga | Experience Clarity with Us";
-$pageDescription = "Get reliable & high-precision solutions for Eyesight operation in Moga at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "vision improvement surgery in moga, specs removal operation in moga, corrective eye surgery in moga, surgical eye care in moga";
+$pageTitle = "Eyesight Operation in Moga | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Moga – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Moga region across Punjab.";
+$pageKeywords = "eyesight operation Moga, LASIK surgery Moga, vision correction Moga, remove glasses Moga, eye surgery Moga";
 include('header.php');
 ?>
 

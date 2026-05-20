@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight Operation in Abohar – Sharp Vision Starts Here";
-$pageDescription = "Trusted eyesight correction surgery in Abohar. Improve your vision with advanced procedures by experienced eye surgeons.";
-$pageKeywords = "eyesight operation Abohar, vision correction surgery, eye operation, laser eye treatment, best eye care    ";
+$pageTitle = "Eyesight Operation in Abohar | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Abohar – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Abohar region across Punjab.";
+$pageKeywords = "eyesight operation Abohar, LASIK surgery Abohar, vision correction Abohar, remove glasses Abohar, eye surgery Abohar";
 include('header.php');
 ?>
 

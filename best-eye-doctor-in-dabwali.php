@@ -1,9 +1,9 @@
 <?php
 
 
-$pageTitle = "Best eye doctor in Dabwali – Trusted Eye Care with Modern Technology";
-$pageDescription = "Best eye doctor in Dabwali now made accessible with Brar Eye Hospital's 21+ years of experience, trusted by 1.3L+ patients and backed by cutting-edge laser & diagnostic technology.";
-$pageKeywords = "ophthalmologist near me in dabwali, top eye MD in dabwali, eye care specialist in dabwali, eye clinic in dabwali";
+$pageTitle = "Best Eye Doctor in Dabwali | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Dabwali? Visit Brar Eye Hospital – trusted by patients from Dabwali and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Dabwali, eye specialist Dabwali, ophthalmologist Dabwali, eye hospital near Dabwali, eye checkup Dabwali";
 
 include('header.php');
 ?>

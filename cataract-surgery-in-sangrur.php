@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Cataract Surgery in Sangrur – Brar Eye Hospital’s Expertise";
-$pageDescription = "Get reliable & high-precision solutions for Cataract Surgery in Sangrur at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "phacoemulsification in sangrur, intraocular lens implant in sangrur, blurry vision treatment in sangrur, cloudy lens surgery in sangrur";
+$pageTitle = "Cataract Surgery in Sangrur | Best Cataract Surgeon Near Sangrur – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Sangrur at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Sangrur in Punjab.";
+$pageKeywords = "cataract surgery Sangrur, cataract surgeon Sangrur, cataract operation Sangrur, eye surgeon near Sangrur, cataract hospital Sangrur";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-sangrur.php";
  include 'header.php';
 ?>

@@ -1,9 +1,9 @@
     <?php
 
 
-$pageTitle = "Best eye doctor in Barnala – Brar Eye Hospital’s Expertise";
-$pageDescription = "Searching for Best eye doctor in Barnala? Visit Brar Eye Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = "ophthalmologist near me in barnala, top eye MD in barnala, eye care specialist in barnala, eye clinic in barnala";
+$pageTitle = "Best Eye Doctor in Barnala | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Barnala? Visit Brar Eye Hospital – trusted by patients from Barnala and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Barnala, eye specialist Barnala, ophthalmologist Barnala, eye hospital near Barnala, eye checkup Barnala";
 
 include('header.php');
 ?>

@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = " Cataract surgery cost in Dabwali | Experience Clarity with Us";
-$pageDescription = "Trust Brar Eye Hospital for Cataract surgery cost in Dabwali. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "  phacoemulsification in dabwali, intraocular lens implant in dabwali, blurry vision treatment in dabwali, cloudy lens surgery in dabwali";
+$pageTitle = "Cataract Surgery Cost in Dabwali | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Dabwali. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Dabwali & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Dabwali, cataract operation cost Dabwali, cataract surgery Dabwali, eye surgery Dabwali, cataract surgeon near Dabwali";
 include('header.php');
 ?>
 

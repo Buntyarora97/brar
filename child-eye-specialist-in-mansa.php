@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Child eye specialist in Mansa | Experience Clarity with Us";
-$pageDescription = "Trust Brar Eye Hospital for Child eye specialist in Mansa. From diagnostics to advancedasurgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "ophthalmologist in mansa, retina doctor in mansa, vision expert in mansa, eye surgeon in mansa";
+$pageTitle = "Child Eye Specialist in Mansa | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Mansa at Brar Eye Hospital. Expert paediatric eye care for children from Mansa – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Mansa, paediatric eye doctor Mansa, children eye care Mansa, kids eye specialist Mansa, lazy eye treatment Mansa";
 include('header.php');
 ?>
     <!-- Favicon -->

@@ -1,9 +1,9 @@
     <?php
 
 
-$pageTitle = "Best eye doctor in Sangrur | Safe, Precise & Advanced Surgery";
-$pageDescription = "Your destination for Best eye doctor in Sangrur – Brar Eye Hospital combines technology with trust to provide safe, accurate, and affordable treatments.";
-$pageKeywords = "ophthalmologist near me in sangrur, top eye MD in sangrur, eye care specialist in sangrur, eye clinic in sangrur";
+$pageTitle = "Best Eye Doctor in Sangrur | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Sangrur? Visit Brar Eye Hospital – trusted by patients from Sangrur and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Sangrur, eye specialist Sangrur, ophthalmologist Sangrur, eye hospital near Sangrur, eye checkup Sangrur";
 
 include('header.php');
 ?>

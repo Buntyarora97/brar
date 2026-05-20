@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Child eye specialist in Hanumangarh – Trusted Eye Care with Modern Technology";
-$pageDescription = "Need Child eye specialist in Hanumangarh? Brar Eye Hospital ensures ethical practices, fast recovery & transparent pricing with expert eye surgeons on board.";
-$pageKeywords = "ophthalmologist in hanumangarh, retina doctor in hanumangarh, vision expert in hanumangarh, eye surgeon in hanumangarh";
+$pageTitle = "Child Eye Specialist in Hanumangarh | Paediatric Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Best child eye specialist in Hanumangarh at Brar Eye Hospital. Expert paediatric eye care for children from Hanumangarh – squint, lazy eye, myopia management and paediatric cataract.";
+$pageKeywords = "child eye specialist Hanumangarh, paediatric eye doctor Hanumangarh, children eye care Hanumangarh, kids eye specialist Hanumangarh, lazy eye treatment Hanumangarh";
 include('header.php');
 ?>
     <!-- Favicon -->

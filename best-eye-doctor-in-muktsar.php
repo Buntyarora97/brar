@@ -1,9 +1,9 @@
     <?php
 
 
-$pageTitle = "Best eye doctor in Muktsar | Experience Clarity with Us";
-$pageDescription = "Get reliable & high-precision solutions for Best eye doctor in Muktsar at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "ophthalmologist near me in muktsar, top eye MD in muktsar, eye care specialist in muktsar, eye clinic in muktsar";
+$pageTitle = "Best Eye Doctor in Muktsar | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Muktsar? Visit Brar Eye Hospital – trusted by patients from Muktsar and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Muktsar, eye specialist Muktsar, ophthalmologist Muktsar, eye hospital near Muktsar, eye checkup Muktsar";
 
 include('header.php');
 ?>

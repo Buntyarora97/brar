@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Cataract surgery cost in Ferozepur | Affordable & Advanced Cataract Surgery Packages with Experts";
-$pageDescription = "Looking for affordable cataract surgery cost in Ferozepur? Get safe, advanced, and budget-friendly treatment with expert surgeons.";
-$pageKeywords = "cataract surgery cost Ferozepur, low-cost cataract surgery Ferozepur, phaco charges Ferozepur, cataract package Ferozepur, affordable cataract operation Ferozepur";
+$pageTitle = "Cataract Surgery Cost in Ferozepur | Affordable Cataract Surgery – Brar Eye Hospital";
+$pageDescription = "Know the cataract surgery cost in Ferozepur. Get affordable phacoemulsification and premium IOL implants at Brar Eye Hospital. NABH accredited. Serving Ferozepur & nearby areas in Punjab.";
+$pageKeywords = "cataract surgery cost Ferozepur, cataract operation cost Ferozepur, cataract surgery Ferozepur, eye surgery Ferozepur, cataract surgeon near Ferozepur";
 include('header.php');
 ?>
 

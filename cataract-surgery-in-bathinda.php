@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Cataract Surgery in Bathinda – Trusted Eye Care with Modern Technology";
-$pageDescription = "Get reliable & high-precision solutions for Cataract Surgery in Bathinda at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "phacoemulsification in bathinda, intraocular lens implant in bathinda, blurry vision treatment in bathinda, cloudy lens surgery in bathinda";
+$pageTitle = "Cataract Surgery in Bathinda | Best Cataract Surgeon Near Bathinda – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Bathinda at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Bathinda in Punjab.";
+$pageKeywords = "cataract surgery Bathinda, cataract surgeon Bathinda, cataract operation Bathinda, eye surgeon near Bathinda, cataract hospital Bathinda";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-bathinda.php";
  include 'header.php';
 ?>

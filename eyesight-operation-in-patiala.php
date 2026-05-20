@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Patiala – Trusted Eye Care with Modern Technology";
-$pageDescription = "Get reliable & high-precision solutions for Eyesight operation in Patiala at Brar Eye Hospital. India's leading name in robotic eye surgeries and patient satisfaction.";
-$pageKeywords = "vision improvement surgery in patiala, specs removal operation in patiala, corrective eye surgery in patiala, surgical eye care in patiala";
+$pageTitle = "Eyesight Operation in Patiala | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Patiala – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Patiala region across Punjab.";
+$pageKeywords = "eyesight operation Patiala, LASIK surgery Patiala, vision correction Patiala, remove glasses Patiala, eye surgery Patiala";
 include('header.php');
 ?>
 

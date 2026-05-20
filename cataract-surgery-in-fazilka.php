@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Advanced Cataract Surgery in fazilka – Restore Clear Vision";
-$pageDescription = "Safe and effective cataract surgery in fazilka. Get clear vision again with bladeless technology and expert surgical care.";
-$pageKeywords = "cataract surgery fazilka, motiyabind treatment, eye operation fazilka, lens replacement fazilka, eye surgeon";
+$pageTitle = "Cataract Surgery in Fazilka | Best Cataract Surgeon Near Fazilka – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Fazilka at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Fazilka in Punjab.";
+$pageKeywords = "cataract surgery Fazilka, cataract surgeon Fazilka, cataract operation Fazilka, eye surgeon near Fazilka, cataract hospital Fazilka";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-fazilka.php";
  include 'header.php';
 ?>

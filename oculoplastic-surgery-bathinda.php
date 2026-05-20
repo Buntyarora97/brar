@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic Surgery - Eyelid & Orbit Care in Bathinda";
-$pageDescription = "Comprehensive oculoplastic surgery for eyelid, orbit, and tear duct disorders. Top Rated Eye Care Hospital in Bathinda";
-$pageKeywords = "oculoplastic surgery, eyelid surgery, orbit surgery,  lasik surgery cost";
+$pageTitle = "Oculoplastic Surgery Bathinda | Eyelid, Orbit & Tear Duct Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery at Brar Eye Hospital Bathinda. Treatment for drooping eyelids, orbital tumours, watery eyes, botox and cosmetic eye procedures in Punjab.";
+$pageKeywords = "oculoplastic surgery Bathinda, eyelid surgery Punjab, ptosis surgery Bathinda, orbital surgery Punjab, watery eye treatment Bathinda, cosmetic eye surgery Punjab";
 include('header.php');
 ?>
 

@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Get Treated by Experts for Cataract Surgery in Moga";
-$pageDescription = "Searching for Cataract Surgery in Moga? Visit Brar Eye Hospital – Where every eye is treated with precision, compassion, and latest tools in ophthalmology.";
-$pageKeywords = "phacoemulsification in moga, intraocular lens implant in moga, blurry vision treatment in moga, cloudy lens surgery in moga";
+$pageTitle = "Cataract Surgery in Moga | Best Cataract Surgeon Near Moga – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Moga at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Moga in Punjab.";
+$pageKeywords = "cataract surgery Moga, cataract surgeon Moga, cataract operation Moga, eye surgeon near Moga, cataract hospital Moga";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-moga.php";
  include 'header.php';
 ?>

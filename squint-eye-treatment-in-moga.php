@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Squint eye treatment in Moga | Eye Health Excellence Since 2001";
-$pageDescription = "Trust Brar Eye Hospital for Squint eye treatment in Moga. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "strabismus surgery in moga, squint correction in moga, eye alignment treatment in moga, lazy eye fix in moga";
+$pageTitle = "Squint Eye Treatment in Moga | Strabismus Correction – Brar Eye Hospital";
+$pageDescription = "Get expert squint eye treatment in Moga at Brar Eye Hospital. Safe strabismus correction for children and adults from Moga and nearby cities in Punjab.";
+$pageKeywords = "squint eye treatment Moga, squint surgery Moga, strabismus Moga, crossed eyes treatment Moga, eye specialist Moga";
 $canonicalUrl = "https://brareye.com/squint-eye-treatment-in-moga.php";
  include 'header.php';
 ?>

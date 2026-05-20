@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Glaucoma treatment in Moga – Brar Eye Hospital’s Expertise";
-$pageDescription = "Need Glaucoma treatment in Moga? Brar Eye Hospital ensures ethical practices, fast recovery & transparent pricing with expert eye surgeons on board.";
-$pageKeywords = "eye pressure management in moga, optic nerve protection in moga, trabeculectomy in moga, visual field preservation in moga";
+$pageTitle = "Glaucoma Treatment in Moga | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Moga at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Moga and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Moga, eye pressure Moga, glaucoma specialist near Moga, glaucoma surgery Moga, eye doctor Moga";
 include('header.php');
 ?>
 

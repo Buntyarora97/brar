@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-jalalabad.php
 
-$pageTitle = "Best cornea specialist in Jalalabad | Trusted Cornea Expert for Keratoconus, Infections & Eye Health";
-$pageDescription = "Consult top cornea specialists in Jalalabad for corneal diseases, infections, and keratoconus. Expert diagnosis and treatment available.";
-$pageKeywords = "cornea specialist Jalalabad, keratoconus treatment Jalalabad, corneal infection care Jalalabad, eye health specialist Jalalabad";
+$pageTitle = "Best Cornea Specialist in Jalalabad | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Jalalabad at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Jalalabad and across Punjab.";
+$pageKeywords = "cornea specialist Jalalabad, corneal transplant Jalalabad, keratoconus Jalalabad, cornea doctor Jalalabad, dry eye treatment Jalalabad";
 
 include('header.php');
 ?>

@@ -1,14 +1,37 @@
 User-agent: *
-Disallow:
-
 Allow: /
 
-# Allow important resources
-Allow: /css/
-Allow: /js/
-Allow: /images/
+# Disallow admin and backend areas
+Disallow: /brar-admin/
+Disallow: /contactadmin/
+Disallow: /careerbackend/
+Disallow: /contact_section/
+Disallow: /logs/
+Disallow: /data/
+Disallow: /submissions/
+Disallow: /spam-filter.php
+Disallow: /email-validator.php
+Disallow: /monarx-analyzer.php
+Disallow: /test_mail.php
+Disallow: /final-contact-form-solution.php
+Disallow: /simple-contact-handler.php
+Disallow: /complete_system.php
+Disallow: /view_forms.php
+Disallow: /view_submissions.php
+Disallow: /image_optimizer_auto.php
+Disallow: /move-unused-images.php
+Disallow: /unused-files-finder.php
+Disallow: /replace-images-webp.php
+Disallow: /sendemail.php
+Disallow: /send-appointment.php
+Disallow: /send-newsletter.php
 
-# Allow PHP pages
-Allow: /*.php$
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
 
 Sitemap: https://brareyehospital.com/sitemap.xml

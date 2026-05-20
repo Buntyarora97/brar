@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-moga.php
 
-$pageTitle = "Best cornea specialist in Moga | Eye Health Excellence Since 2001";
-$pageDescription = "Trust Brar Eye Hospital for Best cornea specialist in Moga. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "corneal transplant in moga, keratoconus in moga, dry eye care in moga, corneal infections in moga";
+$pageTitle = "Best Cornea Specialist in Moga | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Moga at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Moga and across Punjab.";
+$pageKeywords = "cornea specialist Moga, corneal transplant Moga, keratoconus Moga, cornea doctor Moga, dry eye treatment Moga";
 
 include('header.php');
 ?>

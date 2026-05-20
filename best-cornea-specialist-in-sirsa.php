@@ -1,9 +1,9 @@
 <?php
 // best-eye-hospital-sirsa.php
 
-$pageTitle = "Best cornea specialist in Sirsa | Advanced Eye Care Solutions";
-$pageDescription = "Your destination for Best cornea specialist in Sirsa – Brar Eye Hospital combines technology with trust to provide safe, accurate, and affordable treatments.";
-$pageKeywords = "corneal transplant in sirsa, keratoconus in sirsa, dry eye care in sirsa, corneal infections in sirsa";
+$pageTitle = "Best Cornea Specialist in Sirsa | Corneal Treatment – Brar Eye Hospital";
+$pageDescription = "Best cornea specialist in Sirsa at Brar Eye Hospital. Advanced corneal transplant, keratoconus treatment and dry eye care for patients from Sirsa and across Punjab.";
+$pageKeywords = "cornea specialist Sirsa, corneal transplant Sirsa, keratoconus Sirsa, cornea doctor Sirsa, dry eye treatment Sirsa";
 
 include('header.php');
 ?>

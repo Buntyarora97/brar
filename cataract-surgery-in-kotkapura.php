@@ -1,8 +1,8 @@
 <?php
 // SEO and Meta Information
-$pageTitle = "Cataract Surgery in Kotkapura | Leading LASIK & Vision Experts";
-$pageDescription = "Need Cataract Surgery in Kotkapura? Brar Eye Hospital ensures ethical practices, fast recovery & transparent pricing with expert eye surgeons on board.";
-$pageKeywords = "phacoemulsification in kotkapura, intraocular lens implant in kotkapura, blurry vision treatment in kotkapura, cloudy lens surgery in kotkapura";
+$pageTitle = "Cataract Surgery in Kotkapura | Best Cataract Surgeon Near Kotkapura – Brar Eye Hospital";
+$pageDescription = "Get affordable cataract surgery near Kotkapura at Brar Eye Hospital. Phacoemulsification, laser cataract and premium IOL implants by expert cataract surgeons serving Kotkapura in Punjab.";
+$pageKeywords = "cataract surgery Kotkapura, cataract surgeon Kotkapura, cataract operation Kotkapura, eye surgeon near Kotkapura, cataract hospital Kotkapura";
 $canonicalUrl = "https://brareye.com/cataract-surgery-in-kotkapura.php";
  include 'header.php';
 ?>

@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Oculoplastic surgery in Sirsa – Brar Eye Hospital’s Expertise";
-$pageDescription = "Trust Brar Eye Hospital for Oculoplastic surgery in Sirsa. From diagnostics to advanced surgical care, experience one-stop solutions for all vision problems.";
-$pageKeywords = "eyelid surgery in sirsa, tear duct surgery in sirsa, ptosis correction in sirsa, eye reconstruction in sirsa";
+$pageTitle = "Oculoplastic Surgery in Sirsa | Eyelid & Orbit Treatment – Brar Eye Hospital";
+$pageDescription = "Expert oculoplastic surgery in Sirsa at Brar Eye Hospital. Treatment for drooping eyelids, orbital diseases, and cosmetic eye procedures for patients from Sirsa region in Punjab.";
+$pageKeywords = "oculoplastic surgery Sirsa, eyelid surgery Sirsa, ptosis treatment Sirsa, orbital surgery Sirsa, eye plastic surgery Sirsa";
 include('header.php');
 ?>
 

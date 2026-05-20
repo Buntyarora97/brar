@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Glaucoma treatment in Sangrur | Advanced Eye Care Solutions";
-$pageDescription = "Glaucoma treatment in Sangrur with personalized care, US FDA-approved tech, & Punjab's most experienced team of ophthalmologists at Brar Eye Hospital.";
-$pageKeywords = "eye pressure management in sangrur, optic nerve protection in sangrur, trabeculectomy in sangrur, visual field preservation in sangrur";
+$pageTitle = "Glaucoma Treatment in Sangrur | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Sangrur at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Sangrur and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Sangrur, eye pressure Sangrur, glaucoma specialist near Sangrur, glaucoma surgery Sangrur, eye doctor Sangrur";
 include('header.php');
 ?>
 

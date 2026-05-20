@@ -1,9 +1,9 @@
     <?php
 
 
-$pageTitle = "Best eye doctor in Malout | Experience Clarity with Us";
-$pageDescription = "Brar Eye Hospital offers the best care for Best eye doctor in Malout using world-class machines, advanced surgical techniques & experienced eye specialists.";
-$pageKeywords = "ophthalmologist near me in malout, top eye MD in malout, eye care specialist in malout, eye clinic in malout";
+$pageTitle = "Best Eye Doctor in Malout | Top Ophthalmologist – Brar Eye Hospital";
+$pageDescription = "Looking for the best eye doctor in Malout? Visit Brar Eye Hospital – trusted by patients from Malout and across Punjab. Expert ophthalmologists for all eye problems.";
+$pageKeywords = "best eye doctor Malout, eye specialist Malout, ophthalmologist Malout, eye hospital near Malout, eye checkup Malout";
 
 include('header.php');
 ?>

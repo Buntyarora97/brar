@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Glaucoma treatment in Jalalabad | Advanced Glaucoma Care with Modern Technology & Expert Surgeons";
-$pageDescription = "Expert glaucoma treatment in Jalalabad with advanced diagnostic tools and surgical options to preserve your eyesight.";
-$pageKeywords = "glaucoma treatment Jalalabad, advanced glaucoma care Jalalabad, glaucoma surgery Jalalabad, glaucoma specialists Jalalabad";
+$pageTitle = "Glaucoma Treatment in Jalalabad | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Jalalabad at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Jalalabad and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Jalalabad, eye pressure Jalalabad, glaucoma specialist near Jalalabad, glaucoma surgery Jalalabad, eye doctor Jalalabad";
 include('header.php');
 ?>
 

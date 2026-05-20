@@ -1,8 +1,8 @@
 
 <?php
-$pageTitle = "Eyesight operation in Malout | Advanced Eye Care Solutions";
-$pageDescription = "Eyesight operation in Malout now made accessible with Brar Eye Hospital's 21+ years of experience, trusted by 1.3L+ patients and backed by cutting-edge laser & diagnostic technology.";
-$pageKeywords = "vision improvement surgery in malout, specs removal operation in malout, corrective eye surgery in malout, surgical eye care in malout";
+$pageTitle = "Eyesight Operation in Malout | LASIK & Vision Correction – Brar Eye Hospital";
+$pageDescription = "Get eyesight operation in Malout – LASIK, SMILE Pro and other vision correction procedures at Brar Eye Hospital. Serving patients from Malout region across Punjab.";
+$pageKeywords = "eyesight operation Malout, LASIK surgery Malout, vision correction Malout, remove glasses Malout, eye surgery Malout";
 include('header.php');
 ?>
 

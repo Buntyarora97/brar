@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Glaucoma Treatment in Fazilka | Protecting Eyesight for Life";
-$pageDescription = "Protect your eyesight with trusted glaucoma treatment and care in Fazilka.";
-$pageKeywords = "Glaucoma specialist Fazilka, Glaucoma surgery Fazilka, Eye doctor Fazilka, Eye hospital Fazilka, Best eye treatment Fazilka";
+$pageTitle = "Glaucoma Treatment in Fazilka | Eye Pressure Specialist – Brar Eye Hospital";
+$pageDescription = "Expert glaucoma treatment in Fazilka at Brar Eye Hospital. Advanced eye pressure management and glaucoma surgery for patients from Fazilka and surrounding areas in Punjab.";
+$pageKeywords = "glaucoma treatment Fazilka, eye pressure Fazilka, glaucoma specialist near Fazilka, glaucoma surgery Fazilka, eye doctor Fazilka";
 include('header.php');
 ?>
 
