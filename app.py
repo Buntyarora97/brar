@@ -12,7 +12,7 @@ app.secret_key = os.environ.get("SESSION_SECRET", "brar-eye-hospital-secret-key"
 # Hospital Configuration
 HOSPITAL_EMAIL = 'brareyehospitals@gmail.com'
 HOSPITAL_NAME = 'Brar Eye Hospital'
-ADMIN_PASSWORD = 'brarhospital2024'
+ADMIN_PASSWORD = os.environ.get("ADMIN_PASSWORD", "brarhospital2024")
 
 # Spam keywords for detection
 SPAM_KEYWORDS = [
@@ -74,7 +74,7 @@ def is_spam(name, email, subject, message):
 def send_to_google_sheets(data):
     """Send form data to Google Sheets via Apps Script"""
     try:
-        google_script_url = 'https://script.google.com/macros/s/AKfycbxNapCeeimE_508QayYbJRsZXLMZivb1S0OvNBvoWPghCnis8p-T5C-NwzB8OYm8uV5HQ/exec'
+        google_script_url = os.environ.get("GOOGLE_SCRIPT_URL_PY", "")
         
         # Prepare data for Google Sheets in the format expected by your script
         sheets_data = {

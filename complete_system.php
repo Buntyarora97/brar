@@ -3,10 +3,10 @@
 session_start();
 
 // Configuration
-define('ADMIN_PASSWORD', 'brarhospital2024');
+define('ADMIN_PASSWORD', getenv('ADMIN_PASSWORD') ?: 'brarhospital2024');
 define('HOSPITAL_NAME', 'Brar Eye Hospital');
 define('HOSPITAL_EMAIL', 'brareyehospitals@gmail.com');
-define('GOOGLE_SCRIPT_URL', 'https://script.google.com/macros/s/AKfycbxNapCeeimE_508QayYbJRsZXLMZivb1S0OvNBvoWPghCnis8p-T5C-NwzB8OYm8uV5HQ/exec');
+define('GOOGLE_SCRIPT_URL', getenv('GOOGLE_SCRIPT_URL') ?: '');
 
 // Spam keywords for detection
 $SPAM_KEYWORDS = [

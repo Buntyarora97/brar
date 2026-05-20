@@ -206,7 +206,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 // Secure admin page to view form submissions
 session_start();
 
-$password = "brarhospital2024"; // Change this password!
+$password = getenv('ADMIN_PASSWORD') ?: 'brarhospital2024';
 
 if (isset($_POST["password"]) && $_POST["password"] == $password) {
     $_SESSION["admin_login"] = true;

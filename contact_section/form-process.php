@@ -13,7 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // GOOGLE reCAPTCHA VERIFY
     // =========================
 
-    $recaptcha_secret = "6Lcr63AsAAAAAI-q0fjoMjeU9NhYrRZT6Rxd8CV-";
+    $recaptcha_secret = getenv('RECAPTCHA_SECRET') ?: '6Lcr63AsAAAAAI-q0fjoMjeU9NhYrRZT6Rxd8CV-';
 
     if (empty($_POST['g-recaptcha-response'])) {
         exit("<script>alert('Please verify captcha.'); window.location.href='/';</script>");
@@ -122,7 +122,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'brareyehospitals@gmail.com';
-        $mail->Password   = 'tphe xpub ajwy dqyi'; // <-- Put NEW Gmail App Password
+        $mail->Password   = getenv('SMTP_PASSWORD') ?: '';
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port       = 587;
 

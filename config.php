@@ -8,7 +8,7 @@ define('HOSPITAL_EMAIL', 'brareyehospitals@gmail.com');
 define('HOSPITAL_NAME', 'Brar Eye Hospital');
 
 // Google Apps Script Configuration
-define('GOOGLE_SCRIPT_URL', 'https://script.google.com/macros/s/AKfycbx4snXOIzKQPWA717f7q8S9X39Bzmft4qR_pTr7jsrod_VilfAn_gK3HoxD4ojr5uUnGg/exec ');
+define('GOOGLE_SCRIPT_URL', getenv('GOOGLE_SCRIPT_URL') ?: '');
 
 // Spam Protection Settings
 define('RATE_LIMIT_WINDOW', 300); // 5 minutes
@@ -16,7 +16,7 @@ define('RATE_LIMIT_ATTEMPTS', 3);
 define('SPAM_SCORE_THRESHOLD', 5);
 
 // Admin Panel Configuration
-define('ADMIN_PASSWORD', 'brarhospital2024'); // Change this password!
+define('ADMIN_PASSWORD', getenv('ADMIN_PASSWORD') ?: 'brarhospital2024');
 
 // File Paths
 define('SUBMISSIONS_DIR', 'submissions/');

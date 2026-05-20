@@ -1,10 +1,11 @@
-modules = ["php-8.2", "web", "nodejs-20", "python-3.12"]
+modules = ["php-8.2", "web", "nodejs-20", "python-3.11"]
 [agent]
 expertMode = true
-stack = "BEST_EFFORT_FALLBACK"
+stack = "FLASK_VANILLA_JS"
 
 [nix]
 channel = "stable-25_05"
+packages = ["openssl", "postgresql"]
 
 [workflows]
 runButton = "Project"
@@ -36,4 +37,10 @@ externalPort = 80
 
 [deployment]
 deploymentTarget = "autoscale"
-run = ["php", "-S", "0.0.0.0:5000"]
+run = ["gunicorn", "--bind", "0.0.0.0:5000", "main:app"]
+
+[userenv]
+
+[userenv.shared]
+HOSPITAL_EMAIL = "brareyehospitals@gmail.com"
+HOSPITAL_NAME = "Brar Eye Hospital"

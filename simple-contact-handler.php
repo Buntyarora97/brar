@@ -181,7 +181,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     @file_put_contents($backup_file, $backup_content, FILE_APPEND);
     
     // Google Sheets submission (optional)
-    $google_script_url = 'https://script.google.com/macros/s/AKfycbxNapCeeimE_508QayYbJRsZXLMZivb1S0OvNBvoWPghCnis8p-T5C-NwzB8OYm8uV5HQ/exec';
+    $google_script_url = getenv('GOOGLE_SCRIPT_URL') ?: '';
     
     $sheets_data = json_encode([
         'username' => $name,
