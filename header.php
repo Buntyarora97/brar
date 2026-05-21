@@ -877,12 +877,18 @@
       BRAR EYE HOSPITAL
     </div>
 
-    <!-- Right: Button + NABH -->
+    <!-- Right: Button + NABH + Hamburger -->
     <div class="brareye123-right">
-      <a href="contact-brar-eye-hospital-bathinda.php" class="brareye123-btn">Book An Appointment</a>
+      <a href="contact-brar-eye-hospital-bathinda.php" class="brareye123-btn brareye123-appt-btn">Book An Appointment</a>
       <div class="brareye123-nabh">
         <img src="assets/images/nabh-logo.webp" alt="NABH Accredited" />
       </div>
+      <!-- Mobile Hamburger -->
+      <button class="brar-hamburger mobile-nav-toggler" id="brarHamburgerBtn" aria-label="Open Menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
     </div>
 
   </div>
@@ -962,20 +968,78 @@
   display: block;
 }
 
-/* RESPONSIVE */
-@media (max-width: 992px) {
-  .brareye123-title { font-size: 30px; }
-  .brareye123-logo img { height: 64px; width: 64px; }
-  .brareye123-nabh img { height: 54px; }
-  .brareye123-btn { font-size: 14px; padding: 10px 16px; }
+/* HAMBURGER BUTTON */
+.brar-hamburger {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  background: none;
+  border: 2px solid #1dd2c3;
+  border-radius: 8px;
+  padding: 8px 10px;
+  cursor: pointer;
+  width: 46px;
+  height: 46px;
+  flex-shrink: 0;
+}
+.brar-hamburger span {
+  display: block;
+  width: 22px;
+  height: 3px;
+  background: #0e5c8a;
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+.brar-hamburger:hover {
+  border-color: #f17732;
+}
+.brar-hamburger:hover span {
+  background: #f17732;
 }
 
-@media (max-width: 640px) {
-  .brareye123-inner { flex-wrap: wrap; justify-content: center; text-align: center; }
-  .brareye123-title { font-size: 24px; letter-spacing: 1px; width: 100%; text-align: center; }
-  .brareye123-right { justify-content: center; }
+/* RESPONSIVE */
+@media (max-width: 1199px) {
+  .brar-hamburger { display: flex !important; }
+  .brareye123-title { font-size: 28px; }
+  .brareye123-logo img { height: 64px; width: 64px; }
+  .brareye123-nabh img { height: 54px; }
+  .brareye123-appt-btn { display: none !important; }
+}
+
+@media (max-width: 767px) {
+  .brareye123-header { padding: 8px 14px; }
+  .brareye123-inner { gap: 10px; }
+  .brareye123-title { font-size: 20px; letter-spacing: 0.5px; }
+  .brareye123-logo img { height: 52px; width: 52px; }
+  .brareye123-nabh { display: none; }
+  .brar-hamburger { width: 42px; height: 42px; }
+}
+
+@media (max-width: 400px) {
+  .brareye123-title { font-size: 16px; letter-spacing: 0; }
+  .brareye123-logo img { height: 44px; width: 44px; }
 }
 </style>
+
+<script>
+// Hamburger close button inside mobile menu
+document.addEventListener('DOMContentLoaded', function() {
+  var closeBtn = document.querySelector('.mobile-menu .close-btn');
+  var backdrop = document.querySelector('.mobile-menu .menu-backdrop');
+  if (closeBtn) {
+    closeBtn.addEventListener('click', function() {
+      document.querySelector('body').classList.remove('mobile-menu-visible');
+    });
+  }
+  if (backdrop) {
+    backdrop.addEventListener('click', function() {
+      document.querySelector('body').classList.remove('mobile-menu-visible');
+    });
+  }
+});
+</script>
 
 
             <div class="header-buttom">

@@ -137,64 +137,49 @@ include('header.php');
 </div>
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-  {"@type":"Question","name":"Can I get LASIK done in Kotkapura itself?","acceptedAnswer":{"@type":"Answer","text":"Brar Eye Hospital has a branch in Kotkapura for consultations and follow-up. Surgery is done at our Bathinda centre (40 km away)."}},
-  {"@type":"Question","name":"How long do I need to stay in Bathinda for LASIK?","acceptedAnswer":{"@type":"Answer","text":"Only the day of surgery. Most Kotkapura patients travel to Bathinda in the morning and return home the same evening."}}
-]}
-</script>
-
-
-<script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://brareyehospital.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "LASIK Surgery",
-      "item": "https://brareyehospital.com/lasik-bathinda.php"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "LASIK Surgery in Kotkapura",
-      "item": "https://brareyehospital.com/lasik-surgery-in-kotkapura.php"
-    }
-  ]
+  "@type": "MedicalProcedure",
+  "name": "LASIK Surgery in Kotkapura",
+  "url": "https://brareyehospital.com/lasik-surgery-in-kotkapura.php",
+  "description": "LASIK laser eye surgery for patients from Kotkapura at Brar Eye Hospital. Free consultation at Kotkapura branch; surgery at our advanced Bathinda centre.",
+  "procedureType": "https://schema.org/SurgicalProcedure",
+  "bodyLocation": "Eye",
+  "howPerformed": "Laser-Assisted In Situ Keratomileusis (LASIK) – a 10-minute laser procedure that permanently corrects vision defects.",
+  "preparation": "Stop wearing contact lenses 1–2 weeks before evaluation. Bring spectacles. No eye makeup on surgery day.",
+  "followup": "1 day, 1 week, and 1 month post-operative follow-up at Kotkapura or Bathinda branch.",
+  "status": "EventScheduled",
+  "performer": {
+    "@type": "MedicalOrganization",
+    "name": "Brar Eye Hospital",
+    "url": "https://brareyehospital.com",
+    "telephone": "+91-7218272182",
+    "address": [
+      {"@type":"PostalAddress","streetAddress":"Kotkapura","addressLocality":"Kotkapura","addressRegion":"Punjab","addressCountry":"IN"},
+      {"@type":"PostalAddress","streetAddress":"Rose Garden Chowk","addressLocality":"Bathinda","addressRegion":"Punjab","postalCode":"151001","addressCountry":"IN"}
+    ]
+  }
 }
 </script>
 
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+  {"@type":"Question","name":"Can I get LASIK done in Kotkapura itself?","acceptedAnswer":{"@type":"Answer","text":"Brar Eye Hospital has a dedicated branch in Kotkapura for consultations, evaluation, and post-surgery follow-up. The actual LASIK surgery is performed at our fully equipped Bathinda centre, approximately 40 km away."}},
+  {"@type":"Question","name":"How long do I need to stay in Bathinda for LASIK surgery?","acceptedAnswer":{"@type":"Answer","text":"Only the day of surgery. Most Kotkapura patients travel to Bathinda in the morning, complete the 10-minute procedure, rest for 2–3 hours, and return home the same evening. No overnight stay is needed."}},
+  {"@type":"Question","name":"Is LASIK surgery safe for Kotkapura patients?","acceptedAnswer":{"@type":"Answer","text":"Yes. Brar Eye Hospital has performed over 10,000 successful LASIK surgeries since being the first to introduce LASIK in the Malwa region. The hospital is NABH accredited with a 99.2% patient satisfaction rate."}},
+  {"@type":"Question","name":"What is the age requirement for LASIK in Kotkapura?","acceptedAnswer":{"@type":"Answer","text":"Minimum age is 18 years. We recommend 21+ years for stable prescription. A free pre-LASIK evaluation at our Kotkapura branch determines your suitability."}},
+  {"@type":"Question","name":"Does Brar Eye Hospital have a branch in Kotkapura?","acceptedAnswer":{"@type":"Answer","text":"Yes. Brar Eye Hospital has a fully functional branch in Kotkapura, Faridkot District, Punjab, open Monday to Saturday 8:00 AM – 4:00 PM. Call +91 72182-72182 for appointments."}}
+]}
+</script>
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://brareyehospital.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "LASIK Surgery",
-      "item": "https://brareyehospital.com/lasik-bathinda.php"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "LASIK Surgery in Kotkapura",
-      "item": "https://brareyehospital.com/lasik-surgery-in-kotkapura.php"
-    }
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://brareyehospital.com/"},
+    {"@type":"ListItem","position":2,"name":"LASIK Surgery","item":"https://brareyehospital.com/lasik-bathinda.php"},
+    {"@type":"ListItem","position":3,"name":"LASIK Surgery in Kotkapura","item":"https://brareyehospital.com/lasik-surgery-in-kotkapura.php"}
   ]
 }
 </script>

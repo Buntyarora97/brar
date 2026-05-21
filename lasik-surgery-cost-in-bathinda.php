@@ -150,64 +150,22 @@ include('header.php');
 
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-  {"@type":"Question","name":"What is the cheapest LASIK surgery cost in Bathinda?","acceptedAnswer":{"@type":"Answer","text":"Standard LASIK at Brar Eye Hospital starts from approximately ₹20,000–35,000 for both eyes. The best procedure is determined after a free evaluation."}},
-  {"@type":"Question","name":"Does LASIK cost cover both eyes?","acceptedAnswer":{"@type":"Answer","text":"Yes, all LASIK pricing at Brar Eye Hospital Bathinda is quoted for both eyes together with no extra charge per eye."}},
-  {"@type":"Question","name":"Is there EMI available for LASIK in Bathinda?","acceptedAnswer":{"@type":"Answer","text":"Yes, Brar Eye Hospital offers easy EMI plans starting from approximately ₹2,000–3,000 per month through leading banks."}}
+  {"@type":"Question","name":"What is the LASIK surgery cost in Bathinda 2025?","acceptedAnswer":{"@type":"Answer","text":"LASIK surgery cost in Bathinda at Brar Eye Hospital starts from approximately ₹20,000–35,000 for standard LASIK (both eyes). SMILE Pro costs ₹80,000–1,00,000 and Contoura Vision ₹55,000–75,000. Exact cost is given after a free pre-LASIK evaluation."}},
+  {"@type":"Question","name":"Does LASIK cost in Bathinda cover both eyes?","acceptedAnswer":{"@type":"Answer","text":"Yes. All LASIK pricing at Brar Eye Hospital Bathinda is quoted for both eyes together with no hidden charges."}},
+  {"@type":"Question","name":"Is EMI available for LASIK surgery in Bathinda?","acceptedAnswer":{"@type":"Answer","text":"Yes. Brar Eye Hospital offers easy EMI plans starting from approximately ₹2,000–3,000 per month through leading banks."}},
+  {"@type":"Question","name":"Is LASIK surgery cost in Bathinda affordable compared to Chandigarh?","acceptedAnswer":{"@type":"Answer","text":"Yes. LASIK surgery at Brar Eye Hospital Bathinda is significantly more affordable than Chandigarh or Delhi, without compromise on quality. The hospital uses the same advanced laser technology with 21+ years of experience."}},
+  {"@type":"Question","name":"Does the LASIK cost include pre-surgery evaluation and follow-up?","acceptedAnswer":{"@type":"Answer","text":"Yes. The quoted LASIK cost includes pre-surgery evaluation, the procedure itself, and post-operative follow-up visits. Medicines may be charged separately."}}
 ]}
 </script>
 
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://brareyehospital.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "LASIK Surgery",
-      "item": "https://brareyehospital.com/lasik-bathinda.php"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "LASIK Surgery Cost Bathinda",
-      "item": "https://brareyehospital.com/lasik-surgery-cost-in-bathinda.php"
-    }
-  ]
-}
-</script>
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://brareyehospital.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "LASIK Surgery",
-      "item": "https://brareyehospital.com/lasik-bathinda.php"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "LASIK Surgery Cost Bathinda",
-      "item": "https://brareyehospital.com/lasik-surgery-cost-in-bathinda.php"
-    }
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://brareyehospital.com/"},
+    {"@type":"ListItem","position":2,"name":"LASIK Surgery","item":"https://brareyehospital.com/lasik-bathinda.php"},
+    {"@type":"ListItem","position":3,"name":"LASIK Surgery Cost Bathinda","item":"https://brareyehospital.com/lasik-surgery-cost-in-bathinda.php"}
   ]
 }
 </script>

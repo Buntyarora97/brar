@@ -136,64 +136,22 @@ include('header.php');
 
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
-  {"@type":"Question","name":"Is LASIK surgery cost in Kotkapura different from Bathinda?","acceptedAnswer":{"@type":"Answer","text":"No. Brar Eye Hospital charges the same LASIK prices for all patients. No extra charges for Kotkapura patients."}},
-  {"@type":"Question","name":"Do I need to stay overnight in Bathinda after LASIK surgery?","acceptedAnswer":{"@type":"Answer","text":"No. LASIK is a day procedure. You can travel back to Kotkapura the same evening."}},
-  {"@type":"Question","name":"Is EMI available for LASIK surgery for Kotkapura patients?","acceptedAnswer":{"@type":"Answer","text":"Yes, EMI options starting from approximately ₹2,000–3,000 per month are available."}}
+  {"@type":"Question","name":"What is the LASIK surgery cost for Kotkapura patients in 2025?","acceptedAnswer":{"@type":"Answer","text":"LASIK surgery cost for Kotkapura patients at Brar Eye Hospital starts from ₹20,000–35,000 (both eyes). There are NO extra charges for Kotkapura patients — same price as Bathinda patients."}},
+  {"@type":"Question","name":"Is LASIK surgery cost in Kotkapura different from Bathinda?","acceptedAnswer":{"@type":"Answer","text":"No. Brar Eye Hospital charges the same LASIK prices for all patients regardless of which branch they are from. No extra charges for Kotkapura patients."}},
+  {"@type":"Question","name":"Do I need to stay overnight in Bathinda for LASIK surgery?","acceptedAnswer":{"@type":"Answer","text":"No. LASIK is a day procedure. Kotkapura patients travel to Bathinda in the morning, complete the surgery, and return home the same evening."}},
+  {"@type":"Question","name":"Is EMI available for LASIK surgery for Kotkapura patients?","acceptedAnswer":{"@type":"Answer","text":"Yes. EMI options starting from approximately ₹2,000–3,000 per month through leading banks are available for all patients including those from Kotkapura."}},
+  {"@type":"Question","name":"Where exactly is Brar Eye Hospital near Kotkapura?","acceptedAnswer":{"@type":"Answer","text":"Brar Eye Hospital has a branch directly in Kotkapura for consultations and follow-up. Advanced LASIK surgery is performed at the main centre in Bathinda, approximately 40 km from Kotkapura."}}
 ]}
 </script>
 
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://brareyehospital.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "LASIK Surgery",
-      "item": "https://brareyehospital.com/lasik-bathinda.php"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "LASIK Surgery Cost Kotkapura",
-      "item": "https://brareyehospital.com/lasik-surgery-cost-in-kotkapura.php"
-    }
-  ]
-}
-</script>
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://brareyehospital.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "LASIK Surgery",
-      "item": "https://brareyehospital.com/lasik-bathinda.php"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "LASIK Surgery Cost Kotkapura",
-      "item": "https://brareyehospital.com/lasik-surgery-cost-in-kotkapura.php"
-    }
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://brareyehospital.com/"},
+    {"@type":"ListItem","position":2,"name":"LASIK Surgery","item":"https://brareyehospital.com/lasik-bathinda.php"},
+    {"@type":"ListItem","position":3,"name":"LASIK Surgery Cost Kotkapura","item":"https://brareyehospital.com/lasik-surgery-cost-in-kotkapura.php"}
   ]
 }
 </script>

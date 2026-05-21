@@ -59,8 +59,8 @@ border:1px solid #eee;
         <!-- Doctor & Branch -->
         <div style="display:flex; gap:15px; flex-wrap:wrap;">
 
-            <select name="doctor" required
-            style="flex:1; min-width:200px; padding:14px; border:1px solid #ddd; border-radius:8px; background:#f9f9f9; font-size:14px; outline:none;">
+            <select name="doctor" required class="ignore"
+            style="flex:1; min-width:200px; padding:14px; border:1px solid #ddd; border-radius:8px; background:#f9f9f9; font-size:14px; outline:none; appearance:auto; -webkit-appearance:auto; cursor:pointer;">
 
                 <option value="" disabled selected>Choose Doctor</option>
 
@@ -74,8 +74,8 @@ border:1px solid #eee;
 
             </select>
 
-            <select name="branch" required
-            style="flex:1; min-width:200px; padding:14px; border:1px solid #ddd; border-radius:8px; background:#f9f9f9; font-size:14px; outline:none;">
+            <select name="branch" required class="ignore"
+            style="flex:1; min-width:200px; padding:14px; border:1px solid #ddd; border-radius:8px; background:#f9f9f9; font-size:14px; outline:none; appearance:auto; -webkit-appearance:auto; cursor:pointer;">
 
                 <option value="" disabled selected>Select Branch</option>
                 <option value="Kotkapura">Kotkapura</option>

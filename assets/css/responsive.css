@@ -921,3 +921,277 @@
   }
 
 }
+
+/* ===================================================
+   BRAR EYE HOSPITAL – COMPREHENSIVE MOBILE FIXES
+   =================================================== */
+
+/* Fix overflow on ALL pages */
+@media only screen and (max-width: 1199px) {
+  html, body { overflow-x: hidden !important; }
+  .header-buttom { display: none !important; }
+  .sticky-header { display: none !important; }
+}
+
+/* ---- 767px and below ---- */
+@media only screen and (max-width: 767px) {
+  html, body { overflow-x: hidden !important; }
+
+  /* Remove horizontal overflow from all containers */
+  .auto-container,
+  .container,
+  [class*="container"] {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+  }
+
+  /* ---- ALL ROWS STACK ON MOBILE ---- */
+  .row { margin-left: 0 !important; margin-right: 0 !important; }
+  .row > [class*="col-"] {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: 0 0 100% !important;
+  }
+
+  /* ---- IMAGES ---- */
+  img { max-width: 100% !important; height: auto !important; }
+  figure img { width: 100% !important; height: auto !important; }
+
+  /* ---- CATARACT PAGE & SERVICE PAGES ---- */
+  .service-detail .content-side,
+  .service-detail .image-side,
+  .service-detail .content_block,
+  .content_block_one,
+  .content_block_two,
+  .content_block_three,
+  .content_block_four,
+  .content_block_five,
+  .content_block_six,
+  .content_block_seven,
+  .content_block_eight,
+  .content_block_nine {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 0 15px !important;
+    overflow: hidden !important;
+  }
+
+  .content_block_one .content-box,
+  .content_block_two .content-box,
+  .content_block_three .content-box,
+  .content_block_four .content-box,
+  .content_block_five .content-box,
+  .content_block_six .content-box,
+  .content_block_seven .content-box,
+  .content_block_eight .content-box {
+    margin: 0 0 25px 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Fix list items inside service blocks */
+  .service-detail .list-style-one li,
+  .content_block_one .list-style-one li {
+    width: 100% !important;
+    display: block !important;
+    padding: 6px 0 !important;
+    font-size: 14px !important;
+    line-height: 1.6 !important;
+  }
+
+  /* Fix two-column feature boxes */
+  .single-column,
+  .feature-column,
+  .two-column .column {
+    width: 100% !important;
+    float: none !important;
+    display: block !important;
+  }
+
+  /* ---- MISSION / VISION / ABOUT SECTION ---- */
+  .about-section .image-column,
+  .chooseus-section .image-column,
+  .chooseus-style-two .image-column,
+  .about-style-two .image-column {
+    position: relative !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-bottom: 20px !important;
+  }
+
+  .about-section .content-column,
+  .chooseus-section .content-column,
+  .chooseus-style-two .content-column,
+  .about-style-two .content-column {
+    position: relative !important;
+    width: 100% !important;
+    z-index: 2 !important;
+    background: rgba(255,255,255,0.97) !important;
+    padding: 20px 15px !important;
+    margin: 0 !important;
+  }
+
+  /* Fix mission/vision text overlapping image */
+  .mission-section,
+  .vision-section,
+  [class*="mission"],
+  [class*="vision"] {
+    position: relative !important;
+    overflow: visible !important;
+  }
+  .mission-section p,
+  .vision-section p {
+    position: relative !important;
+    z-index: 5 !important;
+    background: rgba(255,255,255,0.95) !important;
+    padding: 5px 8px !important;
+    border-radius: 4px !important;
+  }
+
+  /* ---- HOMEPAGE FEATURES / WHY CHOOSE US ---- */
+  .why-section .inner-box,
+  .feature-block-one .inner-box,
+  .feature-block-two .inner-box,
+  .chooseus-section .inner-box {
+    margin-bottom: 20px !important;
+  }
+
+  /* Fix floating services text on homepage */
+  .service-block-one,
+  .service-block-two {
+    width: 100% !important;
+    float: none !important;
+    margin-bottom: 20px !important;
+  }
+
+  /* ---- BANNERS ---- */
+  .banner-carousel .content-box h2 {
+    font-size: 26px !important;
+    line-height: 34px !important;
+  }
+  .banner-carousel .content-box {
+    padding: 30px 20px !important;
+  }
+
+  /* ---- SECTION TITLES ---- */
+  .sec-title h2 {
+    font-size: 24px !important;
+    line-height: 32px !important;
+  }
+  .sec-title .sub-title {
+    font-size: 40px !important;
+    line-height: 44px !important;
+  }
+
+  /* ---- BUTTONS ---- */
+  .theme-btn {
+    padding: 12px 20px !important;
+    font-size: 14px !important;
+  }
+
+  /* ---- APPOINTMENT SECTION ---- */
+  #brar-contact-section {
+    margin: 20px 10px !important;
+    border-radius: 10px !important;
+  }
+  #brar-contact-section > div {
+    flex-direction: column !important;
+  }
+  #brar-contact-section > div > div:first-child {
+    padding: 25px 18px !important;
+  }
+  #brar-contact-section select,
+  #brar-contact-section input,
+  #brar-contact-section textarea {
+    width: 100% !important;
+    min-width: unset !important;
+    box-sizing: border-box !important;
+  }
+  #brar-contact-section > div > div[style*="flex-direction:column"] > div[style*="display:flex"] {
+    flex-direction: column !important;
+    gap: 12px !important;
+  }
+
+  /* ---- FOOTER ---- */
+  .main-footer .footer-widget {
+    margin: 0 0 25px 0 !important;
+  }
+
+  /* ---- FLOATING BUTTONS ---- */
+  .floating-buttons {
+    right: 10px !important;
+    bottom: 15px !important;
+  }
+  .float-btn {
+    width: 46px !important;
+    height: 46px !important;
+  }
+
+  /* ---- FIX ABSOLUTE POSITIONED ELEMENTS ---- */
+  .sec-title .sub-title {
+    position: absolute !important;
+    opacity: 0.07 !important;
+    pointer-events: none !important;
+  }
+
+  /* ---- PREVENT TEXT OVERFLOW ---- */
+  p, h1, h2, h3, h4, h5, li, a, span {
+    overflow-wrap: break-word !important;
+    word-wrap: break-word !important;
+  }
+
+  /* ---- LASIK / SEO PAGES ---- */
+  .lasik-hero h1,
+  .lk-hero h1,
+  .cost-hero h1,
+  .hero h1 {
+    font-size: 28px !important;
+    line-height: 36px !important;
+  }
+  .lasik-hero p,
+  .lk-hero p,
+  .cost-hero p {
+    font-size: 15px !important;
+  }
+  .btn-orange, .btn-white, .btn-o, .btn-w {
+    padding: 12px 20px !important;
+    font-size: 14px !important;
+    display: block !important;
+    text-align: center !important;
+    margin: 8px auto !important;
+    max-width: 280px !important;
+  }
+  .trust-bar {
+    gap: 16px !important;
+    padding: 12px 16px !important;
+  }
+  .grid3, .grid {
+    grid-template-columns: 1fr !important;
+  }
+  .cost-table { font-size: 13px !important; }
+  .cost-table th, .cost-table td { padding: 8px 10px !important; }
+}
+
+/* ---- Extra small: 480px and below ---- */
+@media only screen and (max-width: 480px) {
+  .brareye123-header { padding: 6px 10px !important; }
+  .brareye123-inner { gap: 8px !important; }
+  .brareye123-title { font-size: 17px !important; }
+  .brareye123-logo img { height: 42px !important; width: 42px !important; }
+
+  /* Cataract list items - fix wrapping */
+  .list-style-one li a {
+    font-size: 13px !important;
+    line-height: 1.5 !important;
+  }
+
+  /* Section hero headings */
+  .page-title h1,
+  .page-title .content-box h1 {
+    font-size: 24px !important;
+    line-height: 32px !important;
+  }
+}
