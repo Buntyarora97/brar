@@ -219,8 +219,14 @@ include('header.php');
   }
   ?>
 
+  <!-- Internal link to comparison page -->
+  <div style="background:#f0f7ff;border-radius:12px;padding:22px 26px;margin:40px 0;border-left:5px solid #0e5c8a">
+    <strong style="color:#0e5c8a;font-size:15px">Comparing costs before deciding?</strong>
+    <p style="margin:6px 0 0;font-size:14px;color:#555">See our detailed <a href="lasik-surgery-cost-comparison-punjab.php" style="color:#f17732;font-weight:700">LASIK Cost Comparison: Bathinda vs Chandigarh vs Delhi 2025</a> — same quality, up to 60% lower cost in Bathinda.</p>
+  </div>
+
   <!-- CTA -->
-  <div class="cta-box" style="margin-top:50px">
+  <div class="cta-box" style="margin-top:30px">
     <h2 style="font-size:32px;margin-bottom:12px;color:#fff">Ready for LASIK Surgery in Bathinda?</h2>
     <p style="font-size:17px;margin-bottom:28px;max-width:550px;margin-left:auto;margin-right:auto">Book your FREE pre-LASIK evaluation today. Our expert surgeons will assess your eyes and tell you exactly which procedure is best for you.</p>
     <a href="contact-brar-eye-hospital-bathinda.php" class="btn-orange" style="margin-right:12px;font-size:17px">Book FREE Consultation</a>
@@ -268,52 +274,9 @@ include('header.php');
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://brareyehospital.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "LASIK Surgery",
-      "item": "https://brareyehospital.com/lasik-bathinda.php"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "LASIK Surgery in Bathinda",
-      "item": "https://brareyehospital.com/lasik-surgery-in-bathinda.php"
-    }
-  ]
-}
-</script>
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://brareyehospital.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "LASIK Surgery",
-      "item": "https://brareyehospital.com/lasik-bathinda.php"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "LASIK Surgery in Bathinda",
-      "item": "https://brareyehospital.com/lasik-surgery-in-bathinda.php"
-    }
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://brareyehospital.com/"},
+    {"@type":"ListItem","position":2,"name":"LASIK Surgery","item":"https://brareyehospital.com/lasik-bathinda.php"},
+    {"@type":"ListItem","position":3,"name":"LASIK Surgery in Bathinda","item":"https://brareyehospital.com/lasik-surgery-in-bathinda.php"}
   ]
 }
 </script>

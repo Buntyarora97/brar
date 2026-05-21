@@ -140,6 +140,12 @@ include('header.php');
   }
   ?>
 
+  <!-- Internal link to comparison page -->
+  <div style="background:#f0f7ff;border-radius:12px;padding:20px 24px;margin-bottom:30px;border-left:5px solid #0e5c8a">
+    <strong style="color:#0e5c8a;font-size:15px">Comparing with Chandigarh or Delhi?</strong>
+    <p style="margin:6px 0 0;font-size:14px;color:#555">See our full <a href="lasik-surgery-cost-comparison-punjab.php" style="color:#f17732;font-weight:700">LASIK Surgery Cost Comparison: Bathinda vs Chandigarh vs Delhi 2025</a> — why patients save ₹30,000–60,000 by choosing Bathinda.</p>
+  </div>
+
   <div class="cta">
     <h2 style="font-size:30px;margin-bottom:12px;color:#fff">Get Your Personalised LASIK Cost in Bathinda</h2>
     <p style="font-size:16px;margin-bottom:25px">Book a free eye evaluation and get an exact cost quote for the best LASIK procedure for your eyes.</p>
